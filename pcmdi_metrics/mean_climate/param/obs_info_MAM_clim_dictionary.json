@@ -1,0 +1,1505 @@
+{
+    "evspsbl": {
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.evspsbl.198501-200612.MAM.v20240701.nc",
+            "varin": "F_evap"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.evspsbl.198501-201412.MAM.v20240701.nc",
+            "varin": "evspsbl"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.evspsbl.198501-201412.MAM.v20240701.nc",
+            "varin": "QFLX"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "OAFlux",
+            "RefName": "OAFlux",
+            "period": "198501-201312",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.OAFlux.en00.mon.evspsbl.198501-201312.MAM.v20240701.nc",
+            "varin": "QFLX"
+        },
+        "alternate": "COREv2-Flux",
+        "alternate1": "ERA5-HRES",
+        "alternate3": "NOAA-20C",
+        "default": "OAFlux"
+    },
+    "hfls": {
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.hfls.198501-200612.MAM.v20240701.nc",
+            "varin": "Q_lat"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.hfls.198501-201412.MAM.v20240701.nc",
+            "varin": "hfls"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.hfls.198501-201412.MAM.v20240701.nc",
+            "varin": "LHFLX"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.hfls.198501-201412.MAM.v20240701.nc",
+            "varin": "hfls"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.hfls.198501-201412.MAM.v20240701.nc",
+            "varin": "hfls"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.hfls.198501-201412.MAM.v20240701.nc",
+            "varin": "LHFLX"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "OAFlux",
+            "RefName": "OAFlux",
+            "period": "198501-201312",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.OAFlux.en00.mon.hfls.198501-201312.MAM.v20240701.nc",
+            "varin": "LHFLX"
+        },
+        "alternate": "COREv2-Flux",
+        "alternate1": "ERA5-HRES",
+        "alternate2": "ERA5",
+        "alternate3": "MERRA2",
+        "alternate4": "ERA-Interim",
+        "alternate5": "NOAA-20C",
+        "default": "OAFlux"
+    },
+    "hfss": {
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.hfss.198501-200612.MAM.v20240701.nc",
+            "varin": "Q_sen"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.hfss.198501-201412.MAM.v20240701.nc",
+            "varin": "hfss"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.hfss.198501-201412.MAM.v20240701.nc",
+            "varin": "SHFLX"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.hfss.198501-201412.MAM.v20240701.nc",
+            "varin": "hfss"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.hfss.198501-201412.MAM.v20240701.nc",
+            "varin": "hfss"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.hfss.198501-201412.MAM.v20240701.nc",
+            "varin": "SHFLX"
+        },
+        "alternate": "COREv2-Flux",
+        "alternate1": "ERA5-HRES",
+        "alternate2": "ERA5",
+        "alternate3": "MERRA2",
+        "alternate4": "ERA-Interim",
+        "alternate5": "NOAA-20C"
+    },
+    "pr": {
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.pr.198501-200612.MAM.v20240701.nc",
+            "varin": "F_prec"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.pr.198501-201412.MAM.v20240701.nc",
+            "varin": "pr"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.pr.198501-201412.MAM.v20240701.nc",
+            "varin": "PRECT"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.pr.198501-201412.MAM.v20240701.nc",
+            "varin": "pr"
+        },
+        "GPCP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "GPCP",
+            "RefName": "GPCP_v2.3",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.GPCP_v2.3.en00.mon.pr.198501-201412.MAM.v20240701.nc",
+            "varin": "PRECT"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.pr.198501-201412.MAM.v20240701.nc",
+            "varin": "pr"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.pr.198501-201412.MAM.v20240701.nc",
+            "varin": "PRECT"
+        },
+        "alternate": "GPCP",
+        "alternate2": "ERA5-HRES",
+        "alternate3": "ERA5",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "alternate7": "COREv2-Flux",
+        "default": "GPCP"
+    },
+    "prsn": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.prsn.198501-201412.MAM.v20240701.nc",
+            "varin": "PRECST"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.prsn.198501-201412.MAM.v20240701.nc",
+            "varin": "prsn"
+        },
+        "alternate": "ERA5",
+        "default": "ERA5-HRES"
+    },
+    "prw": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.prw.198501-201412.MAM.v20240701.nc",
+            "varin": "prw"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.prw.198501-201412.MAM.v20240701.nc",
+            "varin": "TMQ"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.prw.198501-201412.MAM.v20240701.nc",
+            "varin": "prw"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.prw.198501-201412.MAM.v20240701.nc",
+            "varin": "prw"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.prw.198501-201412.MAM.v20240701.nc",
+            "varin": "TMQ"
+        },
+        "alternate": "ERA5",
+        "alternate1": "MERRA2",
+        "alternate2": "ERA-Interim",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5-HRES"
+    },
+    "psl": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.psl.198501-201412.MAM.v20240701.nc",
+            "varin": "psl"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.psl.198501-201412.MAM.v20240701.nc",
+            "varin": "PSL"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.psl.198501-201412.MAM.v20240701.nc",
+            "varin": "psl"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.psl.198501-201412.MAM.v20240701.nc",
+            "varin": "psl"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.psl.198501-201412.MAM.v20240701.nc",
+            "varin": "PSL"
+        },
+        "alternate": "ERA5",
+        "alternate1": "MERRA2",
+        "alternate2": "ERA-Interim",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5-HRES"
+    },
+    "rlds": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rlds.200101-201412.MAM.v20240701.nc",
+            "varin": "rlds"
+        },
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.rlds.198501-200612.MAM.v20240701.nc",
+            "varin": "Q_lwdn"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rlds.198501-201412.MAM.v20240701.nc",
+            "varin": "rlds"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.rlds.198501-201412.MAM.v20240701.nc",
+            "varin": "FLDS"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rlds.198501-201412.MAM.v20240701.nc",
+            "varin": "rlds"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rlds.198501-201412.MAM.v20240701.nc",
+            "varin": "rlds"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rlds.198501-201412.MAM.v20240701.nc",
+            "varin": "FLDS"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate3": "ERA5",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "alternate7": "COREv2-Flux",
+        "default": "CERES-EBAF"
+    },
+    "rldscs": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rldscs.200101-201412.MAM.v20240701.nc",
+            "varin": "rldscs"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.rldscs.198501-201412.MAM.v20240701.nc",
+            "varin": "FLDSC"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rldscs.198501-201412.MAM.v20240701.nc",
+            "varin": "FLDSC"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate3": "ERA5",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rltcre": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rltcre.200101-201412.MAM.v20240701.nc",
+            "varin": "toa_cre_lw_mon"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.rltcre.198501-201412.MAM.v20240701.nc",
+            "varin": "LWCRE"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rltcre.198501-201412.MAM.v20240701.nc",
+            "varin": "LWCRE"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate3": "ERA5",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rlut": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rlut.200101-201412.MAM.v20240701.nc",
+            "varin": "rlut"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rlut.198501-201412.MAM.v20240701.nc",
+            "varin": "rlut"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rlut.198501-201412.MAM.v20240701.nc",
+            "varin": "rlut"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rlut.198501-201412.MAM.v20240701.nc",
+            "varin": "rlut"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rlut.198501-201412.MAM.v20240701.nc",
+            "varin": "FLUT"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rlutcs": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rlutcs.200101-201412.MAM.v20240701.nc",
+            "varin": "rlutcs"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rlutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "rlutcs"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rlutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "rlutcs"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rlutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "rlutcs"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rlutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "FLUTC"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rmt": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rmt.200101-201412.MAM.v20240701.nc",
+            "varin": "toa_net_all_mon"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "default": "CERES-EBAF"
+    },
+    "rsdt": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rsdt.200101-201412.MAM.v20240701.nc",
+            "varin": "rsdt"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rsdt.198501-201412.MAM.v20240701.nc",
+            "varin": "rsdt"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rsdt.198501-201412.MAM.v20240701.nc",
+            "varin": "rsdt"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rsdt.198501-201412.MAM.v20240701.nc",
+            "varin": "rsdt"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rsdt.198501-201412.MAM.v20240701.nc",
+            "varin": "SOLIN"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rstcre": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rstcre.200101-201412.MAM.v20240701.nc",
+            "varin": "toa_cre_sw_mon"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.rstcre.198501-201412.MAM.v20240701.nc",
+            "varin": "SWCRE"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rstcre.198501-201412.MAM.v20240701.nc",
+            "varin": "SWCRE"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate3": "ERA5",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rsus": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rsus.200101-201412.MAM.v20240701.nc",
+            "varin": "rsus"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rsus.198501-201412.MAM.v20240701.nc",
+            "varin": "rsus"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rsus.198501-201412.MAM.v20240701.nc",
+            "varin": "rsus"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rsus.198501-201412.MAM.v20240701.nc",
+            "varin": "rsus"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rsus.198501-201412.MAM.v20240701.nc",
+            "varin": "FSUS"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rsuscs": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rsuscs.200101-201412.MAM.v20240701.nc",
+            "varin": "rsuscs"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rsuscs.198501-201412.MAM.v20240701.nc",
+            "varin": "FSUSC"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rsut": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rsut.200101-201412.MAM.v20240701.nc",
+            "varin": "rsut"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rsut.198501-201412.MAM.v20240701.nc",
+            "varin": "rsut"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rsut.198501-201412.MAM.v20240701.nc",
+            "varin": "rsut"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rsut.198501-201412.MAM.v20240701.nc",
+            "varin": "rsut"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rsut.198501-201412.MAM.v20240701.nc",
+            "varin": "FSUTOA"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "rsutcs": {
+        "CERES-EBAF": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "CERES-EBAF",
+            "RefName": "CERES-EBAF_v4.1",
+            "period": "200101-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.CERES-EBAF_v4.1.en00.mon.rsutcs.200101-201412.MAM.v20240701.nc",
+            "varin": "rsutcs"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.rsutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "rsutcs"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.rsutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "rsutcs"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.rsutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "rsutcs"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.rsutcs.198501-201412.MAM.v20240701.nc",
+            "varin": "FSUTOAC"
+        },
+        "alternate": "CERES-EBAF",
+        "alternate1": "CERES-EBAF",
+        "alternate2": "ERA5-HRES",
+        "alternate4": "MERRA2",
+        "alternate5": "ERA-Interim",
+        "alternate6": "NOAA-20C",
+        "default": "CERES-EBAF"
+    },
+    "sfcWind": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.sfcWind.198501-201412.MAM.v20240701.nc",
+            "varin": "S10"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.sfcWind.198501-201412.MAM.v20240701.nc",
+            "varin": "si10"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.sfcWind.198501-201412.MAM.v20240701.nc",
+            "varin": "S10"
+        },
+        "alternate": "ERA5",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5-HRES"
+    },
+    "sic": {
+        "HadSST2": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "Product": "HadSST2",
+            "RefName": "HadSST2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.HadSST2.en00.mon.sic.198501-201412.MAM.v20240701.nc",
+            "varin": "SICONC"
+        },
+        "default": "HadSST2"
+    },
+    "sos": {
+        "Aquarius": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "Product": "Aquarius",
+            "RefName": "Aquarius",
+            "period": "201201-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.Aquarius.en00.mon.sos.201201-201412.MAM.v20240701.nc",
+            "varin": "SSS"
+        },
+        "default": "Aquarius"
+    },
+    "ta200": {
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.ta200.198501-201412.MAM.v20240701.nc",
+            "varin": "T200"
+        },
+        "alternate": "NOAA-20C"
+    },
+    "ta850": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.ta850.198501-201412.MAM.v20240701.nc",
+            "varin": "T850"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.ta850.198501-201412.MAM.v20240701.nc",
+            "varin": "T850"
+        },
+        "alternate": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "tas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.tas.198501-201412.MAM.v20240701.nc",
+            "varin": "tas"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.tas.198501-201412.MAM.v20240701.nc",
+            "varin": "TREFHT"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.tas.198501-201412.MAM.v20240701.nc",
+            "varin": "tas"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.tas.198501-201412.MAM.v20240701.nc",
+            "varin": "tas"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.tas.198501-201412.MAM.v20240701.nc",
+            "varin": "TREFHT"
+        },
+        "alternate": "ERA5",
+        "alternate1": "MERRA2",
+        "alternate2": "ERA-Interim",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5-HRES"
+    },
+    "tauu": {
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.tauu.198501-200612.MAM.v20240701.nc",
+            "varin": "taux"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.tauu.198501-201412.MAM.v20240701.nc",
+            "varin": "tauu"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.tauu.198501-201412.MAM.v20240701.nc",
+            "varin": "TAUX"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.tauu.198501-201412.MAM.v20240701.nc",
+            "varin": "tauu"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.tauu.198501-201412.MAM.v20240701.nc",
+            "varin": "tauu"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.tauu.198501-201412.MAM.v20240701.nc",
+            "varin": "TAUX"
+        },
+        "alternate": "ERA5",
+        "alternate1": "MERRA2",
+        "alternate2": "ERA-Interim",
+        "alternate3": "NOAA-20C",
+        "alternate6": "COREv2-Flux",
+        "default": "ERA5-HRES"
+    },
+    "tauv": {
+        "COREv2-Flux": {
+            "CMIP_CMOR_TABLE": "Lmon",
+            "Product": "COREv2-Flux",
+            "RefName": "COREv2-Flux",
+            "period": "198501-200612",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.COREv2-Flux.en00.mon.tauv.198501-200612.MAM.v20240701.nc",
+            "varin": "tauy"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA-Interim",
+            "RefName": "ERA-Interim",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA-Interim.en00.mon.tauv.198501-201412.MAM.v20240701.nc",
+            "varin": "tauv"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.tauv.198501-201412.MAM.v20240701.nc",
+            "varin": "TAUY"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.tauv.198501-201412.MAM.v20240701.nc",
+            "varin": "tauv"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "MERRA2",
+            "RefName": "MERRA2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.MERRA2.en00.mon.tauv.198501-201412.MAM.v20240701.nc",
+            "varin": "tauv"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.tauv.198501-201412.MAM.v20240701.nc",
+            "varin": "TAUY"
+        },
+        "alternate": "ERA5",
+        "alternate1": "MERRA2",
+        "alternate2": "ERA-Interim",
+        "alternate3": "NOAA-20C",
+        "alternate6": "COREv2-Flux",
+        "default": "ERA5-HRES"
+    },
+    "tos": {
+        "HadISST": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "Product": "HadISST",
+            "RefName": "HadISST",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.HadISST.en00.mon.tos.198501-201412.MAM.v20240701.nc",
+            "varin": "sst"
+        },
+        "HadSST2": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "Product": "HadSST2",
+            "RefName": "HadSST2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.HadSST2.en00.mon.tos.198501-201412.MAM.v20240701.nc",
+            "varin": "SST"
+        },
+        "alternate": "HadISST",
+        "default": "HadSST2"
+    },
+    "ts": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.ts.198501-201412.MAM.v20240701.nc",
+            "varin": "TS"
+        },
+        "ERA5-HRES": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5-HRES",
+            "RefName": "ERA5-HRES",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5-HRES.en00.mon.ts.198501-201412.MAM.v20240701.nc",
+            "varin": "ts"
+        },
+        "HadISST": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "Product": "HadISST",
+            "RefName": "HadISST",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.HadISST.en00.mon.ts.198501-201412.MAM.v20240701.nc",
+            "varin": "TS"
+        },
+        "HadSST2": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "Product": "HadSST2",
+            "RefName": "HadSST2",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.HadSST2.en00.mon.ts.198501-201412.MAM.v20240701.nc",
+            "varin": "TS"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.ts.198501-201412.MAM.v20240701.nc",
+            "varin": "TS"
+        },
+        "alternate": "ERA5-HRES",
+        "alternate2": "NOAA-20C",
+        "alternate3": "HadISST",
+        "alternate4": "HadSST2",
+        "default": "ERA5"
+    },
+    "ua200": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.ua200.198501-201412.MAM.v20240701.nc",
+            "varin": "U200"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.ua200.198501-201412.MAM.v20240701.nc",
+            "varin": "U200"
+        },
+        "alternate": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "ua850": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.ua850.198501-201412.MAM.v20240701.nc",
+            "varin": "U850"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.ua850.198501-201412.MAM.v20240701.nc",
+            "varin": "U850"
+        },
+        "alternate": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "va200": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.va200.198501-201412.MAM.v20240701.nc",
+            "varin": "V200"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.va200.198501-201412.MAM.v20240701.nc",
+            "varin": "V200"
+        },
+        "alternate": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "va850": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.va850.198501-201412.MAM.v20240701.nc",
+            "varin": "V850"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.va850.198501-201412.MAM.v20240701.nc",
+            "varin": "V850"
+        },
+        "alternate": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "zg500": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "ERA5",
+            "RefName": "ERA5",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.ERA5.en00.mon.zg500.198501-201412.MAM.v20240701.nc",
+            "varin": "Z500"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.zg500.198501-201412.MAM.v20240701.nc",
+            "varin": "Z500"
+        },
+        "alternate": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "zg700": {
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "Product": "NOAA-20C",
+            "RefName": "NOAA-20C",
+            "period": "198501-201412",
+            "realm": "en00",
+            "scenario": "historical",
+            "template": "observations.historical.NOAA-20C.en00.mon.zg700.198501-201412.MAM.v20240701.nc",
+            "varin": "Z700"
+        },
+        "alternate": "NOAA-20C"
+    }
+}

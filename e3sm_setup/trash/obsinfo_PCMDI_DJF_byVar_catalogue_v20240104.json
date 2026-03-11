@@ -1,0 +1,4058 @@
+{
+    "aodvis": {
+        "AOD_550": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "da3dfa3b05688f37347c5bc45d5814a0",
+            "RefName": "AOD_550",
+            "RefTrackingDate": "Tue Jan  9 20:56:33 2024",
+            "filename": "aodvis_mon_AOD_550_BE_1x1_200101-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/aodvis/AOD_550/aodvis_mon_AOD_550_BE_1x1_200101-201412.v20240104.DJF.nc"
+        },
+        "MACv2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1fa61f7aa7ec826bd59778f14fb3e817",
+            "RefName": "MACv2",
+            "RefTrackingDate": "Tue Jan  9 20:56:34 2024",
+            "filename": "aodvis_mon_MACv2_BE_1x1_200501-200512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/aodvis/MACv2/aodvis_mon_MACv2_BE_1x1_200501-200512.v20240104.DJF.nc"
+        },
+        "alternate1": "MACv2",
+        "default": "AOD_550"
+    },
+    "clhgh": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9835aa877f313c3fd4b27644c1f3ca58",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:35 2024",
+            "filename": "clhgh_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/clhgh/CALIPSOCOSP/clhgh_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c81cf58a04bac3be118110609ebbd4c1",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:35 2024",
+            "filename": "clhgh_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/clhgh/ISCCPCOSP/clhgh_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e120ca09c59feb6dd65ebaa52c496bb1",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:36 2024",
+            "filename": "clhgh_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clhgh/MISRCOSP/clhgh_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "140a03997cb8e3b4d7a9cc5a956122ab",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:51 2024",
+            "filename": "clhgh_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clhgh/MODISCOSP/clhgh_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        }
+    },
+    "clivi": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "58d07e20c2b2f1a1a6e11dbbec8eadd7",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:01 2024",
+            "filename": "clivi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/clivi/ERA5/clivi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "cllow": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2a6e9aa4b8ead537e3a9898e0caaef04",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:41 2024",
+            "filename": "cllow_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/cllow/CALIPSOCOSP/cllow_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0bb3d3a9b1f6050b2f78b0e1f68c10a3",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:42 2024",
+            "filename": "cllow_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/cllow/ISCCPCOSP/cllow_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "04e5fe0683e8c052d814e46a3f21cfec",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:43 2024",
+            "filename": "cllow_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/cllow/MISRCOSP/cllow_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b78144045dd39b1142e277674818c9bd",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:50 2024",
+            "filename": "cllow_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/cllow/MODISCOSP/cllow_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        }
+    },
+    "clmed": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "762d4cbea32f2601ee42d003090332da",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:44 2024",
+            "filename": "clmed_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/clmed/CALIPSOCOSP/clmed_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e08feee9d944289d218b947ce3f96c3d",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:45 2024",
+            "filename": "clmed_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/clmed/ISCCPCOSP/clmed_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f02d4e8e6fb10b170df5035a0e83fbac",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:46 2024",
+            "filename": "clmed_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clmed/MISRCOSP/clmed_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "440b9a74653e981d797d6ff7f682a27c",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:50 2024",
+            "filename": "clmed_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clmed/MODISCOSP/clmed_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        }
+    },
+    "clt": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8a539ec90015737a34dc34f4a8e5eb94",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:47 2024",
+            "filename": "clt_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/clt/CALIPSOCOSP/clt_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.DJF.nc"
+        },
+        "CLOUDSATCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "343ca06a984846f443fb8d7789ebe27b",
+            "RefName": "CLOUDSATCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:48 2024",
+            "filename": "clt_mon_CLOUDSATCOSP_BE_gn_200501-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 82, 180)",
+            "template": "Atm/clt/CLOUDSATCOSP/clt_mon_CLOUDSATCOSP_BE_gn_200501-201112.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3c89371b965a0a567efbebde0417a351",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:02 2024",
+            "filename": "clt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/clt/ERA5/clt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "30150404344966b4af8c62b3079cd552",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:50 2024",
+            "filename": "clt_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/clt/ISCCPCOSP/clt_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.DJF.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0802acbf67fa276866ec048c27529ff6",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:51 2024",
+            "filename": "clt_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clt/MISRCOSP/clt_mon_MISRCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9e8b8d61806c194480e1dd0cc52f110e",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:50 2024",
+            "filename": "clt_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clt/MODISCOSP/clt_mon_MODISCOSP_BE_gn_200101-201112.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4fb997f73569db65cce9b123ed48f399",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:56:52 2024",
+            "filename": "clt_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/clt/NOAA-20C/clt_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "44a03d3d43b8d30434a5e4aeaccf85b9",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:56:53 2024",
+            "filename": "clt_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/clt/NOAA-20Cp1pi/clt_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a2184eb3653c9ccc50f0e02d43f40a9a",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:56:54 2024",
+            "filename": "clt_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/clt/NOAA-20Cp2pi/clt_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20C",
+        "alternate2": "NOAA-20Cp2pi",
+        "alternate3": "NOAA-20Cp1pi",
+        "default": "ERA5"
+    },
+    "clwvi": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5b58d7d3c3fe1fa853fcd45860a7f6a9",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:04 2024",
+            "filename": "clwvi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/clwvi/ERA5/clwvi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "88ad61d289768637cdf31d69ad5a880d",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 20:56:56 2024",
+            "filename": "clwvi_mon_SSMI_BE_1x1_197901-199912.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 64, 128)",
+            "template": "Atm/clwvi/SSMI/clwvi_mon_SSMI_BE_1x1_197901-199912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "cp": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4583c7eca21a0bb0e772af29164c5a89",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:05 2024",
+            "filename": "cp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/cp/ERA5/cp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "evap": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2be186cc34abc6bc4e4670982aa9a914",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:06 2024",
+            "filename": "evap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/evap/ERA5/evap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "evspsbl": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d88fa8fd66d4af42a67696ca60a82a0a",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:57:00 2024",
+            "filename": "evspsbl_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/evspsbl/COREv2_Flux/evspsbl_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2507acc91faee25cc69f799ac2514862",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:09 2024",
+            "filename": "evspsbl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/evspsbl/ERA5/evspsbl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "097acbd884e661288d1ede4ff7d92232",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:02 2024",
+            "filename": "evspsbl_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/evspsbl/NOAA-20C/evspsbl_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7e1578442e0a65472be5c9b150c58a16",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:03 2024",
+            "filename": "evspsbl_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/evspsbl/NOAA-20Cp1pi/evspsbl_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "07a1de157b938d4d7a413977319b4b6a",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:04 2024",
+            "filename": "evspsbl_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/evspsbl/NOAA-20Cp2pi/evspsbl_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6f5e3d310a225f98c1d8f753f3f5e178",
+            "RefName": "OAFlux",
+            "RefTrackingDate": "Tue Jan  9 20:57:05 2024",
+            "filename": "evspsbl_mon_OAFlux_BE_1x1_198001-200412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/evspsbl/OAFlux/evspsbl_mon_OAFlux_BE_1x1_198001-200412.v20240104.DJF.nc"
+        },
+        "alternate1": "COREv2_Flux",
+        "alternate2": "NOAA-20C",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "ERA5",
+        "default": "OAFlux"
+    },
+    "frwflx": {
+        "GPCP_OAFLux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "14284e49023eb1b622ffd76cf3bfe8b6",
+            "RefName": "GPCP_OAFLux",
+            "RefTrackingDate": "Tue Jan  9 20:57:06 2024",
+            "filename": "frwflx_mon_GPCP_OAFLux_BE_gn_197901-201312.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/frwflx/GPCP_OAFLux/frwflx_mon_GPCP_OAFLux_BE_gn_197901-201312.v20240104.DJF.nc"
+        },
+        "default": "GPCP_OAFLux"
+    },
+    "gauge_pr": {
+        "GPCP_v3.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "96e34c238405de211962f04985af259b",
+            "RefName": "GPCP_v3.2",
+            "RefTrackingDate": "Tue Jan  9 20:57:07 2024",
+            "filename": "gauge_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Atm/gauge_pr/GPCP_v3.2/gauge_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.DJF.nc"
+        },
+        "default": "GPCP_v3.2"
+    },
+    "hfls": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "839c9367010b3fd055ea0366cf776354",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:57:08 2024",
+            "filename": "hfls_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfls/COREv2_Flux/hfls_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "190ce699670302061a7f698f472e9316",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:57:11 2024",
+            "filename": "hfls_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/hfls/ERA-Interim/hfls_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7db2f01d4715a6472ac7ed6be50b869a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:11 2024",
+            "filename": "hfls_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/hfls/ERA5/hfls_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b21e923c4d19bceba3f80c9cc507255c",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:57:12 2024",
+            "filename": "hfls_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/hfls/MERRA2/hfls_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "77fa1450da8a778b891da43fec086656",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:13 2024",
+            "filename": "hfls_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfls/NOAA-20C/hfls_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d99736f6f29905e1e9a78b04dda10468",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:13 2024",
+            "filename": "hfls_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfls/NOAA-20Cp1pi/hfls_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a4cfac01da402e7ad2cd726ebd2f06b3",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:14 2024",
+            "filename": "hfls_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfls/NOAA-20Cp2pi/hfls_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d1032e5c37326b9a264fd6851bfcca7e",
+            "RefName": "OAFlux",
+            "RefTrackingDate": "Tue Jan  9 20:57:15 2024",
+            "filename": "hfls_mon_OAFlux_BE_1x1_198001-200412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfls/OAFlux/hfls_mon_OAFlux_BE_1x1_198001-200412.v20240104.DJF.nc"
+        },
+        "alternate1": "COREv2_Flux",
+        "alternate2": "NOAA-20Cp2pi",
+        "alternate3": "NOAA-20Cp1pi",
+        "alternate4": "NOAA-20C",
+        "alternate5": "ERA-Interim",
+        "alternate6": "MERRA2",
+        "alternate7": "ERA5",
+        "default": "COREv2_Flux"
+    },
+    "hfns": {
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7bd7151cc756aea5eab0de6538e549cf",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:16 2024",
+            "filename": "hfns_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfns/NOAA-20C/hfns_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "10bee5f30b0bd8ee895eeb27b512eac8",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:17 2024",
+            "filename": "hfns_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfns/NOAA-20Cp1pi/hfns_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a349c710705d3af8b4d79ae718f724e3",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:18 2024",
+            "filename": "hfns_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfns/NOAA-20Cp2pi/hfns_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate2": "NOAA-20Cp2pi",
+        "alternate3": "NOAA-20Cp1pi",
+        "default": "NOAA-20C"
+    },
+    "hfrad": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "dc4cd90a51fc3e142087d00c161bf900",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:57:19 2024",
+            "filename": "hfrad_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfrad/CERES-EBAF-2-8/hfrad_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "65f4171c924b1fb9af78841c6ee8f39c",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:57:20 2024",
+            "filename": "hfrad_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfrad/CERES-EBAF-4-0/hfrad_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c7fc637ddfdecd998b2598d95aa75742",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 20:57:21 2024",
+            "filename": "hfrad_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfrad/CERES-EBAF-4-1/hfrad_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1feaca5d53164aaf76040e3204485aec",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:23 2024",
+            "filename": "hfrad_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfrad/NOAA-20C/hfrad_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d96ab472cb4a4756164a5121b161c37e",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:24 2024",
+            "filename": "hfrad_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfrad/NOAA-20Cp1pi/hfrad_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "97fbb242664fda5e90b98fd8b4dfa469",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:25 2024",
+            "filename": "hfrad_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfrad/NOAA-20Cp2pi/hfrad_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "default": "CERES-EBAF-4-1"
+    },
+    "hfradcs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "838ee29e2d5b2d52cf4d11d5a6daca6e",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:57:22 2024",
+            "filename": "hfradcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfradcs/CERES-EBAF-2-8/hfradcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a32444850e82afa7a7b32e3ad17332ca",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:57:23 2024",
+            "filename": "hfradcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfradcs/CERES-EBAF-4-0/hfradcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0"
+    },
+    "hfss": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9a089c0dae92379f3272ab3e3e214dff",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:57:26 2024",
+            "filename": "hfss_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfss/COREv2_Flux/hfss_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e05898e48653f969827574331b497841",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:57:28 2024",
+            "filename": "hfss_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/hfss/ERA-Interim/hfss_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5a0854f3f98e97f1149533ddfdeee7f3",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:13 2024",
+            "filename": "hfss_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/hfss/ERA5/hfss_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b4c8a7dcde8a94a653d1a41518142687",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:57:29 2024",
+            "filename": "hfss_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/hfss/MERRA2/hfss_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ebf0e3fcc32ecd0c1797b3530133d331",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:30 2024",
+            "filename": "hfss_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfss/NOAA-20C/hfss_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "831be7cab8fa7bc9d81285b55a04a75f",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:31 2024",
+            "filename": "hfss_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfss/NOAA-20Cp1pi/hfss_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1767bfaa75c9539d5acc7fee9cf3e836",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:32 2024",
+            "filename": "hfss_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hfss/NOAA-20Cp2pi/hfss_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b7ffb1714ce7ea4e893a1d240e92c7c0",
+            "RefName": "OAFlux",
+            "RefTrackingDate": "Tue Jan  9 20:57:33 2024",
+            "filename": "hfss_mon_OAFlux_BE_1x1_198001-200412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfss/OAFlux/hfss_mon_OAFlux_BE_1x1_198001-200412.v20240104.DJF.nc"
+        },
+        "alternate1": "COREv2_Flux",
+        "alternate2": "NOAA-20Cp2pi",
+        "alternate3": "NOAA-20Cp1pi",
+        "alternate4": "NOAA-20C",
+        "alternate5": "ERA-Interim",
+        "alternate6": "MERRA2",
+        "alternate7": "ERA5",
+        "default": "COREv2_Flux"
+    },
+    "hftot": {
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "89f3d0d209acc30423e08b68072abb25",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:34 2024",
+            "filename": "hftot_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hftot/NOAA-20C/hftot_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "857e52a5321ed839ecd69edbf8fe81b1",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:34 2024",
+            "filename": "hftot_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hftot/NOAA-20Cp1pi/hftot_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e7c78de7cf110167e409d8e26a06ec34",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:35 2024",
+            "filename": "hftot_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hftot/NOAA-20Cp2pi/hftot_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate2": "NOAA-20Cp2pi",
+        "alternate3": "NOAA-20Cp1pi",
+        "default": "NOAA-20C"
+    },
+    "hftur": {
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0d930c1acdd33824a8f203a8ca4baa04",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:57:36 2024",
+            "filename": "hftur_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hftur/NOAA-20C/hftur_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "506f830e7413c07440bfc8acc1a5f6f3",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:36 2024",
+            "filename": "hftur_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hftur/NOAA-20Cp1pi/hftur_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "acf7fa05cdf5f4697cbb40d5406fd53f",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:57:37 2024",
+            "filename": "hftur_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/hftur/NOAA-20Cp2pi/hftur_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate2": "NOAA-20Cp2pi",
+        "alternate3": "NOAA-20Cp1pi",
+        "default": "NOAA-20C"
+    },
+    "hur": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "14f0e53aad822d81d41efa5fb86bcca4",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:57:59 2024",
+            "filename": "hur_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/hur/ERA-Interim/hur_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3b50a3db8d5e8189b6bfae062b9970cc",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:28 2024",
+            "filename": "hur_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/hur/ERA5/hur_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1d33cf4e6d576b45b6e8d0fe45f8bab4",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:58:03 2024",
+            "filename": "hur_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/hur/MERRA2/hur_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "hus": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "13a53b5d1db2348a12367b0f0566ceaa",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:58:30 2024",
+            "filename": "hus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/hus/ERA-Interim/hus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "869ad6caf3164a03b2a44dd8ad581460",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:50 2024",
+            "filename": "hus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/hus/ERA5/hus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4fbcd83310358a5d08d7736dfee0f3d5",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:58:42 2024",
+            "filename": "hus_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/hus/MERRA2/hus_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "huss": {
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "647da01970866cfca4f44fbd8522625e",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:58:43 2024",
+            "filename": "huss_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/huss/MERRA2/huss_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6de04b9a372d800b38f3e027f168ee2c",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:58:44 2024",
+            "filename": "huss_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/huss/NOAA-20C/huss_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4dbdff7ddc77b89b417dcf0c7ab4f064",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:58:45 2024",
+            "filename": "huss_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/huss/NOAA-20Cp1pi/huss_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0fee5881ff6dea6ba7f62bf294866d83",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:58:46 2024",
+            "filename": "huss_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/huss/NOAA-20Cp2pi/huss_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        }
+    },
+    "lsp": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "84dc71b96523afb2690a32a7232435d5",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:57 2024",
+            "filename": "lsp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/lsp/ERA5/lsp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "mrros": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9925dc41557d4f08ea35132cbf45e28c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:32:21 2024",
+            "filename": "mrros_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Land/mrros/ERA5/mrros_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "ISLSCPII_GRDC": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ebb320561166d66232c7d459914c9485",
+            "RefName": "ISLSCPII_GRDC",
+            "RefTrackingDate": "Tue Jan  9 21:06:04 2024",
+            "filename": "mrros_mon_ISLSCPII_GRDC_BE_gn_198601-199512.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Land/mrros/ISLSCPII_GRDC/mrros_mon_ISLSCPII_GRDC_BE_gn_198601-199512.v20240104.DJF.nc"
+        },
+        "alternate1": "ERA5",
+        "default": "ISLSCPII_GRDC"
+    },
+    "pr": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0cd96475080eca104f629b718d3d07c9",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:58:52 2024",
+            "filename": "pr_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/pr/COREv2_Flux/pr_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "72fc90f3e0e6eac9288921d51562b33d",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:58:57 2024",
+            "filename": "pr_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/pr/ERA-Interim/pr_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "41372f79b416e3feb4cbe94f6e6a330f",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:01 2024",
+            "filename": "pr_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/pr/ERA5/pr_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "GPCP_1DD": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f2c981b1e3a627d0e85d3e4b24f8fad7",
+            "RefName": "GPCP_1DD",
+            "RefTrackingDate": "Tue Jan  9 20:58:58 2024",
+            "filename": "pr_mon_GPCP_1DD_BE_gn_199701-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/pr/GPCP_1DD/pr_mon_GPCP_1DD_BE_gn_199701-201612.v20240104.DJF.nc"
+        },
+        "GPCP_v2.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0c415d8fb9788aa0a80fd37acdf2657c",
+            "RefName": "GPCP_v2.2",
+            "RefTrackingDate": "Tue Jan  9 20:58:59 2024",
+            "filename": "pr_mon_GPCP_v2.2_BE_gn_197901-201412.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/pr/GPCP_v2.2/pr_mon_GPCP_v2.2_BE_gn_197901-201412.v20240104.DJF.nc"
+        },
+        "GPCP_v2.3": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "02ff1f4a5413a6d87ea31a235079cc27",
+            "RefName": "GPCP_v2.3",
+            "RefTrackingDate": "Tue Jan  9 20:59:00 2024",
+            "filename": "pr_mon_GPCP_v2.3_BE_gn_197901-201712.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/pr/GPCP_v2.3/pr_mon_GPCP_v2.3_BE_gn_197901-201712.v20240104.DJF.nc"
+        },
+        "GPCP_v3.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "410bdac9302cb124e9bda0e99b00e988",
+            "RefName": "GPCP_v3.2",
+            "RefTrackingDate": "Tue Jan  9 20:59:01 2024",
+            "filename": "pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Atm/pr/GPCP_v3.2/pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "327e32dafc0019dcd904b63474c04c8f",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:03 2024",
+            "filename": "pr_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/pr/MERRA2/pr_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5bf0e60a463bfa0509e2203067f8239a",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:59:05 2024",
+            "filename": "pr_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/pr/NOAA-20C/pr_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "183bce7dcf50ab844bc092ca6d650051",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:03 2024",
+            "filename": "pr_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/pr/NOAA-20Cp1pi/pr_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8f513a374aa78d913e8510a7804dee09",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:04 2024",
+            "filename": "pr_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/pr/NOAA-20Cp2pi/pr_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1f69d57b6d4084074733303f703c729e",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 20:59:09 2024",
+            "filename": "pr_mon_SSMI_BE_1x1_197901-199912.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 64, 128)",
+            "template": "Atm/pr/SSMI/pr_mon_SSMI_BE_1x1_197901-199912.v20240104.DJF.nc"
+        },
+        "TRMM-3B43v-7": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8cac52f7dfe065a96f2b3974f4b10853",
+            "RefName": "TRMM-3B43v-7",
+            "RefTrackingDate": "Tue Jan  9 20:59:22 2024",
+            "filename": "pr_mon_TRMM-3B43v-7_BE_gn_199801-201312.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(8, 400, 1440)",
+            "template": "Atm/pr/TRMM-3B43v-7/pr_mon_TRMM-3B43v-7_BE_gn_199801-201312.v20240104.DJF.nc"
+        },
+        "alternate1": "GPCP_v2.3",
+        "alternate10": "NOAA-20Cp2pi",
+        "alternate2": "GPCP_v2.2",
+        "alternate3": "GPCP_1DD",
+        "alternate4": "TRMM-3B43v-7",
+        "alternate5": "ERA5",
+        "alternate6": "MERRA2",
+        "alternate7": "ERA-Interim",
+        "alternate8": "NOAA-20C",
+        "alternate9": "NOAA-20Cp1pi",
+        "default": "GPCP_v3.2"
+    },
+    "prc": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "afc47ff5d3090aebacafcbb552a1d439",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:58 2024",
+            "filename": "prc_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/prc/ERA5/prc_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "aece907326584e56eb496ae773d08e61",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:58:51 2024",
+            "filename": "prc_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/prc/NOAA-20C/prc_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ced5452450492b61dccd69bc430e8cc4",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:58:49 2024",
+            "filename": "prc_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/prc/NOAA-20Cp1pi/prc_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "bc465796026d52dd39ef88740e990643",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:58:50 2024",
+            "filename": "prc_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/prc/NOAA-20Cp2pi/prc_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "prsn": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1d1dc08b754c26c8211b18ad1bd722a5",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:02 2024",
+            "filename": "prsn_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/prsn/ERA5/prsn_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "prw": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f3e51dd6245803426b5ed44a28240ab6",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:59:28 2024",
+            "filename": "prw_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/prw/ERA-Interim/prw_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "68ca37d3fbe5cb641597ba09b920a0e8",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:04 2024",
+            "filename": "prw_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/prw/ERA5/prw_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "30def628f90d558369daa63556ad1b42",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:29 2024",
+            "filename": "prw_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/prw/MERRA2/prw_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "70d1726ea0d9e2cb635a8432ec480fad",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:59:31 2024",
+            "filename": "prw_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/prw/NOAA-20C/prw_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "33a08a3b2387ac5fb9c867e53152a596",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:29 2024",
+            "filename": "prw_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/prw/NOAA-20Cp1pi/prw_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "26abd08f23ab9338719e63f5678b736e",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:30 2024",
+            "filename": "prw_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/prw/NOAA-20Cp2pi/prw_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e5da4d6adfdabe0a0ff96a742a98f264",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 20:59:32 2024",
+            "filename": "prw_mon_SSMI_BE_1x1_197901-199912.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 64, 128)",
+            "template": "Atm/prw/SSMI/prw_mon_SSMI_BE_1x1_197901-199912.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ps": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d070a54fd67198d76d6ee884cec60c31",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:05 2024",
+            "filename": "ps_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ps/ERA5/ps_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "22819674fac60bde000eb6ba8df09d22",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:59:43 2024",
+            "filename": "ps_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ps/NOAA-20C/ps_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "553ba34e18f673ed5ab8109216aaa37e",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:42 2024",
+            "filename": "ps_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ps/NOAA-20Cp1pi/ps_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b9f78f45b4b5598b9f2c917ff6370f91",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:42 2024",
+            "filename": "ps_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ps/NOAA-20Cp2pi/ps_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "psl": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3d95fe79587921bd3076b15531908907",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:59:38 2024",
+            "filename": "psl_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/psl/ERA-Interim/psl_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6c7f6e10a634d9bf4fe0acaadd181c12",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:07 2024",
+            "filename": "psl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/psl/ERA5/psl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "473b6ef90367c223e354b6f73486bc63",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:38 2024",
+            "filename": "psl_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/psl/MERRA2/psl_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "80abbb262981432a9a0735741e5031f7",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:59:41 2024",
+            "filename": "psl_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/psl/NOAA-20C/psl_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "dcfef726008cb4c02e3ecdaac4884873",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:40 2024",
+            "filename": "psl_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/psl/NOAA-20Cp1pi/psl_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1d59f8ec4465ccd34a70d54d5759b729",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:40 2024",
+            "filename": "psl_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/psl/NOAA-20Cp2pi/psl_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "rlds": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "00816be7e73c82da1080339c54a04610",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:59:44 2024",
+            "filename": "rlds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/CERES-EBAF-2-8/rlds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "09c60019cab2ff01674a2686c2c38b58",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:59:45 2024",
+            "filename": "rlds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/CERES-EBAF-4-0/rlds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6d712d04aed63a624f770c03e3fbaf85",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 20:59:46 2024",
+            "filename": "rlds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/CERES-EBAF-4-1/rlds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f304a546fe2e68732862ecd5b9c517ba",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:59:47 2024",
+            "filename": "rlds_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/COREv2_Flux/rlds_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7cf48e35d4dc3413aa97d96ec3ee3874",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:59:56 2024",
+            "filename": "rlds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlds/ERA-Interim/rlds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "30c5f17d7022def419d711552bb4ed53",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:09 2024",
+            "filename": "rlds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlds/ERA5/rlds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c72bf047bd24ef0bff400f1d91e78d0c",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:57 2024",
+            "filename": "rlds_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlds/MERRA2/rlds_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8fa5218385036d69f8e2be1112391b20",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:59:59 2024",
+            "filename": "rlds_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlds/NOAA-20C/rlds_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "074b51140cba513258b7c6a8e2795f09",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:58 2024",
+            "filename": "rlds_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlds/NOAA-20Cp1pi/rlds_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "28e98d1296557b996c7ce070e28ccb4e",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:58 2024",
+            "filename": "rlds_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlds/NOAA-20Cp2pi/rlds_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rldscs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fa4a926b7ed80e0e65dbf592aa72d7df",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:59:48 2024",
+            "filename": "rldscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rldscs/CERES-EBAF-2-8/rldscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "56e5c2c07b6561b0dc8e21be4224ee9f",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:59:49 2024",
+            "filename": "rldscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rldscs/CERES-EBAF-4-0/rldscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0cc112c3c5ec82296884464ad681df4e",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 20:59:50 2024",
+            "filename": "rldscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rldscs/CERES-EBAF-4-1/rldscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "971b14aac2f5c15c8c382d0a3f881ba6",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 20:59:53 2024",
+            "filename": "rldscs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rldscs/NOAA-20C/rldscs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4c45be849c183ce8d0e2ff585e451e02",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:51 2024",
+            "filename": "rldscs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rldscs/NOAA-20Cp1pi/rldscs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1b3c1523122a4224fecd76de85a098bf",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 20:59:52 2024",
+            "filename": "rldscs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rldscs/NOAA-20Cp2pi/rldscs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rltcre": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3e0e104a8ef0d5d8fb829fa8f061826c",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:00 2024",
+            "filename": "rltcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rltcre/CERES-EBAF-2-8/rltcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "06f575921ec524424f7546405818bedc",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:01 2024",
+            "filename": "rltcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rltcre/CERES-EBAF-4-0/rltcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f24e730ceccaf3a5e7038f8bea3c1c9b",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:02 2024",
+            "filename": "rltcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rltcre/CERES-EBAF-4-1/rltcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "02c952e9bc0da63bff3cf0cbcec84a6e",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:00:04 2024",
+            "filename": "rltcre_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rltcre/NOAA-20C/rltcre_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3857868a5acf018ede6d41c32fa8f613",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:03 2024",
+            "filename": "rltcre_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rltcre/NOAA-20Cp1pi/rltcre_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3788c5a5bf645dd302fbbf65d97a127c",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:04 2024",
+            "filename": "rltcre_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rltcre/NOAA-20Cp2pi/rltcre_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rlus": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "74e7d84a8bd3db2cd5517f36b918624b",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:05 2024",
+            "filename": "rlus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/CERES-EBAF-2-8/rlus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "641497d9fb8e0d02e5482074c26e33d2",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:06 2024",
+            "filename": "rlus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/CERES-EBAF-4-0/rlus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c705344a905b351f55f71566469a8c6f",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:07 2024",
+            "filename": "rlus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/CERES-EBAF-4-1/rlus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "910ff8ce567fcd332d83670f1e2e8ec3",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 21:00:08 2024",
+            "filename": "rlus_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/COREv2_Flux/rlus_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "686216ba964e19acdf3c54fc60bf718b",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:11 2024",
+            "filename": "rlus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlus/ERA-Interim/rlus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0f6a5afb8722349efdf8edcd1e71f879",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:10 2024",
+            "filename": "rlus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlus/ERA5/rlus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0423f067f9e23afa55348486680b47eb",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:12 2024",
+            "filename": "rlus_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlus/MERRA2/rlus_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f5881c0cb15c004ece5a9446c5f16a5c",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:00:14 2024",
+            "filename": "rlus_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlus/NOAA-20C/rlus_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7d7ccd56f542e7c99d9b69ec01fd22ff",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:13 2024",
+            "filename": "rlus_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlus/NOAA-20Cp1pi/rlus_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "64d8488fb0405b324c488effcacd1e8d",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:13 2024",
+            "filename": "rlus_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlus/NOAA-20Cp2pi/rlus_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rlut": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "664d7d1538fd6a5f3cf363176057c58e",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:15 2024",
+            "filename": "rlut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlut/CERES-EBAF-2-8/rlut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ed16f459edcd49a1cb2d281babe7fc9f",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:16 2024",
+            "filename": "rlut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlut/CERES-EBAF-4-0/rlut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b8c89b7a8764e60d1e0970ac3f555427",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:17 2024",
+            "filename": "rlut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlut/CERES-EBAF-4-1/rlut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ebbb47c85f550c8f3466b0c93d364e5e",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:28 2024",
+            "filename": "rlut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlut/ERA-Interim/rlut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "00f6395143e1406dd52baece8ce0f413",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:13 2024",
+            "filename": "rlut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlut/ERA5/rlut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0524dda62cd16da8565764c84508a952",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:29 2024",
+            "filename": "rlut_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlut/MERRA2/rlut_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rlutcs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "40c055b6ccec36e344135ca722a3037b",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:18 2024",
+            "filename": "rlutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlutcs/CERES-EBAF-2-8/rlutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cfc4eab1517bf7981885be5f1a96a820",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:19 2024",
+            "filename": "rlutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlutcs/CERES-EBAF-4-0/rlutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "008ed9567ffc89e1b093f19a5bac4709",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:20 2024",
+            "filename": "rlutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlutcs/CERES-EBAF-4-1/rlutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7c7b8a3ba921203db80d037db665607c",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:22 2024",
+            "filename": "rlutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlutcs/ERA-Interim/rlutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "33ab46fef4238f81417f33c30e8c67d4",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:12 2024",
+            "filename": "rlutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlutcs/ERA5/rlutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f57d21d5c45aafcb93e02c7f0c5b1286",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:23 2024",
+            "filename": "rlutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlutcs/MERRA2/rlutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f0fe4dc47d5f4107bb7b077a6b4c66f2",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:00:26 2024",
+            "filename": "rlutcs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlutcs/NOAA-20C/rlutcs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "17f172bdd45853acae5443962e82a82e",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:24 2024",
+            "filename": "rlutcs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlutcs/NOAA-20Cp1pi/rlutcs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "033445bd39ddca516d99b1f261890efd",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:25 2024",
+            "filename": "rlutcs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rlutcs/NOAA-20Cp2pi/rlutcs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rmt": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "da70709619f2fbdc2563d551912599b6",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:30 2024",
+            "filename": "rmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rmt/CERES-EBAF-2-8/rmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "518df7b27d250492c47801c8e77a9bec",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:32 2024",
+            "filename": "rmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rmt/CERES-EBAF-4-0/rmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "aac1415d4c2800b8428f92192832b8e4",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:33 2024",
+            "filename": "rmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rmt/CERES-EBAF-4-1/rmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsds": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "dbb2460bc599900409aa08e668289d7b",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:33 2024",
+            "filename": "rsds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsds/CERES-EBAF-2-8/rsds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a99a0183d9a5af58d6008b06c87b096b",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:35 2024",
+            "filename": "rsds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsds/CERES-EBAF-4-0/rsds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ef94c22e762b3f11788ec25f3397548f",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:36 2024",
+            "filename": "rsds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsds/CERES-EBAF-4-1/rsds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "54e5d1d00fe36c3a20c07c922ed8ac05",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:44 2024",
+            "filename": "rsds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsds/ERA-Interim/rsds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c2132588639a33b94ad2a3443e0f7e4f",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:15 2024",
+            "filename": "rsds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsds/ERA5/rsds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2c28b931f967d6401e2f89c9f3a842fc",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:45 2024",
+            "filename": "rsds_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsds/MERRA2/rsds_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "084d6cac49d04bdd5aebfca2345f94bf",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:00:47 2024",
+            "filename": "rsds_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsds/NOAA-20C/rsds_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "910f5d7af707465d98fd4a93483e2de5",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:46 2024",
+            "filename": "rsds_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsds/NOAA-20Cp1pi/rsds_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e6ea6cb1a3b298aa93775029ffbf5cc2",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:47 2024",
+            "filename": "rsds_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsds/NOAA-20Cp2pi/rsds_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsdscs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cc6fab977fd425e26381732a8fb99878",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:36 2024",
+            "filename": "rsdscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdscs/CERES-EBAF-2-8/rsdscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "37058063f2d446cf7cee55201f425365",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:37 2024",
+            "filename": "rsdscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdscs/CERES-EBAF-4-0/rsdscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e6c9184d8c71db686e930ce771a17214",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:38 2024",
+            "filename": "rsdscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdscs/CERES-EBAF-4-1/rsdscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e42a8d8a8aa7158b8fb0c9018dd0bbd6",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:39 2024",
+            "filename": "rsdscs_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsdscs/MERRA2/rsdscs_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7556e121f9b3cb446fe241a0cf47430c",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:00:42 2024",
+            "filename": "rsdscs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsdscs/NOAA-20C/rsdscs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d3b38ecfa2ee389a2cc7b9a665c13cdd",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:40 2024",
+            "filename": "rsdscs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsdscs/NOAA-20Cp1pi/rsdscs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b56d1e875a4f5e02e1228c2bd9a495b9",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:41 2024",
+            "filename": "rsdscs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsdscs/NOAA-20Cp2pi/rsdscs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate7": "MERRA2",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsdt": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9ee5c77c6ee59b8397efac5e7c7a8d38",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:48 2024",
+            "filename": "rsdt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdt/CERES-EBAF-2-8/rsdt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0c1d669817037b8434cb9729d132aac8",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:49 2024",
+            "filename": "rsdt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdt/CERES-EBAF-4-0/rsdt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "416bb37e1b2fd353e8ebb55f73d76059",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:50 2024",
+            "filename": "rsdt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdt/CERES-EBAF-4-1/rsdt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "eb9dd0bf70d65808822149aa5a6ab2ea",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:53 2024",
+            "filename": "rsdt_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsdt/ERA-Interim/rsdt_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1e9b190c06599f8ffc3efb8bc86389b3",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:18 2024",
+            "filename": "rsdt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsdt/ERA5/rsdt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "915413266dbf63c06baffbaadcddd935",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:54 2024",
+            "filename": "rsdt_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsdt/MERRA2/rsdt_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ef097c8530ca64559e6a42778086094f",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:00:56 2024",
+            "filename": "rsdt_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsdt/NOAA-20C/rsdt_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "01a7690311a0c3e6e4dbaa219ea94fd9",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:55 2024",
+            "filename": "rsdt_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsdt/NOAA-20Cp1pi/rsdt_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c87d88997404caebb4cd7b94a0ffc716",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:00:55 2024",
+            "filename": "rsdt_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsdt/NOAA-20Cp2pi/rsdt_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rstcre": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a5e516f9fcd3b4b53b81d4c41a40d6ba",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:57 2024",
+            "filename": "rstcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rstcre/CERES-EBAF-2-8/rstcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f2793977c82afdb6fd6a3e14d5fb9435",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:58 2024",
+            "filename": "rstcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rstcre/CERES-EBAF-4-0/rstcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "86642705cff5932fcd6132d5db05faf4",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:59 2024",
+            "filename": "rstcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rstcre/CERES-EBAF-4-1/rstcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3964ffa7b1711f16e8f0636810ec462e",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:01:01 2024",
+            "filename": "rstcre_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rstcre/NOAA-20C/rstcre_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "02f85f5084fa76ab1b0810082efefd1e",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:00 2024",
+            "filename": "rstcre_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rstcre/NOAA-20Cp1pi/rstcre_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3d2d6a55f09d6862f4a457010bf975c1",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:00 2024",
+            "filename": "rstcre_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rstcre/NOAA-20Cp2pi/rstcre_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsus": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a8db12e1fe1249b4e0094c798b70c23f",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:02 2024",
+            "filename": "rsus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsus/CERES-EBAF-2-8/rsus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "06a58a87a48d9f2b1283d8bb959b769e",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:03 2024",
+            "filename": "rsus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsus/CERES-EBAF-4-0/rsus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "068467c759c61acd02875fa4233b1909",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:04 2024",
+            "filename": "rsus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsus/CERES-EBAF-4-1/rsus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b10d126db2d0b480f0c260e67a8e44a8",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:01:12 2024",
+            "filename": "rsus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsus/ERA-Interim/rsus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0a1d5b2a16ab9236ed31ebd3600700b7",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:21 2024",
+            "filename": "rsus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsus/ERA5/rsus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "497d1b0e1d67397a8fcf5421ece2d541",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:01:13 2024",
+            "filename": "rsus_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsus/MERRA2/rsus_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e557c218ec3e414fe37444f8aa116e08",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:01:15 2024",
+            "filename": "rsus_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsus/NOAA-20C/rsus_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4909400b7b98627a0ce234df4382d7b0",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:14 2024",
+            "filename": "rsus_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsus/NOAA-20Cp1pi/rsus_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "755ce571d599d6fcbd0184fb3fc616fa",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:14 2024",
+            "filename": "rsus_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsus/NOAA-20Cp2pi/rsus_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsuscs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "61f567dc0c52c6413fef9224d84a1683",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:05 2024",
+            "filename": "rsuscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsuscs/CERES-EBAF-2-8/rsuscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e62c48d9c6f96604d39c514541625929",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:06 2024",
+            "filename": "rsuscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsuscs/CERES-EBAF-4-0/rsuscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ab610540b29975e461596f072a82197b",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:07 2024",
+            "filename": "rsuscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsuscs/CERES-EBAF-4-1/rsuscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2e1f70265eb07f3144d97d85820895eb",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:01:10 2024",
+            "filename": "rsuscs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsuscs/NOAA-20C/rsuscs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "76b5eea9a48e2625dc539665e05b7df3",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:08 2024",
+            "filename": "rsuscs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsuscs/NOAA-20Cp1pi/rsuscs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b32a60726c0b78d4c9cc7361f7db2ae0",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:09 2024",
+            "filename": "rsuscs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsuscs/NOAA-20Cp2pi/rsuscs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        }
+    },
+    "rsut": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "be0eccf5688540e6cfccc42c2aae2a7a",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:16 2024",
+            "filename": "rsut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsut/CERES-EBAF-2-8/rsut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "673a989abdb208f46f6c1ac4373d4a18",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:17 2024",
+            "filename": "rsut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsut/CERES-EBAF-4-0/rsut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d8bb7bb497487f5f28b2c29b19d09c4a",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:18 2024",
+            "filename": "rsut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsut/CERES-EBAF-4-1/rsut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "59cc45e28d9b0fa444bdfa6ab5929c92",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:01:28 2024",
+            "filename": "rsut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsut/ERA-Interim/rsut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d479d66a753fbdfa93b6497f34a47d47",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:24 2024",
+            "filename": "rsut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsut/ERA5/rsut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0adefbe4599831c5e906dbdab7c4943c",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:01:29 2024",
+            "filename": "rsut_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsut/MERRA2/rsut_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1f1a36aa26655bdcbbab7ec3f9ca6968",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:01:31 2024",
+            "filename": "rsut_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsut/NOAA-20C/rsut_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4991662537bb25e30d76f554d44a0316",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:30 2024",
+            "filename": "rsut_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsut/NOAA-20Cp1pi/rsut_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f3f6718f0b23c4c955717a290e7e28df",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:30 2024",
+            "filename": "rsut_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsut/NOAA-20Cp2pi/rsut_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsutcs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7b9db524a3bd2422c5aae03dfccc2395",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:19 2024",
+            "filename": "rsutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsutcs/CERES-EBAF-2-8/rsutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fb4a1b0d9e2d2391f90c33cd8259bb42",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:19 2024",
+            "filename": "rsutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsutcs/CERES-EBAF-4-0/rsutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "49aa97ea70e893a1bd7210f41fa8374f",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:20 2024",
+            "filename": "rsutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsutcs/CERES-EBAF-4-1/rsutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "83e7901dc5087b86743360d979156d4d",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:01:23 2024",
+            "filename": "rsutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsutcs/ERA-Interim/rsutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "020f01eeba0bd819ea8686b5621158af",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:23 2024",
+            "filename": "rsutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsutcs/ERA5/rsutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "856a8ad0e3f018d8ed69180034a019ae",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:01:24 2024",
+            "filename": "rsutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsutcs/MERRA2/rsutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4a65ab810488df763c78f1bac8bcf48b",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:01:26 2024",
+            "filename": "rsutcs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsutcs/NOAA-20C/rsutcs_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1af435ba1148b84a848df7c83403f604",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:24 2024",
+            "filename": "rsutcs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsutcs/NOAA-20Cp1pi/rsutcs_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "285a70a0e6ea7433d193749646b4e86a",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:25 2024",
+            "filename": "rsutcs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/rsutcs/NOAA-20Cp2pi/rsutcs_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate3": "NOAA-20Cp2pi",
+        "alternate4": "NOAA-20Cp1pi",
+        "alternate5": "NOAA-20C",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rtmt": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9a3d90f01d32ba29bfd2b0a2971c79fb",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:32 2024",
+            "filename": "rtmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rtmt/CERES-EBAF-2-8/rtmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "96e6eecac7661ff851f5362f79eac1b4",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:33 2024",
+            "filename": "rtmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rtmt/CERES-EBAF-4-0/rtmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.DJF.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b0c41dd28063b363d3dcee296aee7a87",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:33 2024",
+            "filename": "rtmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rtmt/CERES-EBAF-4-1/rtmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.DJF.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "satellite_pr": {
+        "GPCP_v3.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2395240b350db6ea26bad860d9c5cf5c",
+            "RefName": "GPCP_v3.2",
+            "RefTrackingDate": "Tue Jan  9 21:01:34 2024",
+            "filename": "satellite_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Atm/satellite_pr/GPCP_v3.2/satellite_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.DJF.nc"
+        },
+        "default": "GPCP_v3.2"
+    },
+    "sco": {
+        "OMI-MLS": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "df39f68d8c6dfa0ab280db14cb983495",
+            "RefName": "OMI-MLS",
+            "RefTrackingDate": "Fri Jan  5 18:09:28 2024",
+            "filename": "sco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 120)",
+            "template": "Atm/sco/OMI-MLS/sco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.DJF.nc"
+        },
+        "default": "OMI-MLS"
+    },
+    "sfcWind": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "46f0bff7a5142102cedb58969dd1f898",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:28 2024",
+            "filename": "sfcWind_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/sfcWind/ERA5/sfcWind_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0582c9fb7a6623777c3ddf6387b1cac9",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:01:37 2024",
+            "filename": "sfcWind_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/sfcWind/NOAA-20C/sfcWind_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8b8e95b75d706ba579762b63e203b6b2",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:36 2024",
+            "filename": "sfcWind_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/sfcWind/NOAA-20Cp1pi/sfcWind_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5b2a6127278cd603ec5a2ad50794fa68",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:01:36 2024",
+            "filename": "sfcWind_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/sfcWind/NOAA-20Cp2pi/sfcWind_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "sic": {
+        "HadSST": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "e92020eb62cf813871fbbd42c86cc1c3",
+            "RefName": "HadSST",
+            "RefTrackingDate": "Tue Jan  9 21:06:07 2024",
+            "filename": "sic_mon_HadSST_BE_1x1_197901-201912.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Ocean/sic/HadSST/sic_mon_HadSST_BE_1x1_197901-201912.v20240104.DJF.nc"
+        },
+        "HadSSTp1pi": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "39264f487dd9a996e853ccb54fa75e1c",
+            "RefName": "HadSSTp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:06:05 2024",
+            "filename": "sic_mon_HadSSTp1pi_BE_1x1_187101-192012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Ocean/sic/HadSSTp1pi/sic_mon_HadSSTp1pi_BE_1x1_187101-192012.v20240104.DJF.nc"
+        },
+        "HadSSTp2pi": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "0a9e51badb87b1eef045b5482b9a9fe2",
+            "RefName": "HadSSTp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:06:06 2024",
+            "filename": "sic_mon_HadSSTp2pi_BE_1x1_192101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Ocean/sic/HadSSTp2pi/sic_mon_HadSSTp2pi_BE_1x1_192101-195012.v20240104.DJF.nc"
+        },
+        "NOAA_NSIDC_NH": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "dbf5f72b14387bc04fe492fe9609fe1a",
+            "RefName": "NOAA_NSIDC_NH",
+            "RefTrackingDate": "Mon Jan  8 14:33:51 2024",
+            "filename": "sic_mon_NOAA_NSIDC_NH_BE_gn_197901-202112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(448, 304)",
+            "template": "Ocean/sic/NOAA_NSIDC_NH/sic_mon_NOAA_NSIDC_NH_BE_gn_197901-202112.v20240104.DJF.nc"
+        },
+        "NOAA_NSIDC_SH": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "a8fae9d615cc127e5a0fba2211cbbf90",
+            "RefName": "NOAA_NSIDC_SH",
+            "RefTrackingDate": "Mon Jan  8 14:33:00 2024",
+            "filename": "sic_mon_NOAA_NSIDC_SH_BE_gn_197901-202112.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(332, 316)",
+            "template": "Ocean/sic/NOAA_NSIDC_SH/sic_mon_NOAA_NSIDC_SH_BE_gn_197901-202112.v20240104.DJF.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "b45e559967e05a533de7f87faad06d7f",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 21:06:09 2024",
+            "filename": "sic_mon_SSMI_BE_gn_197901-199912.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/sic/SSMI/sic_mon_SSMI_BE_gn_197901-199912.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA_NSIDC_NH",
+        "alternate2": "NOAA_NSIDC_SH",
+        "alternate3": "HadSSTp1pi",
+        "alternate4": "HadSSTp2pi",
+        "default": "HadSST"
+    },
+    "sos": {
+        "Aquarius": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "834165964d9ba621745d21183455a11e",
+            "RefName": "Aquarius",
+            "RefTrackingDate": "Tue Jan  9 21:06:09 2024",
+            "filename": "sos_mon_Aquarius_BE_gn_201201-201412.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(180, 360)",
+            "template": "Ocean/sos/Aquarius/sos_mon_Aquarius_BE_gn_201201-201412.v20240104.DJF.nc"
+        },
+        "default": "Aquarius"
+    },
+    "ta": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "86d2186f1f9542df42f1633752ce00f9",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:09 2024",
+            "filename": "ta_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/ta/ERA-Interim/ta_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6d1bae9a8413484802d7f3ce76100b66",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:55 2024",
+            "filename": "ta_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/ta/ERA5/ta_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b7c9e80a04815e74c3007cfc9cf97637",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:19 2024",
+            "filename": "ta_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/ta/MERRA2/ta_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ta200": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f0b15e6dd3326e958918e9f2882a9d42",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:21 2024",
+            "filename": "ta200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ta200/ERA-Interim/ta200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cb4460681e1f0787069e2caba1584183",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:21 2024",
+            "filename": "ta200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ta200/ERA5/ta200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "228d8fc6d08da5e90448a7dcce301a8d",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:22 2024",
+            "filename": "ta200_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ta200/MERRA2/ta200_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c1389a1d29978373d504b4b011766e18",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:22 2024",
+            "filename": "ta200_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ta200/NOAA-20C/ta200_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ce7674e257db93172c5ae040f583aaea",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:23 2024",
+            "filename": "ta200_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ta200/NOAA-20Cp1pi/ta200_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "de9aa8e04e102d48043d6e7d3da0e992",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:23 2024",
+            "filename": "ta200_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ta200/NOAA-20Cp2pi/ta200_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ta850": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c38adf439e3a398183c595ff0e25332f",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:25 2024",
+            "filename": "ta850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ta850/ERA-Interim/ta850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ba21aee3ebbc4a63fb48e9fc51f3c761",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:24 2024",
+            "filename": "ta850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ta850/ERA5/ta850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fe34b192691732c810e72493a2741d57",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:26 2024",
+            "filename": "ta850_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ta850/MERRA2/ta850_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a82e9cbf789251536b7a2a557894dc71",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:26 2024",
+            "filename": "ta850_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ta850/NOAA-20C/ta850_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "94fe7bd02b99cf79cd106b0d6acde3fe",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:27 2024",
+            "filename": "ta850_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ta850/NOAA-20Cp1pi/ta850_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9bb35bb576879fc536910beafaacdeb9",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:27 2024",
+            "filename": "ta850_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ta850/NOAA-20Cp2pi/ta850_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a9de1063bce518a2ebbaacf5af954cde",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:21 2024",
+            "filename": "tas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/tas/ERA-Interim/tas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f0f32e63ba7fc366b79daa5b2bd26e5c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:01 2024",
+            "filename": "tas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tas/ERA5/tas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "348f1d918a63aaaf12309769ef515765",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:22 2024",
+            "filename": "tas_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/tas/MERRA2/tas_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "bdc67e0e39748d4e3cea245ac24b61ca",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:02:25 2024",
+            "filename": "tas_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tas/NOAA-20C/tas_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3d7edd4da1d646beba025d507cf499e0",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:23 2024",
+            "filename": "tas_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tas/NOAA-20Cp1pi/tas_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e2847977ab24f07558284360f13c1d07",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:24 2024",
+            "filename": "tas_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tas/NOAA-20Cp2pi/tas_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tauu": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8d2e5bd7ddd11e96bda00a8390a91bfb",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:27 2024",
+            "filename": "tauu_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/tauu/ERA-Interim/tauu_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6d974c686c97ea09f1a67a3ff226f6f2",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:03 2024",
+            "filename": "tauu_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tauu/ERA5/tauu_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "63e87eb6d05981c587e1b2f6d4232992",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:28 2024",
+            "filename": "tauu_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/tauu/MERRA2/tauu_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "aac9cefa17eedc5162e075107a24a34c",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:02:31 2024",
+            "filename": "tauu_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tauu/NOAA-20C/tauu_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "aff23baf93da5571da9ec460af4c3f5e",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:29 2024",
+            "filename": "tauu_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tauu/NOAA-20Cp1pi/tauu_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c26a83655e62304c785bac004d9668b1",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:30 2024",
+            "filename": "tauu_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tauu/NOAA-20Cp2pi/tauu_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tauv": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "bd9581faa7587c196a3f0d4967d60b79",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:33 2024",
+            "filename": "tauv_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/tauv/ERA-Interim/tauv_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "679529b89b3e9592f70ca3849157e885",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:06 2024",
+            "filename": "tauv_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tauv/ERA5/tauv_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0ab60e1ed71c260bdbc41832227d684f",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:34 2024",
+            "filename": "tauv_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/tauv/MERRA2/tauv_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "746f44fcbdb8682bbfb4635dc65235b3",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:02:36 2024",
+            "filename": "tauv_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tauv/NOAA-20C/tauv_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "44895484af7acf059bc848f305bf1707",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:35 2024",
+            "filename": "tauv_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tauv/NOAA-20Cp1pi/tauv_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "865c7f1df8d3a92b440dbcf687a328d1",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:36 2024",
+            "filename": "tauv_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/tauv/NOAA-20Cp2pi/tauv_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tco": {
+        "OMI-MLS": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f105f0c0955efda0b9a7ee33ab28976f",
+            "RefName": "OMI-MLS",
+            "RefTrackingDate": "Tue Jan  9 21:02:37 2024",
+            "filename": "tco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 120, 288)",
+            "template": "Atm/tco/OMI-MLS/tco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.DJF.nc"
+        },
+        "default": "OMI-MLS"
+    },
+    "tds": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a003c71cef0f7da77242ae2832fc4fde",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:09 2024",
+            "filename": "tds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tds/ERA5/tds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "default": "ERA5"
+    },
+    "tos": {
+        "HadISST_CL": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "88ff7d3ec7bfc77d2887eabe5f824ae7",
+            "RefName": "HadISST_CL",
+            "RefTrackingDate": "Fri Jan  5 18:16:08 2024",
+            "filename": "tos_mon_HadISST_CL_BE_1x1_198201-201112.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/tos/HadISST_CL/tos_mon_HadISST_CL_BE_1x1_198201-201112.v20240104.DJF.nc"
+        },
+        "HadISST_PD": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "4ab7a77f8294e7e5673fd517a06cb954",
+            "RefName": "HadISST_PD",
+            "RefTrackingDate": "Fri Jan  5 18:15:30 2024",
+            "filename": "tos_mon_HadISST_PD_BE_1x1_199901-201612.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/tos/HadISST_PD/tos_mon_HadISST_PD_BE_1x1_199901-201612.v20240104.DJF.nc"
+        },
+        "HadISST_PI": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "36199fc11a6e93cdaaa5f260285d145b",
+            "RefName": "HadISST_PI",
+            "RefTrackingDate": "Fri Jan  5 18:14:56 2024",
+            "filename": "tos_mon_HadISST_PI_BE_1x1_187001-190012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/tos/HadISST_PI/tos_mon_HadISST_PI_BE_1x1_187001-190012.v20240104.DJF.nc"
+        },
+        "HadSST": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "b95dd532151f4759224f3f4af5f29fd8",
+            "RefName": "HadSST",
+            "RefTrackingDate": "Tue Jan  9 21:06:14 2024",
+            "filename": "tos_mon_HadSST_BE_1x1_197901-201912.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Ocean/tos/HadSST/tos_mon_HadSST_BE_1x1_197901-201912.v20240104.DJF.nc"
+        },
+        "HadSSTp1pi": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "d286ac97d26d06217f1a0779af82d2ed",
+            "RefName": "HadSSTp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:06:12 2024",
+            "filename": "tos_mon_HadSSTp1pi_BE_1x1_187101-192012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Ocean/tos/HadSSTp1pi/tos_mon_HadSSTp1pi_BE_1x1_187101-192012.v20240104.DJF.nc"
+        },
+        "HadSSTp2pi": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "f33b0cc8f00e93e9d9baf619480f578b",
+            "RefName": "HadSSTp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:06:13 2024",
+            "filename": "tos_mon_HadSSTp2pi_BE_1x1_192101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Ocean/tos/HadSSTp2pi/tos_mon_HadSSTp2pi_BE_1x1_192101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "HadISST_PD",
+        "alternate2": "HadISST_PI",
+        "alternate3": "HadSST",
+        "alternate4": "HadSSTp1pi",
+        "alternate5": "HadSSTp2pi",
+        "default": "HadISST_CL"
+    },
+    "tp": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "46b9b6385a9c979550e618cfc8b9ea6a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:13 2024",
+            "filename": "tp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tp/ERA5/tp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        }
+    },
+    "ts": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "de53d462f9d3d71000e032a67971452d",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:16 2024",
+            "filename": "ts_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ts/ERA5/ts_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b004c981a624f18c73ba0438725ef837",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:02:45 2024",
+            "filename": "ts_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ts/NOAA-20C/ts_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1525fc3e8f2fd23ccd0024cd207eedec",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:44 2024",
+            "filename": "ts_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ts/NOAA-20Cp1pi/ts_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8c0a850784fc947c0c559fa14fddca8a",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:02:44 2024",
+            "filename": "ts_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ts/NOAA-20Cp2pi/ts_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "default": "ERA5"
+    },
+    "ua": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f111ff80f0c65bc78ad0ac65adecff15",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:03:20 2024",
+            "filename": "ua_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/ua/ERA-Interim/ua_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "22f47b14802d727faa30b786a0d08c8c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:40 2024",
+            "filename": "ua_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/ua/ERA5/ua_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0ff86896c30421504fe26f9b6f5b82f3",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:03:33 2024",
+            "filename": "ua_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/ua/MERRA2/ua_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ua200": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0ebe1ffb46e1ece271b1de2b025e2f18",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:09 2024",
+            "filename": "ua200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ua200/ERA-Interim/ua200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "dd6c2662a0b152957cb8ccc7348c8781",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:08 2024",
+            "filename": "ua200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ua200/ERA5/ua200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0457e3aced4431c243c4801b5a2f4b0f",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:09 2024",
+            "filename": "ua200_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ua200/MERRA2/ua200_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "715b361b16cf0d55a00728e401ae89e1",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:09 2024",
+            "filename": "ua200_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ua200/NOAA-20C/ua200_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2d1b9d5d4c737a682b06540efdbea7f3",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:10 2024",
+            "filename": "ua200_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ua200/NOAA-20Cp1pi/ua200_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "77fd7dc6b3434da4d7eb1d4990fcf7ea",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:10 2024",
+            "filename": "ua200_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ua200/NOAA-20Cp2pi/ua200_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ua850": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1914f22d7afccfec439293984f682bf7",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ua850/ERA-Interim/ua850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f9070530d323590b379fa7e27c29e3ad",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ua850/ERA5/ua850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c0082baf17f1e98597df33c1f04c9942",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ua850/MERRA2/ua850_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5ec69b3d8fe8bac531e868b9b11b8c22",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ua850/NOAA-20C/ua850_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "931e1db20c8d9905002504bf97d84e2d",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:12 2024",
+            "filename": "ua850_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ua850/NOAA-20Cp1pi/ua850_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a9b4c1da1f925bf94e42e58b1e4f23e8",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:12 2024",
+            "filename": "ua850_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/ua850/NOAA-20Cp2pi/ua850_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "uas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "060146e9385c70e104a43b382fb52bb0",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:03:38 2024",
+            "filename": "uas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/uas/ERA-Interim/uas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2d6fcce4bd9aaffa0e3850aa135ebb6a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:50 2024",
+            "filename": "uas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/uas/ERA5/uas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1f578f2554068ba6d64d0aa95ee7042e",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:03:39 2024",
+            "filename": "uas_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/uas/MERRA2/uas_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c913079b3081fdee24cf86c02c565f06",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:03:41 2024",
+            "filename": "uas_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/uas/NOAA-20C/uas_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "481d6e3186868fa48615f7f2921d1eaf",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:03:40 2024",
+            "filename": "uas_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/uas/NOAA-20Cp1pi/uas_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "88ca104c8ffa3632a71dfa635502a134",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:03:41 2024",
+            "filename": "uas_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/uas/NOAA-20Cp2pi/uas_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "va": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "571fb1eba0b1e9c66cd4cb0e452a17d1",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:04:23 2024",
+            "filename": "va_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/va/ERA-Interim/va_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7d44a1b71e3aa8162fae67bc40f2b83a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:11 2024",
+            "filename": "va_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/va/ERA5/va_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "21e0aef7d43626e2874dd30480358e95",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:04:30 2024",
+            "filename": "va_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/va/MERRA2/va_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "va200": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d0537b67282faddd0e739cd0b5d16fa8",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:13 2024",
+            "filename": "va200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/va200/ERA-Interim/va200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3a44867027daa315ae727b36e8e7715a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:13 2024",
+            "filename": "va200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/va200/ERA5/va200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "938bca0f0571368cbe1c17e847410ab6",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:14 2024",
+            "filename": "va200_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/va200/MERRA2/va200_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1f9dfd212b43be93ae0a179466ca561f",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:14 2024",
+            "filename": "va200_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/va200/NOAA-20C/va200_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "943d68ebd5d0266be3fb41b3814e4d35",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:14 2024",
+            "filename": "va200_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/va200/NOAA-20Cp1pi/va200_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "db231aee7694c910d55879c884bfff14",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:15 2024",
+            "filename": "va200_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/va200/NOAA-20Cp2pi/va200_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "va850": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "300ea187ed122608fb12fece10e87ae4",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:16 2024",
+            "filename": "va850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/va850/ERA-Interim/va850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e0ff7633b32a1d0a34b31b9f94034fba",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:16 2024",
+            "filename": "va850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/va850/ERA5/va850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1fb03f19e47bebb61188270df233087c",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:17 2024",
+            "filename": "va850_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/va850/MERRA2/va850_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "294d1a34cf2947161ec94f17e12a1c17",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:17 2024",
+            "filename": "va850_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/va850/NOAA-20C/va850_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cbe4843c230172085514ffcf41926199",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:17 2024",
+            "filename": "va850_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/va850/NOAA-20Cp1pi/va850_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f7676cf1e8fa44ae63ca6d76cceb6b25",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:18 2024",
+            "filename": "va850_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/va850/NOAA-20Cp2pi/va850_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "vas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a07e489a3559ee5d93d01dfa7ba21e16",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:04:35 2024",
+            "filename": "vas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/vas/ERA-Interim/vas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7b46a956303975e0c5e1e06b5905d041",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:20 2024",
+            "filename": "vas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/vas/ERA5/vas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "470e76f71d3499f2060e8ef5bd167057",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:04:36 2024",
+            "filename": "vas_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/vas/MERRA2/vas_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3a70288ada21b770db510976130780b8",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Tue Jan  9 21:04:39 2024",
+            "filename": "vas_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/vas/NOAA-20C/vas_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "82740222544c83ad1c072ad6a363a041",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Tue Jan  9 21:04:37 2024",
+            "filename": "vas_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/vas/NOAA-20Cp1pi/vas_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c51c30642b268721de196f00ca389ad4",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Tue Jan  9 21:04:38 2024",
+            "filename": "vas_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/vas/NOAA-20Cp2pi/vas_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "vimd": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c2de1fadda23a260ea52eebd707bbbfb",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:21 2024",
+            "filename": "vimd_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/vimd/ERA5/vimd_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        }
+    },
+    "wa500": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "83b5a8922975cf5ac9d41a4f65b87d8e",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:19 2024",
+            "filename": "wa500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/wa500/ERA-Interim/wa500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0bc0f6122570d83b06413174f71e4d97",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:19 2024",
+            "filename": "wa500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/wa500/ERA5/wa500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5b7f7e30b3372a6d4d0b97f085751725",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:20 2024",
+            "filename": "wa500_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/wa500/MERRA2/wa500_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "wap": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f999743e8ba4dc8b013025bdf5939658",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:05:13 2024",
+            "filename": "wap_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/wap/ERA-Interim/wap_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3b24a9b4682283ede4c776993046074c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:43 2024",
+            "filename": "wap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/wap/ERA5/wap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9ad19d304c230ea0798c07b2712d5523",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:05:17 2024",
+            "filename": "wap_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/wap/MERRA2/wap_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zg": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4013b748459d4c69d777d846729abc2c",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:05:50 2024",
+            "filename": "zg_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/zg/ERA-Interim/zg_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4413835ad1cd54956a92d4469d47d1cb",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:32:14 2024",
+            "filename": "zg_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/zg/ERA5/zg_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "997c4017992debdc681dd1a84dbbdaab",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:06:00 2024",
+            "filename": "zg_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/zg/MERRA2/zg_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zg500": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6c23b6b6ff23d3025a31915d39d599bf",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:28 2024",
+            "filename": "zg500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/zg500/ERA-Interim/zg500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e7027f4410ab74a6fa3b79f4ebe0cc3b",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:28 2024",
+            "filename": "zg500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/zg500/ERA5/zg500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f9f1e764b1327d34de7b822361e9edb3",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:29 2024",
+            "filename": "zg500_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/zg500/MERRA2/zg500_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8d61b2368a6078b6781bab24aeef7c59",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:29 2024",
+            "filename": "zg500_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/zg500/NOAA-20C/zg500_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0ce60412d5188aa3908300011a68d594",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:29 2024",
+            "filename": "zg500_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/zg500/NOAA-20Cp1pi/zg500_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "646e8d3f01cbbd7cfc130402c164228d",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:30 2024",
+            "filename": "zg500_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/zg500/NOAA-20Cp2pi/zg500_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zg700": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b37b4639e77baa3e3259f6a0d99b2f36",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:31 2024",
+            "filename": "zg700_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/zg700/ERA-Interim/zg700_mon_ERA-Interim_BE_gn_197901-201612.v20240104.DJF.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d96ea7384eefe630872e5413e66f9487",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:31 2024",
+            "filename": "zg700_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/zg700/ERA5/zg700_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.DJF.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ea8579589aeea9d6876fdf51f8a6d0c5",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:32 2024",
+            "filename": "zg700_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/zg700/MERRA2/zg700_mon_MERRA2_BE_gn_198001-201612.v20240104.DJF.nc"
+        },
+        "NOAA-20C": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "45bbf288ede6f5996e252e67afd70c30",
+            "RefName": "NOAA-20C",
+            "RefTrackingDate": "Mon Jan 15 11:45:32 2024",
+            "filename": "zg700_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/zg700/NOAA-20C/zg700_mon_NOAA-20C_BE_1x1_197901-201412.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp1pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "50f9a79853d90c10e89c32f656f9b990",
+            "RefName": "NOAA-20Cp1pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:32 2024",
+            "filename": "zg700_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/zg700/NOAA-20Cp1pi/zg700_mon_NOAA-20Cp1pi_BE_1x1_185301-190212.v20240104.DJF.nc"
+        },
+        "NOAA-20Cp2pi": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f1c7f7d617fc22199eae12065cea9557",
+            "RefName": "NOAA-20Cp2pi",
+            "RefTrackingDate": "Mon Jan 15 11:45:33 2024",
+            "filename": "zg700_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc",
+            "period": "1x1",
+            "shape": "(180, 360)",
+            "template": "Atm/zg700/NOAA-20Cp2pi/zg700_mon_NOAA-20Cp2pi_BE_1x1_190101-195012.v20240104.DJF.nc"
+        },
+        "alternate1": "NOAA-20Cp2pi",
+        "alternate2": "NOAA-20Cp1pi",
+        "alternate3": "NOAA-20C",
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zos": {
+        "AVISO": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "65068b1f6bd74af723ef2f0d7ff8e373",
+            "RefName": "AVISO",
+            "RefTrackingDate": "Tue Jan  9 21:06:14 2024",
+            "filename": "zos_mon_AVISO_BE_gn_199301-201012.v20240104.DJF.nc",
+            "period": "gn",
+            "shape": "(180, 360)",
+            "template": "Ocean/zos/AVISO/zos_mon_AVISO_BE_gn_199301-201012.v20240104.DJF.nc"
+        },
+        "default": "AVISO"
+    }
+}

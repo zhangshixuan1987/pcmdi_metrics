@@ -1,0 +1,2558 @@
+{
+    "aodvis": {
+        "AOD_550": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "404b077c5a22224de0644503599c8c3f",
+            "RefName": "AOD_550",
+            "RefTrackingDate": "Tue Jan  9 20:56:33 2024",
+            "filename": "aodvis_mon_AOD_550_BE_1x1_200101-201412.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/aodvis/AOD_550/aodvis_mon_AOD_550_BE_1x1_200101-201412.v20240104.ANN.nc"
+        },
+        "MACv2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "45e0364478bc0fda93e0687847b635b5",
+            "RefName": "MACv2",
+            "RefTrackingDate": "Tue Jan  9 20:56:34 2024",
+            "filename": "aodvis_mon_MACv2_BE_1x1_200501-200512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/aodvis/MACv2/aodvis_mon_MACv2_BE_1x1_200501-200512.v20240104.ANN.nc"
+        },
+        "alternate1": "MACv2",
+        "default": "AOD_550"
+    },
+    "clhgh": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "526ccc2057c5c22210b70720f1627185",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:34 2024",
+            "filename": "clhgh_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/clhgh/CALIPSOCOSP/clhgh_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c36971f8e52b7ea9b997beb33f39c331",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:35 2024",
+            "filename": "clhgh_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/clhgh/ISCCPCOSP/clhgh_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5f73dde66064ab55598742822d30604a",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:36 2024",
+            "filename": "clhgh_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clhgh/MISRCOSP/clhgh_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3d53a7ddc4543a750e23b0fa97abc78d",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:54 2024",
+            "filename": "clhgh_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clhgh/MODISCOSP/clhgh_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        }
+    },
+    "clivi": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "87b738c97f443aa37216f096f2a3c449",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:01 2024",
+            "filename": "clivi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/clivi/ERA5/clivi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "cllow": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2b89ab1ffbacdbde1f6d8c7546b82a03",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:41 2024",
+            "filename": "cllow_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/cllow/CALIPSOCOSP/cllow_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "72409226017bf7f0847264251281eb91",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:42 2024",
+            "filename": "cllow_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/cllow/ISCCPCOSP/cllow_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2459acd92d3b68422892e23a31e997a9",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:42 2024",
+            "filename": "cllow_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/cllow/MISRCOSP/cllow_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9d95f274eed38cb8ce264795af9528aa",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:54 2024",
+            "filename": "cllow_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/cllow/MODISCOSP/cllow_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        }
+    },
+    "clmed": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f06c651786fd0e048ac42de44f652cf7",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:44 2024",
+            "filename": "clmed_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/clmed/CALIPSOCOSP/clmed_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "49aee3f43c3b5b2c3d4bf71db89d5054",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:45 2024",
+            "filename": "clmed_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/clmed/ISCCPCOSP/clmed_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ca0fea2c5c98982918623d015432fc1b",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:45 2024",
+            "filename": "clmed_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clmed/MISRCOSP/clmed_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cf13c7256c70b4273df8d9e7fec39ccc",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:54 2024",
+            "filename": "clmed_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clmed/MODISCOSP/clmed_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        }
+    },
+    "clt": {
+        "CALIPSOCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "46ac62e2fa0896835e6f35267b91600a",
+            "RefName": "CALIPSOCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:47 2024",
+            "filename": "clt_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 90, 180)",
+            "template": "Atm/clt/CALIPSOCOSP/clt_mon_CALIPSOCOSP_BE_gn_200701-201012.v20240104.ANN.nc"
+        },
+        "CLOUDSATCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2b6b10681f5eef103815005569d2f70b",
+            "RefName": "CLOUDSATCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:48 2024",
+            "filename": "clt_mon_CLOUDSATCOSP_BE_gn_200501-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 82, 180)",
+            "template": "Atm/clt/CLOUDSATCOSP/clt_mon_CLOUDSATCOSP_BE_gn_200501-201112.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f39c524e081982e3949b8d6fcb3fd935",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:02 2024",
+            "filename": "clt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/clt/ERA5/clt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "ISCCPCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "62ed002b5a49a04bde5c342fb9f71a80",
+            "RefName": "ISCCPCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:50 2024",
+            "filename": "clt_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/clt/ISCCPCOSP/clt_mon_ISCCPCOSP_BE_gn_198301-200812.v20240104.ANN.nc"
+        },
+        "MISRCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8e5d3e8fc537425a7468c393227bdeeb",
+            "RefName": "MISRCOSP",
+            "RefTrackingDate": "Tue Jan  9 20:56:51 2024",
+            "filename": "clt_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clt/MISRCOSP/clt_mon_MISRCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        },
+        "MODISCOSP": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0dd1b50421079d963cbe1c6ea5b96781",
+            "RefName": "MODISCOSP",
+            "RefTrackingDate": "Fri Jan  5 17:55:54 2024",
+            "filename": "clt_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/clt/MODISCOSP/clt_mon_MODISCOSP_BE_gn_200101-201112.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "clwvi": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1e0ffc4d5c740126820f80fbcb21dace",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:03 2024",
+            "filename": "clwvi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/clwvi/ERA5/clwvi_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a5d30ad894030573627137c0f80f46b2",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 20:56:56 2024",
+            "filename": "clwvi_mon_SSMI_BE_1x1_197901-199912.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 64, 128)",
+            "template": "Atm/clwvi/SSMI/clwvi_mon_SSMI_BE_1x1_197901-199912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "cp": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "592d1199f9573148c7d0f5a30e950932",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:05 2024",
+            "filename": "cp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/cp/ERA5/cp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "evap": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "bbc441b4ead4d37f9740612aecc8a0fc",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:06 2024",
+            "filename": "evap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/evap/ERA5/evap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "evspsbl": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "25cf3c7dec5fde64c6b4a24293e13f37",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:57:00 2024",
+            "filename": "evspsbl_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/evspsbl/COREv2_Flux/evspsbl_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "373b8d49d86095a2a296a97909e7a36e",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:09 2024",
+            "filename": "evspsbl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/evspsbl/ERA5/evspsbl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fdd0c376ad2d51d35c857df48729ef41",
+            "RefName": "OAFlux",
+            "RefTrackingDate": "Tue Jan  9 20:57:05 2024",
+            "filename": "evspsbl_mon_OAFlux_BE_1x1_198001-200412.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/evspsbl/OAFlux/evspsbl_mon_OAFlux_BE_1x1_198001-200412.v20240104.ANN.nc"
+        },
+        "alternate1": "COREv2_Flux",
+        "alternate5": "ERA5",
+        "default": "OAFlux"
+    },
+    "frwflx": {
+        "GPCP_OAFLux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a43a1c7109da199fcb845aa37250e1f8",
+            "RefName": "GPCP_OAFLux",
+            "RefTrackingDate": "Tue Jan  9 20:57:06 2024",
+            "filename": "frwflx_mon_GPCP_OAFLux_BE_gn_197901-201312.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/frwflx/GPCP_OAFLux/frwflx_mon_GPCP_OAFLux_BE_gn_197901-201312.v20240104.ANN.nc"
+        },
+        "default": "GPCP_OAFLux"
+    },
+    "gauge_pr": {
+        "GPCP_v3.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f49c132e7f4d8afa3440dd98fc64468a",
+            "RefName": "GPCP_v3.2",
+            "RefTrackingDate": "Tue Jan  9 20:57:07 2024",
+            "filename": "gauge_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Atm/gauge_pr/GPCP_v3.2/gauge_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.ANN.nc"
+        },
+        "default": "GPCP_v3.2"
+    },
+    "hfls": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "07af1d1fe191fc579cb840dd5a13f650",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:57:08 2024",
+            "filename": "hfls_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfls/COREv2_Flux/hfls_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "04fc993e3750594589c65ea9adbf13bb",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:57:11 2024",
+            "filename": "hfls_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/hfls/ERA-Interim/hfls_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8892ea6bf54de3a01e17abf681683d2a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:10 2024",
+            "filename": "hfls_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/hfls/ERA5/hfls_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2a141c5238247f59d479abfa750dff11",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:57:12 2024",
+            "filename": "hfls_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/hfls/MERRA2/hfls_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e680fa3fe86c41ad0fac43319911ac78",
+            "RefName": "OAFlux",
+            "RefTrackingDate": "Tue Jan  9 20:57:15 2024",
+            "filename": "hfls_mon_OAFlux_BE_1x1_198001-200412.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfls/OAFlux/hfls_mon_OAFlux_BE_1x1_198001-200412.v20240104.ANN.nc"
+        },
+        "alternate1": "COREv2_Flux",
+        "alternate5": "ERA-Interim",
+        "alternate6": "MERRA2",
+        "alternate7": "ERA5",
+        "default": "COREv2_Flux"
+    },
+    "hfrad": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c609a8362975309e0dd25819e5d16ef9",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:57:18 2024",
+            "filename": "hfrad_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfrad/CERES-EBAF-2-8/hfrad_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d446f272798bdf9887660c75e856e309",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:57:20 2024",
+            "filename": "hfrad_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfrad/CERES-EBAF-4-0/hfrad_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7e129b03cfa6e8a1b291999476b5ed7f",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 20:57:21 2024",
+            "filename": "hfrad_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfrad/CERES-EBAF-4-1/hfrad_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "hfradcs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "32868db6e5b90f0332ff14f0092699ea",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:57:22 2024",
+            "filename": "hfradcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfradcs/CERES-EBAF-2-8/hfradcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9348032279c06e59320389c860061eef",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:57:22 2024",
+            "filename": "hfradcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfradcs/CERES-EBAF-4-0/hfradcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0"
+    },
+    "hfss": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8643239434a378b02707e6d27f50640f",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:57:25 2024",
+            "filename": "hfss_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfss/COREv2_Flux/hfss_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "65e82f125dafdb14726c0f13ac80f91f",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:57:28 2024",
+            "filename": "hfss_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/hfss/ERA-Interim/hfss_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "111ed6b981a9337d3cfa6bd9d3b52f2a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:13 2024",
+            "filename": "hfss_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/hfss/ERA5/hfss_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "458bd70886b809393497d90172630257",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:57:29 2024",
+            "filename": "hfss_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/hfss/MERRA2/hfss_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "OAFlux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8c6811bef01e39389ab72791dae2e510",
+            "RefName": "OAFlux",
+            "RefTrackingDate": "Tue Jan  9 20:57:33 2024",
+            "filename": "hfss_mon_OAFlux_BE_1x1_198001-200412.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/hfss/OAFlux/hfss_mon_OAFlux_BE_1x1_198001-200412.v20240104.ANN.nc"
+        },
+        "alternate1": "COREv2_Flux",
+        "alternate5": "ERA-Interim",
+        "alternate6": "MERRA2",
+        "alternate7": "ERA5",
+        "default": "COREv2_Flux"
+    },
+    "hur": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5c734cf3b3fa58e1dab89833a4e14612",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:57:58 2024",
+            "filename": "hur_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/hur/ERA-Interim/hur_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "900a4de7f0da00a1cbf202235a6f70bf",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:27 2024",
+            "filename": "hur_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/hur/ERA5/hur_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "616ae2d455b1c057be4bda17b4d5c78c",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:58:03 2024",
+            "filename": "hur_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/hur/MERRA2/hur_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "hus": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6e064d5d127175fd93150ffb521e4a17",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:58:29 2024",
+            "filename": "hus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/hus/ERA-Interim/hus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6fd80703f6e00b2d9e7845ab3dd39340",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:50 2024",
+            "filename": "hus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/hus/ERA5/hus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6556c8f5471ae97b3b47ab3ddd8b47bf",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:58:41 2024",
+            "filename": "hus_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/hus/MERRA2/hus_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "huss": {
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "55f3d1e7bc41b7f7bdb2b54aa8d0e87e",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:58:43 2024",
+            "filename": "huss_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/huss/MERRA2/huss_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        }
+    },
+    "lsp": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2b1a4689cf5c01b2e6d2ec76a6364f77",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:57 2024",
+            "filename": "lsp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/lsp/ERA5/lsp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "mrros": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "215c8470f5fb6665ff115c3da62fefb3",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:32:20 2024",
+            "filename": "mrros_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Land/mrros/ERA5/mrros_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "ISLSCPII_GRDC": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "421607303a5fdaaa6224d85c335bbd1f",
+            "RefName": "ISLSCPII_GRDC",
+            "RefTrackingDate": "Tue Jan  9 21:06:04 2024",
+            "filename": "mrros_mon_ISLSCPII_GRDC_BE_gn_198601-199512.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Land/mrros/ISLSCPII_GRDC/mrros_mon_ISLSCPII_GRDC_BE_gn_198601-199512.v20240104.ANN.nc"
+        },
+        "alternate1": "ERA5",
+        "default": "ISLSCPII_GRDC"
+    },
+    "pr": {
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "dd964630a2716b90b3fdc41a699d72db",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:58:52 2024",
+            "filename": "pr_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/pr/COREv2_Flux/pr_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6feacd2eae5d7e99730daa952d8d0e78",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:58:57 2024",
+            "filename": "pr_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/pr/ERA-Interim/pr_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fb69ba821c8318d203df1c42c29ebfd8",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:01 2024",
+            "filename": "pr_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/pr/ERA5/pr_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "GPCP_1DD": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "424890172f4eaf7e52817d04f9c1ec83",
+            "RefName": "GPCP_1DD",
+            "RefTrackingDate": "Tue Jan  9 20:58:58 2024",
+            "filename": "pr_mon_GPCP_1DD_BE_gn_199701-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/pr/GPCP_1DD/pr_mon_GPCP_1DD_BE_gn_199701-201612.v20240104.ANN.nc"
+        },
+        "GPCP_v2.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d4f00322be63430aff4b4a72915a7ecd",
+            "RefName": "GPCP_v2.2",
+            "RefTrackingDate": "Tue Jan  9 20:58:59 2024",
+            "filename": "pr_mon_GPCP_v2.2_BE_gn_197901-201412.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/pr/GPCP_v2.2/pr_mon_GPCP_v2.2_BE_gn_197901-201412.v20240104.ANN.nc"
+        },
+        "GPCP_v2.3": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "86f1931593ac928ea80e43b00b852380",
+            "RefName": "GPCP_v2.3",
+            "RefTrackingDate": "Tue Jan  9 20:59:00 2024",
+            "filename": "pr_mon_GPCP_v2.3_BE_gn_197901-201712.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 72, 144)",
+            "template": "Atm/pr/GPCP_v2.3/pr_mon_GPCP_v2.3_BE_gn_197901-201712.v20240104.ANN.nc"
+        },
+        "GPCP_v3.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "033b804a502065c6115515adbbee3584",
+            "RefName": "GPCP_v3.2",
+            "RefTrackingDate": "Tue Jan  9 20:59:01 2024",
+            "filename": "pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Atm/pr/GPCP_v3.2/pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b032ac743f5958d27bb03424147c6086",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:02 2024",
+            "filename": "pr_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/pr/MERRA2/pr_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9d835cc5c1fcba8bbb5d0a539e0446f3",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 20:59:09 2024",
+            "filename": "pr_mon_SSMI_BE_1x1_197901-199912.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 64, 128)",
+            "template": "Atm/pr/SSMI/pr_mon_SSMI_BE_1x1_197901-199912.v20240104.ANN.nc"
+        },
+        "TRMM-3B43v-7": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a63e9ad413c7c000e03d6f531705a7bb",
+            "RefName": "TRMM-3B43v-7",
+            "RefTrackingDate": "Tue Jan  9 20:59:21 2024",
+            "filename": "pr_mon_TRMM-3B43v-7_BE_gn_199801-201312.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(8, 400, 1440)",
+            "template": "Atm/pr/TRMM-3B43v-7/pr_mon_TRMM-3B43v-7_BE_gn_199801-201312.v20240104.ANN.nc"
+        },
+        "alternate1": "GPCP_v2.3",
+        "alternate2": "GPCP_v2.2",
+        "alternate3": "GPCP_1DD",
+        "alternate4": "TRMM-3B43v-7",
+        "alternate5": "ERA5",
+        "alternate6": "MERRA2",
+        "alternate7": "ERA-Interim",
+        "default": "GPCP_v3.2"
+    },
+    "prc": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cec64a0e603a41f59ab7ba8244591c07",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:28:58 2024",
+            "filename": "prc_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/prc/ERA5/prc_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "prsn": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e29f08163de72390c75b74e416668e38",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:02 2024",
+            "filename": "prsn_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/prsn/ERA5/prsn_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "prw": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "bb607b75d7e0207c31f7533b26112b80",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:59:27 2024",
+            "filename": "prw_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/prw/ERA-Interim/prw_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a48fc9d7eae2d43cbe701dffbcc2e0d9",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:04 2024",
+            "filename": "prw_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/prw/ERA5/prw_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9ec7b0396567ba8614581652e4c33cfb",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:28 2024",
+            "filename": "prw_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/prw/MERRA2/prw_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f5a475cd5acc121544688dda599a41ee",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 20:59:32 2024",
+            "filename": "prw_mon_SSMI_BE_1x1_197901-199912.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 64, 128)",
+            "template": "Atm/prw/SSMI/prw_mon_SSMI_BE_1x1_197901-199912.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ps": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "bd231a839ab950f4568d73f3d74f7e6c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:05 2024",
+            "filename": "ps_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ps/ERA5/ps_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "psl": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "acfc3f441f059ac5a22cc835d436db97",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:59:37 2024",
+            "filename": "psl_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/psl/ERA-Interim/psl_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "628871ee6f77d9ca353b13ec2a09a42d",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:07 2024",
+            "filename": "psl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/psl/ERA5/psl_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8a79baac063e3a94e985004a354bf6b3",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:38 2024",
+            "filename": "psl_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/psl/MERRA2/psl_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "rlds": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "95680842832c4118fe122a5579131b5b",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:59:44 2024",
+            "filename": "rlds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/CERES-EBAF-2-8/rlds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b0bd69eb021b9279afad418d72b1024c",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:59:45 2024",
+            "filename": "rlds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/CERES-EBAF-4-0/rlds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b2e6954b32ed28e58a64d350eb0bc7c9",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 20:59:46 2024",
+            "filename": "rlds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/CERES-EBAF-4-1/rlds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "47b9717307c9e5941aed486ac5b4e01f",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 20:59:47 2024",
+            "filename": "rlds_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlds/COREv2_Flux/rlds_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a676dd8827f3fd964c72199538d6892d",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 20:59:55 2024",
+            "filename": "rlds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlds/ERA-Interim/rlds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fb256ba1b24a1e6ea99cb32d71cabfe7",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:08 2024",
+            "filename": "rlds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlds/ERA5/rlds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "09db9ca4f445a80f6fa2fe05c50b1536",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 20:59:57 2024",
+            "filename": "rlds_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlds/MERRA2/rlds_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rldscs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "be526ac030922d768e8ac0f36e045b33",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 20:59:48 2024",
+            "filename": "rldscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rldscs/CERES-EBAF-2-8/rldscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1368da00288b4a7d2f3caf9473a89f31",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 20:59:49 2024",
+            "filename": "rldscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rldscs/CERES-EBAF-4-0/rldscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d060d8ef9a55a4e1b64d38692356f6e8",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 20:59:50 2024",
+            "filename": "rldscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rldscs/CERES-EBAF-4-1/rldscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rltcre": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a30bdd8592ca69d7e48ac29f87c61330",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:00 2024",
+            "filename": "rltcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rltcre/CERES-EBAF-2-8/rltcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3e5022eeb65862337d1d77dd19344f43",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:01 2024",
+            "filename": "rltcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rltcre/CERES-EBAF-4-0/rltcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9c47c94c02ce4cae2d0145c3b46af6c6",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:02 2024",
+            "filename": "rltcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rltcre/CERES-EBAF-4-1/rltcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rlus": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0f4fbef9684ba9badb82b3f51d154e95",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:05 2024",
+            "filename": "rlus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/CERES-EBAF-2-8/rlus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "00ff3a4daad7e4cd2c86d3ba22a8394a",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:06 2024",
+            "filename": "rlus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/CERES-EBAF-4-0/rlus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "92fa06c15b5741cadd9046bc1b7bdb25",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:07 2024",
+            "filename": "rlus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/CERES-EBAF-4-1/rlus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "COREv2_Flux": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2f42121ac245e93bf4a802a39fedb898",
+            "RefName": "COREv2_Flux",
+            "RefTrackingDate": "Tue Jan  9 21:00:08 2024",
+            "filename": "rlus_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlus/COREv2_Flux/rlus_mon_COREv2_Flux_BE_1x1_197901-200612.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e213ec1e936bf3b5f4de5d8d74847bff",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:10 2024",
+            "filename": "rlus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlus/ERA-Interim/rlus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5ac97722cc00cf10f0ad93f592e67644",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:10 2024",
+            "filename": "rlus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlus/ERA5/rlus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b04c0ef4ba9060c707e87b36699dd95c",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:11 2024",
+            "filename": "rlus_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlus/MERRA2/rlus_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rlut": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d7107149c3e8776389618106b0c0370b",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:15 2024",
+            "filename": "rlut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlut/CERES-EBAF-2-8/rlut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "213f12f1e35dbc02c9a79c00134d3454",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:16 2024",
+            "filename": "rlut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlut/CERES-EBAF-4-0/rlut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "802c0e4fdd48bea3ea14457a8feacfea",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:17 2024",
+            "filename": "rlut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlut/CERES-EBAF-4-1/rlut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3e86447b5091f36419dbcca68ddc0f26",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:28 2024",
+            "filename": "rlut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlut/ERA-Interim/rlut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "192e7d9c1c8e9195a5bd675dc49eb93b",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:13 2024",
+            "filename": "rlut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlut/ERA5/rlut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "62a801ef32fcde182ac95191867c20d6",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:29 2024",
+            "filename": "rlut_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlut/MERRA2/rlut_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rlutcs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8f234c0abf4817acaf71c013076d48f1",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:18 2024",
+            "filename": "rlutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlutcs/CERES-EBAF-2-8/rlutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e5997cbaa89f21472584ad289217eff1",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:19 2024",
+            "filename": "rlutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlutcs/CERES-EBAF-4-0/rlutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c32ce1d67763e77044ecea39dfb61f3c",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:20 2024",
+            "filename": "rlutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rlutcs/CERES-EBAF-4-1/rlutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "585d64cd4e18a86af343f3deeb9cf81c",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:22 2024",
+            "filename": "rlutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rlutcs/ERA-Interim/rlutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5b1cafd39d0943ee5bf02f5f7e0fec1f",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:12 2024",
+            "filename": "rlutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rlutcs/ERA5/rlutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e93466436c1b744349dcb77e13eb0dfb",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:23 2024",
+            "filename": "rlutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rlutcs/MERRA2/rlutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rmt": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "edf13adf11778ba6e33b170e72a4a928",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:30 2024",
+            "filename": "rmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rmt/CERES-EBAF-2-8/rmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b49ce5caf8a5e7dccf70fde9aee60a76",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:31 2024",
+            "filename": "rmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rmt/CERES-EBAF-4-0/rmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e03126c1cda6e842dad1b53ad10df3e3",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:32 2024",
+            "filename": "rmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rmt/CERES-EBAF-4-1/rmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsds": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "034ddad368937d688fc8407a378bf0a0",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:33 2024",
+            "filename": "rsds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsds/CERES-EBAF-2-8/rsds_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7cf62742aa8731f26f1b45c310ea1c0b",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:34 2024",
+            "filename": "rsds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsds/CERES-EBAF-4-0/rsds_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9d270d164fbc69b96ee267cfbf56b58d",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:35 2024",
+            "filename": "rsds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsds/CERES-EBAF-4-1/rsds_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "c453fbc0741fa09a1bfdaa0cc8596e9b",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:44 2024",
+            "filename": "rsds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsds/ERA-Interim/rsds_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "54cc24c834a5877e376920231456c446",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:15 2024",
+            "filename": "rsds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsds/ERA5/rsds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "33c508189196f3a92a51fae43a07d017",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:45 2024",
+            "filename": "rsds_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsds/MERRA2/rsds_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsdscs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "067a25684ccc7175938490818d5aaa2d",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:36 2024",
+            "filename": "rsdscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdscs/CERES-EBAF-2-8/rsdscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "654e3c61522b02e20b1c71776d9994f5",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:37 2024",
+            "filename": "rsdscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdscs/CERES-EBAF-4-0/rsdscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "53446febce1ac076bebdb728d79beb27",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:38 2024",
+            "filename": "rsdscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdscs/CERES-EBAF-4-1/rsdscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d0c27783434ca3bac096fe337521e663",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:39 2024",
+            "filename": "rsdscs_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsdscs/MERRA2/rsdscs_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate7": "MERRA2",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsdt": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fb866db8f7f1adf2a4e3923e38642a20",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:48 2024",
+            "filename": "rsdt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdt/CERES-EBAF-2-8/rsdt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "59a2e6ec247af548835cfada99c214fe",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:49 2024",
+            "filename": "rsdt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdt/CERES-EBAF-4-0/rsdt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6a7cceff7205138e0b2dd530b8db2d40",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:50 2024",
+            "filename": "rsdt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsdt/CERES-EBAF-4-1/rsdt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0353f7b7867a46fcee3d4cfed32428b9",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:00:53 2024",
+            "filename": "rsdt_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsdt/ERA-Interim/rsdt_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "06c5ba14fb86af3fea7cf4e8c734c39c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:18 2024",
+            "filename": "rsdt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsdt/ERA5/rsdt_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f6482cef45bf7570313b91f8bd4ddd75",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:00:54 2024",
+            "filename": "rsdt_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsdt/MERRA2/rsdt_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rstcre": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "52c52e741f3306ea09cff119dfeeee3f",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:00:57 2024",
+            "filename": "rstcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rstcre/CERES-EBAF-2-8/rstcre_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3a1db82365221f65d4d016fffddba8ed",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:00:58 2024",
+            "filename": "rstcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rstcre/CERES-EBAF-4-0/rstcre_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "47bec41eb0de044f9ccf4429d5d010ee",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:00:59 2024",
+            "filename": "rstcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rstcre/CERES-EBAF-4-1/rstcre_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsus": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "62ce850c259c9b9bccd00a6fe36cb235",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:02 2024",
+            "filename": "rsus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsus/CERES-EBAF-2-8/rsus_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "abc1719ad56e47761f2c5a3c41c70b9d",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:03 2024",
+            "filename": "rsus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsus/CERES-EBAF-4-0/rsus_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "fdfe606c3f4e551afcf67c19c681841b",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:04 2024",
+            "filename": "rsus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsus/CERES-EBAF-4-1/rsus_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "146f05dc30bb3c0bcca156705090ed97",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:01:12 2024",
+            "filename": "rsus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsus/ERA-Interim/rsus_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6188653ecb90073c9446505a55e0392f",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:21 2024",
+            "filename": "rsus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsus/ERA5/rsus_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "98fce53779dab724d092ce76e92fcace",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:01:13 2024",
+            "filename": "rsus_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsus/MERRA2/rsus_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsuscs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6fb4be7206efb16b9778d191b204dc73",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:05 2024",
+            "filename": "rsuscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsuscs/CERES-EBAF-2-8/rsuscs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "a14eaf2428e533ee13a199202e6b8a60",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:06 2024",
+            "filename": "rsuscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsuscs/CERES-EBAF-4-0/rsuscs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b61d5ae31be42c977382d68f82098bb2",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:07 2024",
+            "filename": "rsuscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsuscs/CERES-EBAF-4-1/rsuscs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        }
+    },
+    "rsut": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d261aed7f596723425772ffb925cf1a0",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:16 2024",
+            "filename": "rsut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsut/CERES-EBAF-2-8/rsut_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b4bb78794ab93abc239b023839f8bd76",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:17 2024",
+            "filename": "rsut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsut/CERES-EBAF-4-0/rsut_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9a06812cd5455a93cfdbf8d0cdb3449b",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:18 2024",
+            "filename": "rsut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsut/CERES-EBAF-4-1/rsut_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3272cc189e4dfebd50703c79dee6dd51",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:01:28 2024",
+            "filename": "rsut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsut/ERA-Interim/rsut_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1da62555b5bbb2e8010089ff8d11cf8b",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:24 2024",
+            "filename": "rsut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsut/ERA5/rsut_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5cc540f07c878ae17cedbd790910cf9e",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:01:28 2024",
+            "filename": "rsut_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsut/MERRA2/rsut_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rsutcs": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1d2679e00881a97aa54af320cd1848c3",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:18 2024",
+            "filename": "rsutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsutcs/CERES-EBAF-2-8/rsutcs_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "60938e4934ad1384599cdcb60065faef",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:19 2024",
+            "filename": "rsutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsutcs/CERES-EBAF-4-0/rsutcs_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "15755ace603f4701000a27a0c962df5a",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:20 2024",
+            "filename": "rsutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rsutcs/CERES-EBAF-4-1/rsutcs_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7830741aa285781e758f6330e47e8ffb",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:01:22 2024",
+            "filename": "rsutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/rsutcs/ERA-Interim/rsutcs_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "274d636b2f308e5a23d0ed0c56a9e7b1",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:23 2024",
+            "filename": "rsutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/rsutcs/ERA5/rsutcs_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "110cbce59de6517f70d52e791ec1326a",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:01:23 2024",
+            "filename": "rsutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/rsutcs/MERRA2/rsutcs_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "alternate6": "ERA-Interim",
+        "alternate7": "MERRA2",
+        "alternate8": "ERA5",
+        "default": "CERES-EBAF-4-1"
+    },
+    "rtmt": {
+        "CERES-EBAF-2-8": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "67df2d1e0d83c649f73a0dff4c67707e",
+            "RefName": "CERES-EBAF-2-8",
+            "RefTrackingDate": "Tue Jan  9 21:01:31 2024",
+            "filename": "rtmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rtmt/CERES-EBAF-2-8/rtmt_mon_CERES-EBAF-2-8_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-0": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b8b8274539c1cf6726a7bf413f7c32fc",
+            "RefName": "CERES-EBAF-4-0",
+            "RefTrackingDate": "Tue Jan  9 21:01:32 2024",
+            "filename": "rtmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rtmt/CERES-EBAF-4-0/rtmt_mon_CERES-EBAF-4-0_BE_1x1_200101-201512.v20240104.ANN.nc"
+        },
+        "CERES-EBAF-4-1": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "73ac3bbf8c6d330378a73e5003ee0da7",
+            "RefName": "CERES-EBAF-4-1",
+            "RefTrackingDate": "Tue Jan  9 21:01:33 2024",
+            "filename": "rtmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Atm/rtmt/CERES-EBAF-4-1/rtmt_mon_CERES-EBAF-4-1_BE_1x1_200101-201812.v20240104.ANN.nc"
+        },
+        "alternate1": "CERES-EBAF-2-8",
+        "alternate2": "CERES-EBAF-4-0",
+        "default": "CERES-EBAF-4-1"
+    },
+    "satellite_pr": {
+        "GPCP_v3.2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3efd1649f856d2674681fd0badfb51a8",
+            "RefName": "GPCP_v3.2",
+            "RefTrackingDate": "Tue Jan  9 21:01:34 2024",
+            "filename": "satellite_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 360, 720)",
+            "template": "Atm/satellite_pr/GPCP_v3.2/satellite_pr_mon_GPCP_v3.2_BE_gn_198301-202112.v20240104.ANN.nc"
+        },
+        "default": "GPCP_v3.2"
+    },
+    "sco": {
+        "OMI-MLS": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "6e08a70d7a68cb2593c10b981ef4a729",
+            "RefName": "OMI-MLS",
+            "RefTrackingDate": "Fri Jan  5 18:09:30 2024",
+            "filename": "sco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 120)",
+            "template": "Atm/sco/OMI-MLS/sco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.ANN.nc"
+        },
+        "default": "OMI-MLS"
+    },
+    "sfcWind": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8aa141ba0d4df45249a1594f155e7fdf",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:27 2024",
+            "filename": "sfcWind_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/sfcWind/ERA5/sfcWind_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "sic": {
+        "SSMI": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "1d7700bfa2d8a6b90081880b0105d1fb",
+            "RefName": "SSMI",
+            "RefTrackingDate": "Tue Jan  9 21:06:09 2024",
+            "filename": "sic_mon_SSMI_BE_gn_197901-199912.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/sic/SSMI/sic_mon_SSMI_BE_gn_197901-199912.v20240104.ANN.nc"
+        }
+    },
+    "ta": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "caea872f020d800c9c707ac03314711a",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:09 2024",
+            "filename": "ta_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/ta/ERA-Interim/ta_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8a36a135393cf64411a5099ab015ca7d",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:29:53 2024",
+            "filename": "ta_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/ta/ERA5/ta_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "66e5c9e78229043fcad594f7368d1303",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:18 2024",
+            "filename": "ta_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/ta/MERRA2/ta_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ta200": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d53c31300f8aa9b24fd889e14bdf9884",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:21 2024",
+            "filename": "ta200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ta200/ERA-Interim/ta200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5bd849acf9f60dbc6ad4d71798f214e5",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:20 2024",
+            "filename": "ta200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ta200/ERA5/ta200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "16a3197343c76ecc1073603a48a19931",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:22 2024",
+            "filename": "ta200_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ta200/MERRA2/ta200_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ta850": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "192ce5262469bff4b1ff52db1ed30cc2",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:25 2024",
+            "filename": "ta850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ta850/ERA-Interim/ta850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "972daa718bb186a018e63f91c2b3a361",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:24 2024",
+            "filename": "ta850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ta850/ERA5/ta850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ca22988b996cd04e049f1de6e3387bd7",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:25 2024",
+            "filename": "ta850_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ta850/MERRA2/ta850_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f0e1b5b2086341b33ef8013225bd1849",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:21 2024",
+            "filename": "tas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/tas/ERA-Interim/tas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "64a84e855614545dbd9639783dcb39e2",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:01 2024",
+            "filename": "tas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tas/ERA5/tas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "08cbcf2b96b52fa74a971dcd509375d1",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:22 2024",
+            "filename": "tas_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/tas/MERRA2/tas_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tauu": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "71954e77460df64815c762e89bfa2695",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:27 2024",
+            "filename": "tauu_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/tauu/ERA-Interim/tauu_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "17ba4d53bd0a93f6f1dc3a47d16908d5",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:02 2024",
+            "filename": "tauu_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tauu/ERA5/tauu_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "653400892aae7555a990885b83bdd000",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:28 2024",
+            "filename": "tauu_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/tauu/MERRA2/tauu_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tauv": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5ecda8a912e2aee4227221c92adae4b0",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:02:33 2024",
+            "filename": "tauv_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/tauv/ERA-Interim/tauv_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ec8636a98db39553b561b2ce0766315a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:06 2024",
+            "filename": "tauv_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tauv/ERA5/tauv_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "379ac13daa50daa5ccf190b545340989",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:02:34 2024",
+            "filename": "tauv_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/tauv/MERRA2/tauv_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "tco": {
+        "OMI-MLS": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "70e4121a873178d049edfdfb3be48159",
+            "RefName": "OMI-MLS",
+            "RefTrackingDate": "Tue Jan  9 21:02:37 2024",
+            "filename": "tco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 120, 288)",
+            "template": "Atm/tco/OMI-MLS/tco_mon_OMI-MLS_BE_gn_200501-201712.v20240104.ANN.nc"
+        },
+        "default": "OMI-MLS"
+    },
+    "tds": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "12950ded5a47c8a232561e22e8165fd2",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:09 2024",
+            "filename": "tds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tds/ERA5/tds_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "tos": {
+        "HadISST_CL": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "347ff2942735bc4f20f07dcf121f486f",
+            "RefName": "HadISST_CL",
+            "RefTrackingDate": "Fri Jan  5 18:16:09 2024",
+            "filename": "tos_mon_HadISST_CL_BE_1x1_198201-201112.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/tos/HadISST_CL/tos_mon_HadISST_CL_BE_1x1_198201-201112.v20240104.ANN.nc"
+        },
+        "HadISST_PD": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "8723834e5539ed9b2a16db9e7448b299",
+            "RefName": "HadISST_PD",
+            "RefTrackingDate": "Fri Jan  5 18:15:31 2024",
+            "filename": "tos_mon_HadISST_PD_BE_1x1_199901-201612.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/tos/HadISST_PD/tos_mon_HadISST_PD_BE_1x1_199901-201612.v20240104.ANN.nc"
+        },
+        "HadISST_PI": {
+            "CMIP_CMOR_TABLE": "Omon",
+            "MD5sum": "14fe2bf82b7c786591c003e6ad840568",
+            "RefName": "HadISST_PI",
+            "RefTrackingDate": "Fri Jan  5 18:14:56 2024",
+            "filename": "tos_mon_HadISST_PI_BE_1x1_187001-190012.v20240104.ANN.nc",
+            "period": "1x1",
+            "shape": "(1, 180, 360)",
+            "template": "Ocean/tos/HadISST_PI/tos_mon_HadISST_PI_BE_1x1_187001-190012.v20240104.ANN.nc"
+        },
+        "alternate1": "HadISST_PD",
+        "alternate2": "HadISST_PI",
+        "default": "HadISST_CL"
+    },
+    "tp": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "2dfe5e04c2608729a46028c41724f461",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:12 2024",
+            "filename": "tp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/tp/ERA5/tp_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        }
+    },
+    "ts": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "efbbbcb02eb7737b4c334291b7d3565c",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:16 2024",
+            "filename": "ts_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ts/ERA5/ts_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "default": "ERA5"
+    },
+    "ua": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "273da46ac01b11f09cd846e5238ae4da",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:03:20 2024",
+            "filename": "ua_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/ua/ERA-Interim/ua_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "582b1ef3694eee74b047d28880e54a40",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:36 2024",
+            "filename": "ua_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/ua/ERA5/ua_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9015871de831e8790bb534bdd709df8d",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:03:31 2024",
+            "filename": "ua_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/ua/MERRA2/ua_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ua200": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "80d395161e89af4f21b3e14c542c181e",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:09 2024",
+            "filename": "ua200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ua200/ERA-Interim/ua200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8598e316126bcdbd178851b8b1cbc7c4",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:08 2024",
+            "filename": "ua200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ua200/ERA5/ua200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e36b04efa6f0ca23fc01f0beff0f6b64",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:09 2024",
+            "filename": "ua200_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ua200/MERRA2/ua200_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "ua850": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "65cc0c7c763396e7d80032f4cc9b29de",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/ua850/ERA-Interim/ua850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5111662f8bc2ede03ca3876868bd6035",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/ua850/ERA5/ua850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "9ef5985172c3c13457b8cad8d7a429fe",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:11 2024",
+            "filename": "ua850_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/ua850/MERRA2/ua850_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "uas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "593fc9b2a3b26524605914c51d75de05",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:03:38 2024",
+            "filename": "uas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/uas/ERA-Interim/uas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "862f879cc428115984bc263ea6b39add",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:30:50 2024",
+            "filename": "uas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/uas/ERA5/uas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4edb3fa86b9b203fa1c6124101a97e10",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:03:39 2024",
+            "filename": "uas_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/uas/MERRA2/uas_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "va": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "50218685398c3c0809932d1e1e1984bc",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:04:22 2024",
+            "filename": "va_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/va/ERA-Interim/va_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "8b23addf6dd704ab566749a4e5972653",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:07 2024",
+            "filename": "va_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/va/ERA5/va_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4ad0e808d5789fb25886fb7e53b2d45d",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:04:30 2024",
+            "filename": "va_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/va/MERRA2/va_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "va200": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ccc7873d28ecebdf0a1bc50e7b903a18",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:13 2024",
+            "filename": "va200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/va200/ERA-Interim/va200_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "7a6a76f466725e705cdfb72ee3d4a22d",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:13 2024",
+            "filename": "va200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/va200/ERA5/va200_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f7d3cf71ae40ed35be59bde56056fdf1",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:13 2024",
+            "filename": "va200_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/va200/MERRA2/va200_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "va850": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "0016a58e263f1c18920b23861ad3e644",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:16 2024",
+            "filename": "va850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/va850/ERA-Interim/va850_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "76608d7b70211ee1449542c3bf13283f",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:15 2024",
+            "filename": "va850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/va850/ERA5/va850_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "d345ef854f9c249e9546410f955e5563",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:16 2024",
+            "filename": "va850_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/va850/MERRA2/va850_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "vas": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "431d856bf11fb271682cb9aa41d9f84a",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:04:35 2024",
+            "filename": "vas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/vas/ERA-Interim/vas_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "ac33088a535eaa702076968d24e2a847",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:20 2024",
+            "filename": "vas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/vas/ERA5/vas_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1e3f8ca8b172830077da81688ac55c76",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:04:36 2024",
+            "filename": "vas_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/vas/MERRA2/vas_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "vimd": {
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5b68d0111be37246f10037c4727d714a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:21 2024",
+            "filename": "vimd_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/vimd/ERA5/vimd_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        }
+    },
+    "wa500": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "81de8afa491e93ed13bfe3b2a6fc5db0",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:19 2024",
+            "filename": "wa500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/wa500/ERA-Interim/wa500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "57e16d0a61b1f2d31d78726e5e83ed93",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:18 2024",
+            "filename": "wa500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/wa500/ERA5/wa500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f00af9883a13e2a8df4cd831631bb915",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:20 2024",
+            "filename": "wa500_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/wa500/MERRA2/wa500_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "wap": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "e58e82c89f24a4971b48db8ca894f2e2",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:05:12 2024",
+            "filename": "wap_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/wap/ERA-Interim/wap_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "07e2f01d36e0e90a39015f085aa431fe",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:31:40 2024",
+            "filename": "wap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/wap/ERA5/wap_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "b19e4f2be9206fcf3ad6c4f4ab156f7d",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:05:17 2024",
+            "filename": "wap_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/wap/MERRA2/wap_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zg": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1dc4074c321d53a7a6ff93eed04cdb8c",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Tue Jan  9 21:05:50 2024",
+            "filename": "zg_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 37, 241, 480)",
+            "template": "Atm/zg/ERA-Interim/zg_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "4c86222d2ad1f63016f66ef82c21c53a",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Wed Jan 10 13:32:10 2024",
+            "filename": "zg_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 37, 721, 1440)",
+            "template": "Atm/zg/ERA5/zg_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "85eb1b7cd0b49aa585b0792028cb0740",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Tue Jan  9 21:05:58 2024",
+            "filename": "zg_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 42, 361, 576)",
+            "template": "Atm/zg/MERRA2/zg_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zg500": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "5c545fbca035bb2e1f7f36a4abddb24f",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:28 2024",
+            "filename": "zg500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/zg500/ERA-Interim/zg500_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "f0982b13e6e69c0e8ee86572f5a30a58",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:27 2024",
+            "filename": "zg500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/zg500/ERA5/zg500_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "1ab3de1499712db783f1a37ec34fd515",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:29 2024",
+            "filename": "zg500_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/zg500/MERRA2/zg500_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    },
+    "zg700": {
+        "ERA-Interim": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "451efaef0d583a074bad3fef27e8899e",
+            "RefName": "ERA-Interim",
+            "RefTrackingDate": "Mon Jan 15 11:45:31 2024",
+            "filename": "zg700_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 241, 480)",
+            "template": "Atm/zg700/ERA-Interim/zg700_mon_ERA-Interim_BE_gn_197901-201612.v20240104.ANN.nc"
+        },
+        "ERA5": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "cec46c390155baf184fa7a490b5dae5d",
+            "RefName": "ERA5",
+            "RefTrackingDate": "Mon Jan 15 11:45:31 2024",
+            "filename": "zg700_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc",
+            "period": "0.25x0.25",
+            "shape": "(1, 721, 1440)",
+            "template": "Atm/zg700/ERA5/zg700_mon_ERA5_BE_0.25x0.25_197901-201912.v20240104.ANN.nc"
+        },
+        "MERRA2": {
+            "CMIP_CMOR_TABLE": "Amon",
+            "MD5sum": "3c0c0b63174989c132e8a0b78495b63d",
+            "RefName": "MERRA2",
+            "RefTrackingDate": "Mon Jan 15 11:45:32 2024",
+            "filename": "zg700_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc",
+            "period": "gn",
+            "shape": "(1, 361, 576)",
+            "template": "Atm/zg700/MERRA2/zg700_mon_MERRA2_BE_gn_198001-201612.v20240104.ANN.nc"
+        },
+        "alternate4": "ERA-Interim",
+        "alternate5": "MERRA2",
+        "default": "ERA5"
+    }
+}
