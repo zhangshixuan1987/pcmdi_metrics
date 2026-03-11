@@ -1,0 +1,40 @@
+{
+  "Amon": {
+           "ceres_ebaf_surface_v2.8"      : "CERES-EBAF_v2.8",
+           "ceres_ebaf_toa_v2.8"          : "CERES-EBAF_v2.8",
+           "ceres_ebaf_surface_v4.0"      : "CERES-EBAF_v4.0",
+           "ceres_ebaf_toa_v4.0"          : "CERES-EBAF_v4.0",
+           "ceres_ebaf_surface_v4.1"      : "CERES-EBAF_v4.1",
+           "ceres_ebaf_toa_v4.1"          : "CERES-EBAF_v4.1",
+           "COREv2_Flux"                  : "COREv2-Flux",
+	   "OMI-MLS"                      : "OMI-MLS",
+           "NOAA_20C"                     : "NOAA-20C",
+           "ERA5"                         : "ERA5",
+           "ERA5_HRES"                    : "ERA5-HRES",
+           "ERA-Interim"                  : "ERA-Interim",
+           "MERRA2"                       : "MERRA2",
+           "OAFlux"                       : "OAFlux",
+           "GPCP_v2.3"                    : "GPCP_v2.3",
+           "GPCP_v2.2"                    : "GPCP_v2.2",
+           "GPCP_1DD"                     : "GPCP-1DD",
+           "GPCP_OAFLux"                  : "GPCP-OAFLux",
+           "ERA-5"                        : "ERA5",
+           "AERONET"                      : "AERONET",
+           "MACv2"                        : "MACv2",
+           "ECMWF-ERA5"                   : "ERA5",
+           "ECMWF-ERAInterim"             : "ERA-Interim"
+          },
+  "Lmon": {
+           "COREv2_Flux"                  : "COREv2-Flux",
+	   "ISLSCPII_GRDC"                : "ISLSCPII-GRDC",
+           "ERA5"                         : "ERA5"
+          },
+  "Omon": {
+           "HadISST"                      : "HadISST",
+	   "HadSST2"                      : "HadSST2",
+           "ERA5"                         : "ERA5",
+           "Aquarius_V3"                  : "Aquarius",
+           "NOAA-NSIDC"                   : "NOAA-NSIDC",
+           "AVISO"                        : "AVISO"
+          }
+}

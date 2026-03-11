@@ -1,0 +1,954 @@
+{
+  "rlds" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C",
+           "alternate7" : "COREv2-Flux"
+           },
+  "rldscs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlus" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C",
+           "alternate7" : "COREv2-Flux"
+           },
+  "rluscs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsds" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsdscs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+
+  "rsus" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsuscs": {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlut" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlutcs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsdt" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsut" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsutcs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rluscsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rldscsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsdscsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsuscsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rltcre_srf" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rstcre_srf" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rntcre_srf" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlns" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlnscs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsns" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsnscs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "hfrad" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "hfradcs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "hfradcsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsnscsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlnscsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rltcre" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rstcre" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rntcre" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rtmt" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rmt" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rmtcs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rmtcsc" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rlntcs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rsntcs" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "hfns" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "hftur" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "hftot" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "rsntoa" : {
+           "default"    : "NOAA-20C",
+           "alternate" : "COREv2-Flux"
+           },
+  "rsntoacs" : {
+           "default"    : "NOAA-20C"
+           },
+  "rlntoa" : {
+           "default"    : "NOAA-20C"
+           },
+  "rlntoacs" : {
+           "default"    : "NOAA-20C"
+           },
+  "rlwcf" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rswcf" : {
+           "default"    : "CERES-EBAF_v4.1",
+           "alternate"  : "CERES-EBAF_v4.0",
+           "alternate1" : "CERES-EBAF_v2.8",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C"
+           },
+  "rhss" : {
+           "default"    : "NOAA-20C"
+           },
+  "clhgh" : {
+           "default"    : "NOAA-20C"
+           },
+  "clmed" : {
+           "default"    : "NOAA-20C"
+           },
+  "cllow" : {
+           "default"    : "NOAA-20C"
+           },
+  "cltcw" : {
+           "default"    : "NOAA-20C"
+           },
+  "pr" : {
+           "default"    : "GPCP_v2.3",
+           "alternate"  : "GPCP_v2.2",
+           "alternate1" : "GPCP-1DD",
+           "alternate2" : "ERA5-HRES",
+           "alternate3" : "ERA5",
+           "alternate4" : "MERRA2",
+           "alternate5" : "ERA-Interim",
+           "alternate6" : "NOAA-20C",
+           "alternate7" : "COREv2-Flux"
+           },
+  "prc" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C",
+           "alternate1" : "ERA5-HRES"
+           },
+  "prsn" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C",
+           "alternate1" : "ERA5-HRES"
+           },
+  "prw" : {
+           "default"    : "ERA5",
+	   "alternate"  : "NOAA-20C",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25",
+           "alternate6" : "ERA5-HRES"
+           },
+  "psl" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "ps" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "ta" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "ua" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "va" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "hur" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "wap" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "zg" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "o3" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "hus" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "uas" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "vas" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "tauu" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25",
+           "alternate6" : "COREv2-Flux"
+           },
+  "tauv" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25",
+           "alternate6" : "COREv2-Flux"
+           },
+  "tas" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "tasmin" : {
+           "default"    : "MERRA2"
+           },
+  "tasmax" : {
+           "default"    : "MERRA2"
+           },
+  "frwflx" : {
+           "default"    : "GPCP-OAFLux"
+           },
+  "tco" : {
+           "default"    : "OMI-MLS",
+           "alternate"  : "ERA5",
+           "alternate1" : "NOAA-20C"
+           },
+  "sco" : {
+           "default"    : "OMI-MLS",
+           "alternate"  : "ERA5",
+           "alternate1" : "NOAA-20C"
+           },
+  "sfcWind" : {
+           "default"    : "ERA5",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "NOAA-20C",
+           "alternate3" : "ERA40",
+           "alternate4" : "ERA5-HRES",
+           "alternate5" : "JRA25"
+           },
+  "clwvi" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "clivi" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "clt" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA40",
+           "alternate5" : "JRA25"
+           },
+  "vimd" : {
+           "default"    : "ERA5-HRES"
+           },
+  "evspsbl" : {
+           "default"    : "OAFlux",
+           "alternate"  : "COREv2-Flux",
+           "alternate1" : "ERA5-HRES",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "hfls" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "COREv2-Flux",
+           "alternate1" : "OAFlux",
+           "alternate2" : "ERA5",
+           "alternate3" : "MERRA2",
+           "alternate4" : "ERA-Interim",
+           "alternate5" : "NOAA-20C"
+           },
+  "hfss" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "COREv2-Flux",
+           "alternate1" : "OAFlux",
+           "alternate2" : "ERA5",
+           "alternate3" : "MERRA2",
+           "alternate4" : "ERA-Interim",
+           "alternate5" : "NOAA-20C"
+           },
+  "wa500" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ua200" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ua500" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ua600" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ua850" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "va200" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "va500" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "va600" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "va850" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ta200" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ta300" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ta500" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "ta850" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "zg200" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "zg300" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "zg500" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "zg700" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "MERRA2",
+           "alternate1" : "ERA-Interim",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C"
+           },
+  "e" : {
+           "default"    : "ERA5-HRES"
+           },
+  "cp" : {
+           "default"    : "ERA5-HRES"
+           },
+  "lsp" : {
+           "default"    : "ERA5-HRES"
+           },
+  "tp" : {
+           "default"    : "ERA5-HRES"
+           },
+  "sp" : {
+           "default"    : "ERA5-HRES"
+           },
+  "d2m" : {
+           "default"    : "ERA5-HRES"
+           },
+  "t2m" : {
+           "default"    : "ERA5-HRES"
+           },
+  "d2m" : {
+           "default"    : "ERA5-HRES"
+           },
+  "ts" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+           "alternate1" : "MERRA2",
+	   "alternate2" : "NOAA-20C",
+           "alternate3" : "HadISST",
+           "alternate4" : "HadSST2"
+           },
+  "tos" : {
+           "default"    : "HadSST2",
+           "alternate"  : "HadISST"
+           },
+  "sicnh" : {
+           "default"    : "NOAA-NSIDC"
+           },
+  "sicsh" : {
+           "default"    : "NOAA-NSIDC"
+           },
+  "snhice" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "snhlnd" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "sic" : {
+           "default"    : "HadSST2",
+           "alternate"  : "HadISST"
+           },
+  "zos" : {
+           "default"    : "AVISO",
+           "alternate"  : "HadISST"
+           },
+  "sos" : {
+           "default"    : "Aquarius",
+           "alternate"  : "HadISST"
+           },
+  "mrros" : {
+           "default"    : "ISLSCPII-GRDC",
+           "alternate"  : "COREv2-Flux",
+           "alternate1" : "ERA5-HRES",
+           "alternate2" : "ERA5",
+           "alternate3" : "NOAA-20C",
+           "alternate4" : "ERA-Interim",
+           "alternate5" : "ERA40",
+           "alternate6" : "JRA25"
+           },
+  "eth1" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "eth2" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "eth"  : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "sf"  : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "ptrop" : {
+           "default"    : "NOAA-20C"
+           },
+  "ttrop" : {
+           "default"    : "NOAA-20C"
+           },
+  "zs" : {
+           "default"    : "NOAA-20C"
+           },
+  "olr" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "snow" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "snd" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "snfrac" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "soilwater" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "snice" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "snhlnd" : {
+           "default"    : "ERA5",
+           "alternate"  : "NOAA-20C"
+           },
+  "huss" : {
+           "default"    : "ERA5-HRES",
+           "alternate"  : "ERA5",
+	   "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C"
+           },
+  "aodvis" : {
+           "default"    : "AERONET",
+           "alternate"  : "MACv2",
+           "alternate1" : "MERRA2",
+           "alternate2" : "ERA-Interim",
+           "alternate3" : "NOAA-20C"
+           }
+}

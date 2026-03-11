@@ -1,0 +1,74 @@
+{
+  "1pctCO2": {
+           "v2_1.LR.1pctCO2.en00"                  : "v2_1-LR.0101",
+           "v3atm-v21ocn.LR.1pctCO2.en00"          : "v3atm_v21ocn.0101"
+          },
+  "abrupt-4xCO2": {
+           "v2_1.LR.abrupt-4xCO2.en00"             : "v2_1-LR.0101",
+           "v3atm-v21ocn.LR.abrupt-4xCO2.en00"     : "v3atm_v21ocn.0101"
+          },
+  "amip": {
+           "v2.LR.amip.en00"                       : "v2-LR.0101",
+           "v2.LR.amip.en01"                       : "v2-LR.0201",
+           "v2.LR.amip.en02"                       : "v2-LR.0301",
+           "v3atm-v21ocn.LR.F20TR.en00"            : "v3atm_v21ocn.0101",
+           "v3alpha02-Bi-ECE2r2.LR.F20TR.en00"     : "v3alpha02_Bi_E2r2.0101",
+           "v3alpha02-Bi-ECE2r2-L80.LR.F20TR.en00" : "v3alpha02_L80_Bi_E2r2.0101",
+           "v3.LR.amip.en00"                       : "v3-LR.0051",
+           "v3.LR.amip.en01"                       : "v3-LR.0101",
+           "v3.LR.amip.en02"                       : "v3-LR.0151",
+           "v3.LR.amip.en03"                       : "v3-LR.0201",
+           "v3.LR.amip.en04"                       : "v3-LR.0251",
+           "v3.LR.amip.en05"                       : "v3-LR.0301"
+          },
+  "historical": {
+           "v2.LR.historical.en00"                 : "v2-LR.0101",
+           "v2.LR.historical.en01"                 : "v2-LR.0151",
+           "v2.LR.historical.en02"                 : "v2-LR.0201",
+           "v2.LR.historical.en03"                 : "v2-LR.0251",
+           "v2.LR.historical.en04"                 : "v2-LR.0301",
+           "v2_1.LR.historical.en00"               : "v2_1-LR.0101",
+           "v2_1.LR.historical.en01"               : "v2_1-LR.0151",
+           "v2_1.LR.historical.en02"               : "v2_1-LR.0201",
+           "v2_1.LR.historical.en03"               : "v2_1-LR.0251",
+           "v2_1.LR.historical.en04"               : "v2_1-LR.0301",
+           "v2_1.SORRM.historical.en00"            : "v2_1-SORRM.0701",
+           "v2_1.SORRM.historical.en01"            : "v2_1-SORRM.0751",
+           "v2_1.SORRM.historical.en02"            : "v2_1-SORRM.0801",
+           "v3atm-v21ocn.LR.historical.en00"       : "v3atm_v21ocn.0101",
+           "v3alpha02-Bi-ECE2r2.LR.historical.en00": "v3alpha02_Bi_E2r2.0101",
+           "v3b02-ECE3r2.LR.historical.en00"       : "v3b02_E3r2.0101",
+           "v3.LR.historical.en00"                 : "v3-LR.0051",
+           "v3.LR.historical.en01"                 : "v3-LR.0101",
+           "v3.LR.historical.en02"                 : "v3-LR.0101b",
+           "v3.LR.historical.en03"                 : "v3-LR.0151",
+           "v3.LR.historical.en04"                 : "v3-LR.0201",
+           "v3.LR.historical.en05"                 : "v3-LR.0251",
+           "v3.LR.historical.en06"                 : "v3-LR.0301"
+          },
+  "piControl": {
+           "v2.LR.piControl.en00"                  : "v2-LR.1850",
+           "v2alpha559.LR.piControl.en00"          : "v2alpha559.1850",
+           "v2_1.LR.piControl.en00"                : "v2_1-LR.1850",
+           "v2_1.SORRM.p0.1950Control.en00"        : "v2_1-SORRMp0.1950",
+           "v2_1.SORRM.1950Control.en00"           : "v2_1-SORRM.1950",
+           "v3atm-v21ocn.LR.piControl.en00"        : "v3atm_v21ocn.1850",
+           "v3alpha02-Bi-ECE2r2.LR.piControl.en00" : "v3alpha02_Bi_E2r2.1850",
+           "v3alpha04-Bi-ECE2r2.LR.piControl.en00" : "v3alpha04_Bi_E2r2.1850",
+           "v3alpha04-ECE2r2.LR.piControl.en00"    : "v3alpha04_E2r2.1850",
+           "v3alpha04-ECE2r2-L80.LR.piControl.en00": "v3alpha04_L80_E2r2.1850",
+           "v3alpha04-ECE3r2.LR.piControl.en00"    : "v3alpha04_E3r2.1850",
+           "v3b01-ECE3r2.LR.piControl.en00"        : "v3b01_E3r2.1850",
+           "v3b01-ECE3r2-AB2.LR.piControl.en00"    : "v3b01_E3r2_AB2.1850",
+           "v3b02-ICOS30.LR.piControl.en00"        : "v3b02_ICOS30.1850",
+           "v3b02-ICOS30-Smth.LR.piControl.en00"   : "v3b02_ICOS30_Smth.1850",
+           "v3b02-ECE3r2.LR.piControl.en00"        : "v3b02_E3r2.1850",
+           "v3.LR.piControl.en00"                  : "v3-LR.1850"
+          },
+  "ssp370": {
+           "v2_1.SORRM.ssp370.en00"                : "v2_1-SORRM.0701",
+           "v2_1.SORRM.ssp370.en01"                : "v2_1-SORRM.0751",
+           "v2_1.SORRM.ssp370.en02"                : "v2_1-SORRM.0801",
+           "v2_1.SORRM.ssp370.fismf.en00"          : "v2_1-SORRM-FISMF.0701"
+          }
+}

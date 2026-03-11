@@ -1,0 +1,3041 @@
+{
+    "aoddust": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "580fa8cf00aef0dcfa5de3d24bdfe680",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:13:32 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.aoddust.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/aoddust/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.aoddust.000101-015012.nc",
+                "varin": "AODDUST"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "c11e2ef10e6b4d7a7e93305d919ffc29",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 18:45:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.aoddust.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/aoddust/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.aoddust.000101-015012.nc",
+                "varin": "AODDUST"
+            }
+        }
+    },
+    "aodvis": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "23b04f20719adc97d8a26cfefeee0e92",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:13:47 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.aodvis.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/aodvis/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.aodvis.000101-015012.nc",
+                "varin": "AODVIS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "68c392608ebddfad0bb346efe4a8d381",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 18:49:14 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.aodvis.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/aodvis/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.aodvis.000101-015012.nc",
+                "varin": "AODVIS"
+            }
+        }
+    },
+    "clhgh": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "487c5c5635dc4c42ff838708e38dfa92",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:04 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clhgh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clhgh/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clhgh.000101-015012.nc",
+                "varin": "CLDHGH"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "421ba1be57bd3d98b5f45061edfed93e",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 18:52:53 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clhgh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clhgh/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clhgh.000101-015012.nc",
+                "varin": "CLDHGH"
+            }
+        }
+    },
+    "clivi": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "33ba4a3e441e6bbdb7569320a95e50a9",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:40 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clivi.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clivi/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clivi.000101-015012.nc",
+                "varin": "TGCLDIWP"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "c1451e42789dfbadb0e05055c32b0f23",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:45 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clivi.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clivi/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clivi.100101-115012.nc",
+                "varin": "TGCLDIWP"
+            }
+        }
+    },
+    "cllow": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e18d75837082df5840d192879a172776",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:18 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.cllow.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/cllow/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.cllow.000101-015012.nc",
+                "varin": "CLDLOW"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7091acc7245cc482c51817b34abd4507",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 18:56:24 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.cllow.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/cllow/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.cllow.000101-015012.nc",
+                "varin": "CLDLOW"
+            }
+        }
+    },
+    "clmed": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "758f3368771a1608692debe69182e6f1",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:32 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clmed.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clmed/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clmed.000101-015012.nc",
+                "varin": "CLDMED"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f195b659892c9b95bd6e5f1d3961b6f6",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 18:59:55 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clmed.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clmed/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clmed.000101-015012.nc",
+                "varin": "CLDMED"
+            }
+        }
+    },
+    "clt": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "50a0a3f9907e9e5676d56047d6d3024f",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:52 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clt/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clt.000101-015012.nc",
+                "varin": "CLDTOT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "824b20534664cbab19846c644699adf3",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:57 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clt.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clt/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clt.100101-115012.nc",
+                "varin": "CLDTOT"
+            }
+        }
+    },
+    "cltcw": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2cc1e6f1a0c0dc39db8fb6c9e5f9b739",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:28:37 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.cltcw.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/cltcw/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.cltcw.000101-015012.nc",
+                "varin": "TGCLDCWP"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1bdb275f34794f9525486f8ee3097cc9",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:44:31 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.cltcw.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/cltcw/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.cltcw.000101-015012.nc",
+                "varin": "TGCLDCWP"
+            }
+        }
+    },
+    "clwvi": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "41c3633e0487ba21f3e19695d32efb34",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:33 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clwvi.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clwvi/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.clwvi.000101-015012.nc",
+                "varin": "TGCLDLWP"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e8b1d2b83917834bf9a40a3633d77d68",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:39 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clwvi.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/clwvi/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.clwvi.100101-115012.nc",
+                "varin": "TGCLDLWP"
+            }
+        }
+    },
+    "eth": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "0362fcae9b8a0c9e02016d15dc285b89",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:15:04 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.eth.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/eth/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.eth.000101-015012.nc",
+                "varin": "ETH12"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "bd85d7b84233996afcefb2c3fec34353",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:00:13 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.eth.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/eth/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.eth.000101-015012.nc",
+                "varin": "ETH12"
+            }
+        }
+    },
+    "eth1": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "035410c560381d94b1c66fbf3fd24efc",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:58 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.eth1.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/eth1/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.eth1.000101-015012.nc",
+                "varin": "ETH1"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "06266571c503d65588ffbb125b117903",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:00:10 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.eth1.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/eth1/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.eth1.000101-015012.nc",
+                "varin": "ETH1"
+            }
+        }
+    },
+    "eth2": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "c8c59541d67ef96daf677db217f70cb6",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:15:10 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.eth2.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/eth2/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.eth2.000101-015012.nc",
+                "varin": "ETH2"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a4b870c0276d6eb003ac64eb777d5cfe",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:00:16 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.eth2.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/eth2/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.eth2.000101-015012.nc",
+                "varin": "ETH2"
+            }
+        }
+    },
+    "evspsbl": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "89208d69f9adad560bedd2b213fcbc5e",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:48 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.evspsbl.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/evspsbl/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.evspsbl.000101-015012.nc",
+                "varin": "QFLX"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "dcc9e644bdd882b40b85cc2247af34b2",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:54 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.evspsbl.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/evspsbl/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.evspsbl.100101-115012.nc",
+                "varin": "QFLX"
+            }
+        }
+    },
+    "hfls": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e1ccd052dce9d8e7fc12a7391b13ff77",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:41 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfls.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfls/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfls.000101-015012.nc",
+                "varin": "LHFLX"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7cff9ba15ebde301d54175e814f028e9",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:47 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfls.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfls/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfls.100101-115012.nc",
+                "varin": "LHFLX"
+            }
+        }
+    },
+    "hfns": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "96becb9f8913cf0c5291a503e417c21c",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:26:56 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfns.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfns/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfns.000101-015012.nc",
+                "varin": "Qn_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "392fd97e35bec78cc2bb4b42b9496ce0",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:02 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfns.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfns/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfns.100101-115012.nc",
+                "varin": "Qn_SRF"
+            }
+        }
+    },
+    "hfrad": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "9e6e043749fbab126f4f66d0577b8f70",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:03 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfrad.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfrad/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfrad.000101-015012.nc",
+                "varin": "QnRad_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2339fa79cfc842947dbe9faea4643837",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:07 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfrad.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfrad/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfrad.100101-115012.nc",
+                "varin": "QnRad_SRF"
+            }
+        }
+    },
+    "hfss": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3b678ac77c87f94684b52125b86374e3",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:48 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfss.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfss/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hfss.000101-015012.nc",
+                "varin": "SHFLX"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "690d70e4c250b999ca1daa9e5a6a8d4c",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:52 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfss.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hfss/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hfss.100101-115012.nc",
+                "varin": "SHFLX"
+            }
+        }
+    },
+    "hftot": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "002129600670f47464bcce32ecb1fb15",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:13 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hftot.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hftot/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hftot.000101-015012.nc",
+                "varin": "QnTot_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "4aefa7c587521151848b2085be10ea0d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:22 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hftot.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hftot/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hftot.100101-115012.nc",
+                "varin": "QnTot_SRF"
+            }
+        }
+    },
+    "hftur": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "63d1f1c4feaf467aca8f646b9cae90fc",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hftur.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hftur/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.hftur.000101-015012.nc",
+                "varin": "QnTur_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "9d1005b474c97f8c3c0a0f09d05755a3",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:12 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hftur.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/hftur/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.hftur.100101-115012.nc",
+                "varin": "QnTur_SRF"
+            }
+        }
+    },
+    "huss": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "59a12dacb99198e54dd7a4464d970798",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:07 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.huss.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/huss/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.huss.000101-015012.nc",
+                "varin": "QREFHT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d4911be3f6e52c64a47a99c134912760",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:14 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.huss.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/huss/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.huss.100101-115012.nc",
+                "varin": "QREFHT"
+            }
+        }
+    },
+    "icefrac": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d20150e146e966872543fbc1a111194e",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:19:57 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icefrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/icefrac/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icefrac.000101-015012.nc",
+                "varin": "ICEFRAC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7e75d85e52e5bd82474245031c48ec66",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:37:16 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icefrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/icefrac/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icefrac.000101-015012.nc",
+                "varin": "ICEFRAC"
+            }
+        }
+    },
+    "icemass": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "0f0ce215cd0fde47c0a689d76b2425e3",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:15:15 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icemass.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/icemass/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icemass.000101-015012.nc",
+                "varin": "SIMASS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "fa9d8816bca43842e641c6fb79aa076d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:54:36 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icemass.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/icemass/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icemass.000101-015012.nc",
+                "varin": "SIMASS"
+            }
+        }
+    },
+    "icesnthick": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "36b9452f7c58b3315b927f82a9ae60b5",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:57 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icesnthick.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/icesnthick/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icesnthick.000101-015012.nc",
+                "varin": "SISNTHICK"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "1efe09a1fe7a6881a468469ac5768a2f",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:58:18 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icesnthick.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/icesnthick/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icesnthick.000101-015012.nc",
+                "varin": "SISNTHICK"
+            }
+        }
+    },
+    "icethick": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "d64ae73bb16461831989bf94fd0e31a0",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:38 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icethick.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/icethick/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.icethick.000101-015012.nc",
+                "varin": "SITHICK"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "244f8f0a2eee2649d23b9f6fb92ffc7b",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:02:18 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icethick.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/icethick/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.icethick.000101-015012.nc",
+                "varin": "SITHICK"
+            }
+        }
+    },
+    "lndfrac": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f3a1160fd45abb24404943a173180f92",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:20:11 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.lndfrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/lndfrac/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.lndfrac.000101-015012.nc",
+                "varin": "LANDFRAC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "cdcdcc69f54b58955c6057561af14f35",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:41:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.lndfrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/lndfrac/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.lndfrac.000101-015012.nc",
+                "varin": "LANDFRAC"
+            }
+        }
+    },
+    "moc": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "87187c5fe2e3bb300358630643d72ad8",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:13:18 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.moc.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 61, 181)",
+                "template": "e3sm/abrupt-4xCO2/Omon/moc/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.moc.000101-015012.nc",
+                "varin": "AMOC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "c07943cdd78f5d81fd3921efc58dc8b2",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 18:41:31 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.moc.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 61, 181)",
+                "template": "e3sm/abrupt-4xCO2/Omon/moc/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.moc.000101-015012.nc",
+                "varin": "AMOC"
+            }
+        }
+    },
+    "o3_srf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "bc4d569bc450daea0e8cf32a3090270f",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:20:59 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.o3_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/o3_srf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.o3_srf.000101-015012.nc",
+                "varin": "O3_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "59c7ab2728d8868eeb3602c45ca8debc",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:49:48 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.o3_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/o3_srf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.o3_srf.000101-015012.nc",
+                "varin": "O3_SRF"
+            }
+        }
+    },
+    "ocnfrac": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "c5f5a25616fea891e0505ae01c1eae8b",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:21:14 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ocnfrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ocnfrac/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ocnfrac.000101-015012.nc",
+                "varin": "OCNFRAC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "71f6736de2897c3b440196c8f8038373",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:53:50 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ocnfrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ocnfrac/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ocnfrac.000101-015012.nc",
+                "varin": "OCNFRAC"
+            }
+        }
+    },
+    "olr": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3207816a12ba08c9448d89056562229f",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:28:36 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.olr.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/olr/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.olr.000101-015012.nc",
+                "varin": "OLR"
+            }
+        }
+    },
+    "pblh": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "4dd83545641c3acda75547babb191dfa",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:21:53 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.pblh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/pblh/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.pblh.000101-015012.nc",
+                "varin": "PBLH"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7454a566a3e48994a21ba951893b753d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:57:46 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.pblh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/pblh/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.pblh.000101-015012.nc",
+                "varin": "PBLH"
+            }
+        }
+    },
+    "pr": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2e5c3b7a2e4bc010d3c7b827411a6fba",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:57 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.pr.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/pr/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.pr.000101-015012.nc",
+                "varin": "PRECT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "04c5eb61f34cd68b4a6470ef21a4bd50",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:01 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.pr.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/pr/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.pr.100101-115012.nc",
+                "varin": "PRECT"
+            }
+        }
+    },
+    "prc": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "39564fd1d89118fd07f259151af6586e",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:02 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prc.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prc/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prc.000101-015012.nc",
+                "varin": "PRECC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "5430e5c1b3584c0d7376af98114e8c1b",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:21 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prc.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prc/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prc.100101-115012.nc",
+                "varin": "PRECC"
+            }
+        }
+    },
+    "prl": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7eb72b2df5332c0a4d044239621c46ce",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:22:19 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prl.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prl/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prl.000101-015012.nc",
+                "varin": "PRECL"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "03a943989184c740f0dc0cd17cdc9a0d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:02:00 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prl.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prl/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prl.000101-015012.nc",
+                "varin": "PRECL"
+            }
+        }
+    },
+    "prsn": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "76d0fb100e57ea34b01dda8033d41e9d",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:22 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prsn.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prsn/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prsn.000101-015012.nc",
+                "varin": "PRECST"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "048e1114882cd69cef9e5d7dd00de7b9",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:28 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prsn.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prsn/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prsn.100101-115012.nc",
+                "varin": "PRECST"
+            }
+        }
+    },
+    "prsnc": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "fa16644f3787e30c5cc42036d8b0ac12",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:22:24 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prsnc.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prsnc/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prsnc.000101-015012.nc",
+                "varin": "PRECSC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7770812a427d1fcc67fedb78e4bd98d3",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:02:02 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prsnc.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prsnc/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prsnc.000101-015012.nc",
+                "varin": "PRECSC"
+            }
+        }
+    },
+    "prsnl": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ef6419451327a9616e2047c478666f86",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:22:30 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prsnl.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prsnl/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prsnl.000101-015012.nc",
+                "varin": "PRECSL"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "bebb5af71090fe23c20947abb1fef64b",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:02:05 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prsnl.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prsnl/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prsnl.000101-015012.nc",
+                "varin": "PRECSL"
+            }
+        }
+    },
+    "prw": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "74edc88294e4aa2ea1295ed25b996ff3",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:28 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prw.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prw/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.prw.000101-015012.nc",
+                "varin": "TMQ"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "633cbba2a5ab330d6dff5318d9958540",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:33 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prw.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/prw/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.prw.100101-115012.nc",
+                "varin": "TMQ"
+            }
+        }
+    },
+    "ps": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "4ae8e0ef985518b17fe9db49819ea0ae",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:35 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ps.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ps/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ps.000101-015012.nc",
+                "varin": "PS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "cffee0371250d04726eaaef2f4555001",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:41 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ps.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ps/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ps.100101-115012.nc",
+                "varin": "PS"
+            }
+        }
+    },
+    "psl": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a4b35f494b797e4726e627bd5f23333e",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:25 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.psl.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/psl/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.psl.000101-015012.nc",
+                "varin": "PSL"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "6d1c11ddc602a91df5507ba978b64c4d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:32 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.psl.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/psl/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.psl.100101-115012.nc",
+                "varin": "PSL"
+            }
+        }
+    },
+    "rlds": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "396a962a94b72f141662f2caa5b99228",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:48 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlds.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlds/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlds.000101-015012.nc",
+                "varin": "FLDS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "9be5cfb1cb9f1bd005a6b104935aa954",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:54 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlds.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlds/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlds.100101-115012.nc",
+                "varin": "FLDS"
+            }
+        }
+    },
+    "rldscs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "32ef4315383275fe8a791be0894bcd89",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:55 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rldscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rldscs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rldscs.000101-015012.nc",
+                "varin": "FLDSC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "bdf57cee5840cc57fa480867cef857ed",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:26:00 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rldscs.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rldscs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rldscs.100101-115012.nc",
+                "varin": "FLDSC"
+            }
+        }
+    },
+    "rlns": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "252d9ebe229d2337c9465eff1259302a",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:15:28 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlns.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlns/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlns.000101-015012.nc",
+                "varin": "FLNS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "be1a01a6b43f7901eb4f26f4262e5803",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:03:55 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlns.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlns/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlns.000101-015012.nc",
+                "varin": "FLNS"
+            }
+        }
+    },
+    "rlnscs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d2fbc54ff6945521194176687ceadcac",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:15:33 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlnscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlnscs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlnscs.000101-015012.nc",
+                "varin": "FLNSC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "591c2b4d678f8bdfe9f5563cea869aee",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:03:57 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlnscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlnscs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlnscs.000101-015012.nc",
+                "varin": "FLNSC"
+            }
+        }
+    },
+    "rlnt": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "de3db7962f949a80cf04c6719025eba4",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:15:49 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlnt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlnt/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlnt.000101-015012.nc",
+                "varin": "FLNT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "63cc9c6ab9bc1df1196c8b6a38490e71",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:07:32 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlnt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlnt/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlnt.000101-015012.nc",
+                "varin": "FLNT"
+            }
+        }
+    },
+    "rlntcs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d5eb89555248bf594eb4ca231dffa1a9",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:16:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlntcs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlntcs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlntcs.000101-015012.nc",
+                "varin": "FLNTC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e43eb9cb536f2e75fdcd51c48e9103cb",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:11:18 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlntcs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlntcs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlntcs.000101-015012.nc",
+                "varin": "FLNTC"
+            }
+        }
+    },
+    "rltcre": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "6e42b124b21a3f594ca1bdaeb3f4ee12",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:23 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rltcre.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rltcre/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rltcre.000101-015012.nc",
+                "varin": "LWCRE"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "4f62ef577932628bf8421b6f1d8f4df0",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:30 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rltcre.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rltcre/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rltcre.100101-115012.nc",
+                "varin": "LWCRE"
+            }
+        }
+    },
+    "rltcre_srf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "47333c31141516a385c2a399096aa1f9",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:20:43 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rltcre_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rltcre_srf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rltcre_srf.000101-015012.nc",
+                "varin": "LWCRE_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3482d98cca1655a8b36bfe5828ed0e10",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:45:40 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rltcre_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rltcre_srf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rltcre_srf.000101-015012.nc",
+                "varin": "LWCRE_SRF"
+            }
+        }
+    },
+    "rlus": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f9b4dd64bda5383b66e744522ed79f0c",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:28:12 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlus.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlus/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlus.000101-015012.nc",
+                "varin": "FLUS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "cb71849951a3f7c1f04f42a98b0094ea",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:28:18 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlus.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlus/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlus.100101-115012.nc",
+                "varin": "FLUS"
+            }
+        }
+    },
+    "rlut": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "200b57908787147262e6f1567a8641a1",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:26:30 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlut.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlut/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlut.000101-015012.nc",
+                "varin": "FLUT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ef508b3c76844f22695e5aa51aa24a51",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Fri Aug 16 15:12:29 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlut.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlut/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlut.100101-115012.nc",
+                "varin": "FLUT"
+            }
+        }
+    },
+    "rlutcs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f1ca7c26cae173a7df9c712dce10d0c9",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:26:50 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlutcs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlutcs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlutcs.000101-015012.nc",
+                "varin": "FLUTC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "47559cfca779621c2c02761ae375ca9d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:26:56 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlutcs.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlutcs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlutcs.100101-115012.nc",
+                "varin": "FLUTC"
+            }
+        }
+    },
+    "rlwcf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3df8605e72c82a1a2db765aba9c3a204",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:20:31 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlwcf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlwcf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rlwcf.000101-015012.nc",
+                "varin": "LWCF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3552c4fb6b427368a415a38f908cd281",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:45:38 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlwcf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rlwcf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rlwcf.000101-015012.nc",
+                "varin": "LWCF"
+            }
+        }
+    },
+    "rmt": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "dc67bd0927fc57d0ddbf80afc6be41c6",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:28:06 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rmt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rmt/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rmt.000101-015012.nc",
+                "varin": "RESTOM"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "af57c25451a948cd1a93dbfb0c65e3b6",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:28:11 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rmt.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rmt/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rmt.100101-115012.nc",
+                "varin": "RESTOM"
+            }
+        }
+    },
+    "rntcre": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a81f26233c2eddbde6a63e6a078d3ee0",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:46 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rntcre.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rntcre/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rntcre.000101-015012.nc",
+                "varin": "CRE"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "105732d5b8591d3f8a5ad149d054adf6",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:00:05 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rntcre.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rntcre/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rntcre.000101-015012.nc",
+                "varin": "CRE"
+            }
+        }
+    },
+    "rntcre_srf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ad574260b78e78e1f39fad58590375ac",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:14:52 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rntcre_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rntcre_srf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rntcre_srf.000101-015012.nc",
+                "varin": "CRE_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "32b40cb6e3bb02be4fe006567224b52d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:00:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rntcre_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rntcre_srf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rntcre_srf.000101-015012.nc",
+                "varin": "CRE_SRF"
+            }
+        }
+    },
+    "rsds": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "13b16476e803d7d147924df135b60f16",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:26:03 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsds.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsds/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsds.000101-015012.nc",
+                "varin": "FSDS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "6410bb296a8d1eca912089f0c2d766fb",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:26:09 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsds.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsds/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsds.100101-115012.nc",
+                "varin": "FSDS"
+            }
+        }
+    },
+    "rsdscs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "0927a3b9a1779a3bfa6fe9b3dba7a060",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:26:12 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsdscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsdscs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsdscs.000101-015012.nc",
+                "varin": "FSDSC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3dbdfba5086183f01ec48bd4153a0421",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:26:17 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsdscs.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsdscs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsdscs.100101-115012.nc",
+                "varin": "FSDSC"
+            }
+        }
+    },
+    "rsdt": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "8f48932a8bbfd26e893298715df07adb",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:26:21 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsdt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsdt/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsdt.000101-015012.nc",
+                "varin": "SOLIN"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1af1012c8c1a6c4cc6b6ad90f6a97ee8",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:26:27 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsdt.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsdt/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsdt.100101-115012.nc",
+                "varin": "SOLIN"
+            }
+        }
+    },
+    "rsns": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ba4307a45e3f8e3f67e33ab5ced2c797",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:17:22 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsns.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsns/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsns.000101-015012.nc",
+                "varin": "FSNS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "91839271af93b266da5895e716e75a4b",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:11:21 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsns.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsns/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsns.000101-015012.nc",
+                "varin": "FSNS"
+            }
+        }
+    },
+    "rsnscs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1607a3b5eb21271761f3d2744c276dfd",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:17:28 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsnscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsnscs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsnscs.000101-015012.nc",
+                "varin": "FSNSC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "189cbec2c9189905ded612f03625d972",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:11:25 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsnscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsnscs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsnscs.000101-015012.nc",
+                "varin": "FSNSC"
+            }
+        }
+    },
+    "rsnt": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "edf635a795c655abd0f97ad8a81535df",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:17:42 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsnt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsnt/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsnt.000101-015012.nc",
+                "varin": "FSNT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e22ebf1dc7cc5224fc93fa16046958ec",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:15:43 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsnt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsnt/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsnt.000101-015012.nc",
+                "varin": "FSNT"
+            }
+        }
+    },
+    "rsntcs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d74b3ef0439d3b0222b445e55e002a46",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:17:58 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsntcs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsntcs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsntcs.000101-015012.nc",
+                "varin": "FSNTC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e677d8672f01c2de076a2229f8b7e5ff",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:19:43 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsntcs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsntcs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsntcs.000101-015012.nc",
+                "varin": "FSNTC"
+            }
+        }
+    },
+    "rsntoa": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "8184490c2438dbd1b49d1d72900493d7",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:18:14 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsntoa.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsntoa/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsntoa.000101-015012.nc",
+                "varin": "FSNTOA"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d0b3363c03beece71b2a7f74dedd6961",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:23:58 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsntoa.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsntoa/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsntoa.000101-015012.nc",
+                "varin": "FSNTOA"
+            }
+        }
+    },
+    "rsntoacs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "db535cf4a89ee46231753719d1ffdc90",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:18:28 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsntoacs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsntoacs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsntoacs.000101-015012.nc",
+                "varin": "FSNTOAC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "4353473b45b87eaaa4d343b1b49b5d53",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 19:28:34 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsntoacs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsntoacs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsntoacs.000101-015012.nc",
+                "varin": "FSNTOAC"
+            }
+        }
+    },
+    "rstcre": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "c6b654eda2dea281b836edf89ebbcb56",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:31 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rstcre.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rstcre/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rstcre.000101-015012.nc",
+                "varin": "SWCRE"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "cb060fe52908ad64ab6531c94c3118c6",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:35 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rstcre.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rstcre/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rstcre.100101-115012.nc",
+                "varin": "SWCRE"
+            }
+        }
+    },
+    "rstcre_srf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "994b99feb5c9da19c0b8a7c773b6ad11",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:27:28 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rstcre_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rstcre_srf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rstcre_srf.000101-015012.nc",
+                "varin": "SWCRE_SRF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "517a0d26f352898fec279c977be00cb7",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:32:10 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rstcre_srf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rstcre_srf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rstcre_srf.000101-015012.nc",
+                "varin": "SWCRE_SRF"
+            }
+        }
+    },
+    "rsus": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a4c0aeb00a00cc6e4ca5b3a8b2d1408a",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:28:21 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsus.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsus/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsus.000101-015012.nc",
+                "varin": "FSUS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7b14462c4766da8209da3a1a18f57909",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:28:27 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsus.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsus/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsus.100101-115012.nc",
+                "varin": "FSUS"
+            }
+        }
+    },
+    "rsuscs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "873cf2ee0a2799b8fe97a143529a5451",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:28:30 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsuscs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsuscs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsuscs.000101-015012.nc",
+                "varin": "FSUSC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1b2027dada5104d098eb4f90fd431c42",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:28:35 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsuscs.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsuscs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsuscs.100101-115012.nc",
+                "varin": "FSUSC"
+            }
+        }
+    },
+    "rsut": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "862020672c042577562302c60ac3a1ad",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:39 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsut.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsut/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsut.000101-015012.nc",
+                "varin": "FSUTOA"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "230e0d07d080f8f0b640c6442ced1497",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:44 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsut.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsut/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsut.100101-115012.nc",
+                "varin": "FSUTOA"
+            }
+        }
+    },
+    "rsutcs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e8a24c145d101dbb99a617d1fb87e713",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:48 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsutcs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsutcs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rsutcs.000101-015012.nc",
+                "varin": "FSUTOAC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "03838f7a88c95eaa0a61eeae31acdd4e",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:27:53 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsutcs.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rsutcs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rsutcs.100101-115012.nc",
+                "varin": "FSUTOAC"
+            }
+        }
+    },
+    "rswcf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ce6f49563620db4e99b5583b9081d9bc",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:27:17 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rswcf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rswcf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rswcf.000101-015012.nc",
+                "varin": "SWCF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f2cb61b328834dfc3656abd5c51d646c",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:32:07 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rswcf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rswcf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rswcf.000101-015012.nc",
+                "varin": "SWCF"
+            }
+        }
+    },
+    "rtmt": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2d6a127cb472ef961a1a100d984e1ba2",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:27:57 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rtmt.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rtmt/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.rtmt.000101-015012.nc",
+                "varin": "RESTOA"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "5180c11f77c38205c5c4aa0d7cd30c30",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:28:03 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rtmt.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/rtmt/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.rtmt.100101-115012.nc",
+                "varin": "RESTOA"
+            }
+        }
+    },
+    "sco": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2ef8c60c277eb17a453e048bfc305348",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:24:30 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sco.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sco/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sco.000101-015012.nc",
+                "varin": "SCO"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3174851a466239dd84b727529cce5c01",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:47:00 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sco.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sco/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sco.000101-015012.nc",
+                "varin": "SCO"
+            }
+        }
+    },
+    "sf": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "cf004c7bbefbc0cac30b724791306edb",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:24:31 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 29, 180)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sf/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sf.000101-015012.nc",
+                "varin": "SF"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "41586ab3839476b1cdc5c222fe3894e6",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:47:00 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sf.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 29, 180)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sf/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sf.000101-015012.nc",
+                "varin": "SF"
+            }
+        }
+    },
+    "sfcWind": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "91d2f1c9885e01ce0e4a7322054a7340",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:54 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sfcWind.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sfcWind/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sfcWind.000101-015012.nc",
+                "varin": "S10"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ed9f8b4cc3d9c02eef9ca9da7cf4e554",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:24:58 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sfcWind.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sfcWind/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sfcWind.100101-115012.nc",
+                "varin": "S10"
+            }
+        }
+    },
+    "sfo3": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "63eb618faf7015fe3a5de7af83fd6744",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:24:51 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sfo3.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sfo3/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sfo3.000101-015012.nc",
+                "varin": "SFO3"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "85273a0dcb670618319525f10d8f1fcf",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:51:15 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sfo3.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/sfo3/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sfo3.000101-015012.nc",
+                "varin": "SFO3"
+            }
+        }
+    },
+    "sic": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "c3bb399787f638188d956b259cd27fe7",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:22:37 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sic.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/sic/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.sic.000101-015012.nc",
+                "varin": "SICONC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "4752489ffdb7951e60585462104a52e0",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:22:43 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sic.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/sic/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.sic.100101-115012.nc",
+                "varin": "SICONC"
+            }
+        }
+    },
+    "snd": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "95fd9d26c75db866c1758265ffe4e27f",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:25:41 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snd.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snd/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snd.000101-015012.nc",
+                "varin": "SNOWDP"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "2d3e825ddd4e4b4ae56dcda4df54bfc5",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:18:07 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snd.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snd/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snd.000101-015012.nc",
+                "varin": "SNOWDP"
+            }
+        }
+    },
+    "snfrac": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "bcee617b6ebe0f6a58083f3ffc807b32",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:25:11 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snfrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snfrac/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snfrac.000101-015012.nc",
+                "varin": "SNFRAC"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "4dc29a9984a9426c75e214f6d4337fac",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:10:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snfrac.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snfrac/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snfrac.000101-015012.nc",
+                "varin": "SNFRAC"
+            }
+        }
+    },
+    "snhice": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "9bdb6ecba39e907fe794703e9e787db1",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:25:56 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snhice.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snhice/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snhice.000101-015012.nc",
+                "varin": "SNOWHICE"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "4fa115fa923b2957c06824a4c6ab6155",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:21:42 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snhice.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snhice/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snhice.000101-015012.nc",
+                "varin": "SNOWHICE"
+            }
+        }
+    },
+    "snhlnd": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "f1c83a4671d77d7d43940bffc1753d41",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:26:33 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snhlnd.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snhlnd/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snhlnd.000101-015012.nc",
+                "varin": "SNOWHLND"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "a595166553f5e7dcdd702f423a52126d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:24:55 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snhlnd.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snhlnd/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snhlnd.000101-015012.nc",
+                "varin": "SNOWHLND"
+            }
+        }
+    },
+    "snow": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "13f9950881e39215692e1081bc21ac53",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:25:26 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snow.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snow/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.snow.000101-015012.nc",
+                "varin": "SNOW"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "2501e8ee623564e07891af7dcac54cd8",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:14:25 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snow.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/snow/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.snow.000101-015012.nc",
+                "varin": "SNOW"
+            }
+        }
+    },
+    "soilwater": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "3571e9d0e1d141d35eca668e3365a6cf",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:26:47 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.soilwater.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/soilwater/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.soilwater.000101-015012.nc",
+                "varin": "SOILWATER"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Lmon",
+                "MD5sum": "95be51c7fe1c821d41de897e459e1054",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:28:13 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.soilwater.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Lmon/soilwater/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.soilwater.000101-015012.nc",
+                "varin": "SOILWATER"
+            }
+        }
+    },
+    "ta850": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "52ecce4f76dc2da14cf291cd64fab72a",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:21 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ta850.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ta850/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ta850.000101-015012.nc",
+                "varin": "T850"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3c8fc1ce0673aca1ad3c178551a4d001",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:23 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ta850.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ta850/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ta850.100101-115012.nc",
+                "varin": "T850"
+            }
+        }
+    },
+    "tas": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "faff03f93dd5dc3c74bbed5ccfa681f6",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:22:59 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tas.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tas/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tas.000101-015012.nc",
+                "varin": "TREFHT"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7e1c2b22a4b50fa9d21ce8e7ca96cffb",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:03 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tas.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tas/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tas.100101-115012.nc",
+                "varin": "TREFHT"
+            }
+        }
+    },
+    "tasmax": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a511aab0ae4d1d3fd7b328a384057a69",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:29:55 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tasmax.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tasmax/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tasmax.000101-015012.nc",
+                "varin": "TREFMXAV"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1fe83c182219324d03ca2749a4e7b0de",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:56:11 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tasmax.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tasmax/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tasmax.000101-015012.nc",
+                "varin": "TREFMXAV"
+            }
+        }
+    },
+    "tasmin": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7851d93668fc22bac12939045bddcbe0",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:29:27 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tasmin.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tasmin/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tasmin.000101-015012.nc",
+                "varin": "TREFMNAV"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "36e412229e41f04ce2ea15453ab975d1",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:52:25 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tasmin.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tasmin/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tasmin.000101-015012.nc",
+                "varin": "TREFMNAV"
+            }
+        }
+    },
+    "tauu": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "c044c5436eea12423a460b5d70975cb6",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:15 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tauu.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tauu/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tauu.000101-015012.nc",
+                "varin": "TAUX"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "5e35c7b597be4789bbed9faa95afe986",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:20 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tauu.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tauu/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tauu.100101-115012.nc",
+                "varin": "TAUX"
+            }
+        }
+    },
+    "tauv": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "4a5a4685f3fb8ee04c4705ad1f89cad1",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:23:20 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tauv.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tauv/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tauv.000101-015012.nc",
+                "varin": "TAUY"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a511f06099e1b85fa29eac92e547eaae",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:23:25 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tauv.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tauv/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tauv.100101-115012.nc",
+                "varin": "TAUY"
+            }
+        }
+    },
+    "tco": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "df7355863c708e8e0ed6830baaa18455",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:28:23 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tco.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tco/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tco.000101-015012.nc",
+                "varin": "TCO"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f9f1465aeffa6dff273b5ca9638a15cc",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:40:24 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tco.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tco/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tco.000101-015012.nc",
+                "varin": "TCO"
+            }
+        }
+    },
+    "tguu": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "a71e38616eb5ce424682d4f834a1b222",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:27:47 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tguu.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tguu/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tguu.000101-015012.nc",
+                "varin": "TAUGWX"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d49cf0c561b4d13ffb7c59eff0966236",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:36:29 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tguu.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tguu/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tguu.000101-015012.nc",
+                "varin": "TAUGWX"
+            }
+        }
+    },
+    "tguv": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "23a51d7588e9d461a7d3975fea755673",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:28:06 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tguv.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tguv/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tguv.000101-015012.nc",
+                "varin": "TAUGWY"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "b150218cfaf74078ab00355ee33a3c76",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:40:16 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tguv.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tguv/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tguv.000101-015012.nc",
+                "varin": "TAUGWY"
+            }
+        }
+    },
+    "th7001000": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7f51480449c4cce01c7a8145df93d6ad",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:29:01 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.th7001000.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/th7001000/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.th7001000.000101-015012.nc",
+                "varin": "TH7001000"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1fb64afa6a2f72b8ca1b111b659dda2d",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 21:48:26 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.th7001000.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/th7001000/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.th7001000.000101-015012.nc",
+                "varin": "TH7001000"
+            }
+        }
+    },
+    "tos": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "d4d64433b099bcc3b1a430bec0f5886e",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:22:46 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tos.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/tos/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tos.000101-015012.nc",
+                "varin": "SST"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Omon",
+                "MD5sum": "e45cd80fb3dae381ebeff63fd717b7a8",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:22:51 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tos.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Omon/tos/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tos.100101-115012.nc",
+                "varin": "SST"
+            }
+        }
+    },
+    "ts": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "3d127b5b9dff29173bc49159136b95ac",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:22:52 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ts.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ts/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ts.000101-015012.nc",
+                "varin": "TS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "47bf3462ef1a8dd78e7adbf6e7e7fd75",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:22:58 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ts.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ts/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ts.100101-115012.nc",
+                "varin": "TS"
+            }
+        }
+    },
+    "tsmax": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ac844c25e992b895bf610385da9755d6",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:30:38 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tsmax.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tsmax/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tsmax.000101-015012.nc",
+                "varin": "TSMX"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "16189798e969528ecdfa1344b794bfff",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 22:04:41 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tsmax.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tsmax/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tsmax.000101-015012.nc",
+                "varin": "TSMX"
+            }
+        }
+    },
+    "tsmin": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "54c8b3100534ee18613abe463f941066",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:30:24 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tsmin.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tsmin/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tsmin.000101-015012.nc",
+                "varin": "TSMN"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "b2d3debd3d4e1218430f139f5c35ff1b",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 22:00:24 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tsmin.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tsmin/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tsmin.000101-015012.nc",
+                "varin": "TSMN"
+            }
+        }
+    },
+    "tuh": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "53a15286882413b559e51f06db58d7bf",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:30:52 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tuh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tuh/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tuh.000101-015012.nc",
+                "varin": "TUH"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "299d5da35dc00398a9e3c3ee8140a5b9",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 22:08:47 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tuh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tuh/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tuh.000101-015012.nc",
+                "varin": "TUH"
+            }
+        }
+    },
+    "tuq": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "b66a3d014a2c015560cea2a19885fd5b",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:31:08 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tuq.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tuq/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tuq.000101-015012.nc",
+                "varin": "TUQ"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ad284974c02c9c6d973d2de6bf51fefe",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 22:13:10 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tuq.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tuq/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tuq.000101-015012.nc",
+                "varin": "TUQ"
+            }
+        }
+    },
+    "tvh": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d03be24a5a91affb0fc2a03e3a860312",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:31:23 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tvh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tvh/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tvh.000101-015012.nc",
+                "varin": "TVH"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f99c284fa20f4aa9d26235b934633225",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 22:16:44 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tvh.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tvh/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tvh.000101-015012.nc",
+                "varin": "TVH"
+            }
+        }
+    },
+    "tvq": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "20021cc5353090ab5adcd86fd8fd192c",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:31:39 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tvq.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tvq/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.tvq.000101-015012.nc",
+                "varin": "TVQ"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2033480587e6422239560a1016c2be10",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 22:20:50 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tvq.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/tvq/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.tvq.000101-015012.nc",
+                "varin": "TVQ"
+            }
+        }
+    },
+    "ua200": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "991acb2b39f9912a02727b366b04c58a",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:24 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ua200.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ua200/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ua200.000101-015012.nc",
+                "varin": "U200"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e45d85cfd0c9c97452f38e1bd2ed5b81",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:27 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ua200.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ua200/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ua200.100101-115012.nc",
+                "varin": "U200"
+            }
+        }
+    },
+    "ua850": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "7a29396f0f8ca7e74778bf967fd17cf5",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:12 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ua850.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ua850/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.ua850.000101-015012.nc",
+                "varin": "U850"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "67591ac4eea98be458b4120b6fccec94",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:17 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ua850.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/ua850/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.ua850.100101-115012.nc",
+                "varin": "U850"
+            }
+        }
+    },
+    "uas": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "fa08d6441f074ce3f749c16b66a41f9b",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:24:59 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.uas.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/uas/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.uas.000101-015012.nc",
+                "varin": "U10"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "da897ce59265f0122e9714655c011fb7",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:06 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.uas.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/uas/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.uas.100101-115012.nc",
+                "varin": "U10"
+            }
+        }
+    },
+    "va200": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1e9040573bff5c626feb4d8d4322885d",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:27 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.va200.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/va200/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.va200.000101-015012.nc",
+                "varin": "V200"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "5f65721cc59a8ada8bf2de602a7c91ef",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:32 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.va200.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/va200/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.va200.100101-115012.nc",
+                "varin": "V200"
+            }
+        }
+    },
+    "va850": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "975549c76f8db7ead79feea61ffcd02d",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:17 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.va850.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/va850/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.va850.000101-015012.nc",
+                "varin": "V850"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "1dcb0303bb2ed2b0e2d94e45112c1ead",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:20 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.va850.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/va850/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.va850.100101-115012.nc",
+                "varin": "V850"
+            }
+        }
+    },
+    "vas": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d826f73e42dd6459ca81472bf6f1f4b8",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:07 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.vas.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/vas/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.vas.000101-015012.nc",
+                "varin": "V10"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "36f7d6be59e64f57c586977a810592a2",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:11 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.vas.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/vas/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.vas.100101-115012.nc",
+                "varin": "V10"
+            }
+        }
+    },
+    "wa500": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "d6ce704bd6afba915058a75996159598",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:42 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.wa500.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/wa500/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.wa500.000101-015012.nc",
+                "varin": "OMEGA500"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "ebf5087b478e0e09754422f0511e0b39",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:47 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.wa500.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/wa500/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.wa500.100101-115012.nc",
+                "varin": "OMEGA500"
+            }
+        }
+    },
+    "zg500": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "60753aa1a76d14217d6cbade2ae387ac",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Thu Jul  4 23:25:32 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.zg500.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/zg500/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.zg500.000101-015012.nc",
+                "varin": "Z500"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "2ba0079a913f980dbbe3b535d9d195f6",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 23:25:38 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.zg500.100101-115012.nc",
+                "period": "100101-115012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/zg500/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.zg500.100101-115012.nc",
+                "varin": "Z500"
+            }
+        }
+    },
+    "zs": {
+        "v2_1-LR": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "e517310ef861eda8d3f8fc0bd8ccb6a4",
+                "RefName": "v2_1-LR",
+                "RefTrackingDate": "Tue Jul  2 22:22:07 2024",
+                "filename": "e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.zs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/zs/e3sm.abrupt-4xCO2.v2_1-LR.0101.mon.zs.000101-015012.nc",
+                "varin": "PHIS"
+            }
+        },
+        "v3atm_v21ocn": {
+            "0101": {
+                "CMIP_CMOR_TABLE": "Amon",
+                "MD5sum": "f9794d92159991accfd83a7b601fbe2f",
+                "RefName": "v3atm_v21ocn",
+                "RefTrackingDate": "Thu Jul  4 20:01:52 2024",
+                "filename": "e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.zs.000101-015012.nc",
+                "period": "000101-015012",
+                "shape": "(1800, 180, 360)",
+                "template": "e3sm/abrupt-4xCO2/Amon/zs/e3sm.abrupt-4xCO2.v3atm_v21ocn.0101.mon.zs.000101-015012.nc",
+                "varin": "PHIS"
+            }
+        }
+    }
+}

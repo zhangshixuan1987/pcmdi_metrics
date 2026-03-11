@@ -1,0 +1,5394 @@
+{
+    "clivi": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "clt": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "clwvi": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "evspsbl": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "frwflx": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "hfls": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "hfns": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "hfrad": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "hfradcs": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "hfss": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "FIO-ESM-2-0",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "hftot": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "hftur": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "hur": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "hus": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "huss": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "mrros": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "pr": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "prc": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "SAM0-UNICON"
+            ],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "prsn": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "prw": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "ps": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "psl": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "FIO-ESM-2-0",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rlds": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rldscs": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rltcre": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rlus": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rlut": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rlutcs": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rmt": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsds": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsdscs": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsdt": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rstcre": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsus": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsuscs": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsut": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rsutcs": {
+        "analysis": {
+            "era5": [],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "rtmt": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "NCC_NorESM2-LM",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "sfcWind": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "sic": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "FIO-ESM-2-0",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "sos": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "ta": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "ta_200": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "ta_850": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "tas": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "FIO-ESM-2-0",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "tauu": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "tauv": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "tos": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "ts": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "E3SM-1-0",
+                "E3SM-1-1",
+                "E3SM-1-1-ECA",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "FGOALS-g3",
+                "GFDL-CM4",
+                "GFDL-ESM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NCC_NorESM2-LM",
+                "NESM3",
+                "NorCPM1",
+                "NorESM2-MM",
+                "SAM0-UNICON",
+                "TaiESM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "ua": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "ua_200": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "ua_850": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "uas": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CIESM",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "KAzki8CE-1-0-G",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "va": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "va_200": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "va_850": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "vas": {
+        "analysis": {
+            "era5": [
+                "en00",
+                "en01",
+                "en02",
+                "en03",
+                "en04",
+                "en05",
+                "en06",
+                "en07",
+                "en08",
+                "en09",
+                "en10"
+            ],
+            "noaa": [
+                "en00"
+            ]
+        },
+        "cmip6": {
+            "amip": [
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CESM2",
+                "CESM2-FV2",
+                "CESM2-WACCM",
+                "CESM2-WACCM-FV2",
+                "CMCC-CM2-SR5",
+                "CanESM5",
+                "E3SM-1-0",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "IPSL-CM6A-LR",
+                "MPI-ESM1-2-HR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1",
+                "SAM0-UNICON"
+            ],
+            "historical": [
+                "ACCESS-CM2",
+                "ACCESS-ESM1-5",
+                "AWI-ESM-1-1-LR",
+                "AWI_AWI-CM-1-1-MR",
+                "BCC-CSM2-MR",
+                "BCC-ESM1",
+                "CAMS-CSM1-0",
+                "CAS_CAS-ESM2-0",
+                "CAS_FGOALS-f3-L",
+                "CCCma_CanESM5-1",
+                "CMCC-CM2-SR5",
+                "CMCC_CMCC-CM2-HR4",
+                "CanESM5",
+                "EC-Earth3",
+                "EC-Earth3-Veg",
+                "GFDL-CM4",
+                "GISS-E2-1-G",
+                "GISS-E2-1-G-CC",
+                "GISS-E2-1-H",
+                "INM-CM4-8",
+                "INM-CM5-0",
+                "IPSL-CM6A-LR",
+                "IPSL_IPSL-CM5A2-INCA",
+                "MCM-UA-1-0",
+                "MIROC6",
+                "MPI-ESM-1-2-HAM",
+                "MPI-ESM1-2-HR",
+                "MPI-ESM1-2-LR",
+                "MRI-ESM2-0",
+                "NESM3",
+                "NorCPM1"
+            ]
+        },
+        "e3sm": {
+            "1pctCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "abrupt-4xCO2": [
+                "v2_1",
+                "v3atm_v21ocn"
+            ],
+            "amip": [
+                "v2",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha02_L80_Bi_E2r2",
+                "v3atm_v21ocn"
+            ],
+            "historical": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3atm_v21ocn",
+                "v3b02_E3r2"
+            ],
+            "piControl": [
+                "v2",
+                "v2_1",
+                "v2_1-SORRM",
+                "v2_1-SORRM-p0",
+                "v3",
+                "v3alpha02_Bi_E2r2",
+                "v3alpha04_Bi_E2r2",
+                "v3alpha04_E2r2",
+                "v3alpha04_E3r2",
+                "v3alpha04_L80_E2r2",
+                "v3atm_v21ocn",
+                "v3b01_E3r2",
+                "v3b01_E3r2_AB2",
+                "v3b02_ICOS30",
+                "v3b02_ICOS30_Smth"
+            ],
+            "ssp370": [
+                "v2_1-SORRM"
+            ]
+        }
+    },
+    "wa_500": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "wap": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "zg": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "zg_500": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "zg_700": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    },
+    "zos": {
+        "analysis": {
+            "era5": [],
+            "noaa": []
+        },
+        "cmip6": {
+            "amip": [],
+            "historical": []
+        },
+        "e3sm": {
+            "1pctCO2": [],
+            "abrupt-4xCO2": [],
+            "amip": [],
+            "historical": [],
+            "piControl": [],
+            "ssp370": []
+        }
+    }
+}
