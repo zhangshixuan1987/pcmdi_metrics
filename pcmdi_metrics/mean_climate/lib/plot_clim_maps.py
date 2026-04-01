@@ -145,6 +145,7 @@ def plot_climatology_diff(
         ax.set_global()
 
         # Find the longitude index and add the cyclic point
+        # https://gist.github.com/darothen/c7560d8d19ffca90024c1f2df4927599
         lon = ds_test[lon_key]
         lon_idx = da_plot.dims.index(lon_key)
         wrap_data, wrap_lon = add_cyclic_point(da_plot.values, coord=lon, axis=lon_idx)
@@ -436,6 +437,7 @@ def plot_climatology(
         ax.set_global()
 
         # Find the longitude index and add the cyclic point
+        # https://gist.github.com/darothen/c7560d8d19ffca90024c1f2df4927599
         lon = da_season[lon_key]
         lon_idx = da_season.dims.index(lon_key)
         wrap_data, wrap_lon = add_cyclic_point(
@@ -680,7 +682,9 @@ def _add_gridlines(ax):
         linestyle=":",
     )
     gl.top_labels = False
+    gl.bottom_labels = True
     gl.left_labels = True
+    gl.right_labels = False
     gl.xformatter = LONGITUDE_FORMATTER
     gl.yformatter = LATITUDE_FORMATTER
     gl.xlabel_style = {"size": 9, "color": "gray"}
