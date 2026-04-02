@@ -117,9 +117,7 @@ def compute_rv_for_model(
         return_value = xr.zeros_like(ds)
     else:
         return_value = xr.zeros_like(ds.isel({"time": 0}))
-        # return_value = return_value.drop(labels=["time"])
         return_value = return_value.drop_vars(["time"], errors="ignore")
-    # return_value.drop(labels=["lon_bnds", "lat_bnds", "time_bnds"])
     return_value = return_value.drop_vars(
         ["lon_bnds", "lat_bnds", "time_bnds"], errors="ignore"
     )
@@ -282,9 +280,7 @@ def get_dataset_rv(ds, cov_filepath, cov_varname, return_period=20, maxes=True):
         return_value = xr.zeros_like(ds)
     else:
         return_value = xr.zeros_like(ds.isel({"time": 0}))
-        # return_value = return_value.drop(labels=["time"])
         return_value = return_value.drop_vars(["time"], errors="ignore")
-    # return_value.drop(labels=["lon_bnds", "lat_bnds", "time_bnds"])
     return_value = return_value.drop_vars(
         ["lon_bnds", "lat_bnds", "time_bnds"], errors="ignore"
     )
