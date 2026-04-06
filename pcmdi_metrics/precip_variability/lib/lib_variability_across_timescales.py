@@ -623,6 +623,5 @@ def prdday_to_frqidx(prdday, frequency, ntd):
     - idx: frequency index
     """
     frq = 1.0 / (float(prdday) * ntd)
-    # idx = (np.abs(frequency - frq)).argmin()
     idx = np.abs(frequency - frq).values.argmin()
     return int(idx)
