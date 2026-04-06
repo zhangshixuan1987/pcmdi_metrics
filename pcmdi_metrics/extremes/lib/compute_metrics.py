@@ -109,6 +109,7 @@ class SeasonalAverager:
                     - self.del1d,
                     freq="D",
                     calendar=cal,
+                    use_cftime=True,
                 )
                 for year in year_range
             ]
@@ -197,6 +198,7 @@ class SeasonalAverager:
                         - self.del1d,
                         freq="D",
                         calendar=cal,
+                        use_cftime=True,
                     )
                     for year in year_range
                 ]
@@ -209,6 +211,7 @@ class SeasonalAverager:
                         - self.del1d,
                         freq="D",
                         calendar=cal,
+                        use_cftime=True,
                     )
                     for year in year_range
                 ]
@@ -221,6 +224,7 @@ class SeasonalAverager:
                     - self.del1d,
                     freq="D",
                     calendar=cal,
+                    use_cftime=True,
                 )
                 for year in year_range
             ]
@@ -262,6 +266,7 @@ class SeasonalAverager:
                     - self.del1d,
                     freq="D",
                     calendar=cal,
+                    use_cftime=True,
                 )
                 for year in year_range
             ]
