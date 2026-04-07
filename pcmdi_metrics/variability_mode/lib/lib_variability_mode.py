@@ -232,6 +232,7 @@ def read_data_in(
         data_timeseries = apply_landmask(data_timeseries, landfrac=landfrac)
 
     ds_time_subsetted[var_in_data] = data_timeseries
+    # ds_time_subsetted = ds_time_subsetted.merge(data_timeseries.rename(var_in_data))  #, compat='override')
 
     return ds_time_subsetted
 
