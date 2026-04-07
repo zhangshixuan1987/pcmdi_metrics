@@ -29,7 +29,6 @@ dependencies:
     - cmocean
     - xclim
     - pandas <3.0.0
-    - xarray <=2026.01.0
     # ==================
     # Testing
     # ==================
