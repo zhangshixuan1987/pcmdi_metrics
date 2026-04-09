@@ -12,7 +12,15 @@ import xarray as xr
 import xcdat as xc
 
 import pcmdi_metrics
-from pcmdi_metrics.io import get_time, select_subset, xcdat_open
+from pcmdi_metrics.io import (
+    get_latitude_bounds_key,
+    get_latitude_key,
+    get_longitude_bounds_key,
+    get_longitude_key,
+    get_time,
+    select_subset,
+    xcdat_open,
+)
 from pcmdi_metrics.utils import apply_landmask, check_monthly_time_axis
 
 
@@ -182,6 +190,29 @@ def read_data_in(
 ) -> xr.Dataset:
     # Open data file
     ds = xcdat_open(path, chunks=None)
+
+    # Standardize coordinate names
+    lat_key = get_latitude_key(ds)
+    lon_key = get_longitude_key(ds)
+    lat_bnds_key = get_latitude_bounds_key(ds)
+    lon_bnds_key = get_longitude_bounds_key(ds)
+
+    if lat_key != "lat":
+        ds = ds.rename(name_dict={lat_key: "lat"})
+
+    if lon_key != "lon":
+        ds = ds.rename(name_dict={lon_key: "lon"})
+
+    if lat_bnds_key != "lat_bnds":
+        ds = ds.rename(name_dict={lat_bnds_key: "lat_bnds"})
+        ds["lat"].attrs["bounds"] = "lat_bnds"
+
+    if lon_bnds_key != "lat_bnds":
+        ds = ds.rename(name_dict={lon_bnds_key: "lon_bnds"})
+        ds["lon"].attrs["bounds"] = "lon_bnds"
+
+    # Adjust lon axis -- make sure they are 0-360 to begin with
+    ds = xc.swap_lon_axis(ds, (0, 360))
 
     # Data QC check -- time axis check
     check_monthly_time_axis(ds)
