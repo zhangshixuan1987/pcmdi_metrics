@@ -15,6 +15,7 @@ import pcmdi_metrics
 from pcmdi_metrics.io import (
     get_latitude_bounds_key,
     get_latitude_key,
+    get_longitude,
     get_longitude_bounds_key,
     get_longitude_key,
     get_time,
@@ -212,7 +213,8 @@ def read_data_in(
         ds["lon"].attrs["bounds"] = "lon_bnds"
 
     # Adjust lon axis -- make sure they are 0-360 to begin with
-    ds = xc.swap_lon_axis(ds, (0, 360))
+    if get_longitude(ds).values.min() < 0:
+        ds = xc.swap_lon_axis(ds, (0, 360))
 
     # Data QC check -- time axis check
     check_monthly_time_axis(ds)
