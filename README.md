@@ -126,7 +126,7 @@ Release Notes and History
 
 | <div style="width:300%">[Versions]</div> | Update summary   |
 | ------------- | ------------------------------------- |
-| [v4.0.2]      | Technical update, to better comply with newer xarray versions
+| [v4.0.2]      | Technical update, to better comply with newer xarray versions and reduce dependencies by migrating external legacy code (cdp)
 | [v4.0.1]      | Technical update
 | [v4.0.0]      | Newerly support higher Python versions, `>= 3.10, < 3.14`
 
