@@ -243,8 +243,8 @@ def read_data_in(
 
     # Masking
     if (
-        (var_in_data.lower() in ["ts", "sst"])
-        or (var_to_consider.lower() in ["ts", "sst"])
+        (var_in_data.lower() in ["ts", "sst", "tos", "tosanom"])
+        or (var_to_consider.lower() in ["ts", "sst", "tos", "tosanom"])
         and LandMask
     ):
         # Replace temperature below -1.8 C to -1.8 C (sea ice)
