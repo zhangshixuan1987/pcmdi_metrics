@@ -189,7 +189,8 @@ def _subset(da, lat_range=LAT_RANGE, lon_intervals=LON_INTERVALS):
 
 
 def _read_da(path, var=VAR_NAME):
-    with xr.open_dataset(path, use_cftime=True) as ds:
+    time_coder = xr.coders.CFDatetimeCoder(use_cftime=True)
+    with xr.open_dataset(path, decode_times=time_coder) as ds:
         da = ds[var] if var in ds.data_vars else ds[list(ds.data_vars)[0]]
     if "mode" in da.dims:
         da = da.isel(mode=0)
@@ -258,7 +259,7 @@ def _load_model_triplets(eof_globs=None):
         "No EOF2 model files found. Either set MODEL_EOF_DIR/EOF_GLOBS in the "
         "CONFIG section, or pass eof_globs={2: ..., 3: ..., 4: ...} to "
         "eof_classification()."
-    )    
+    )
     for n in EOF_NUMS:
         assert len(file_lists[n]) == n_files, f"File count mismatch for EOF{n}."
     triplets = []
