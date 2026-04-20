@@ -146,7 +146,7 @@ Each row represents one EOF of one model and contains:
 | Consensus_label   | Majority-vote label (EA / SCA / UNCLASSIFIED)     |
 | Consensus_conf    | Consensus confidence [0, 1]                       |
 | Quality           | robust / medium / weak / very weak                |
-| Warning           | WARNING flag if quality is weak or very weak       |
+| Warning           | WARNING flag if quality is weak or very weak      |
 
 ---
 

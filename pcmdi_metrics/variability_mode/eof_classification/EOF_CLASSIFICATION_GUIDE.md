@@ -111,8 +111,8 @@ The tool requires three types of input, all in netCDF format:
 
 **Note**: By default, 'eof_classification()" runs on a single CMIP6 model
 included in 'data/example_eofs' so you can try the tool out of the box. This
-example data is for **demonstration only**. To classify your own data, 
-change 'MODEL_EOF_DIR' in the CONFIG section or pass 'eofs_globs' 
+example data is for **demonstration only**. To classify your own data,
+change 'MODEL_EOF_DIR' in the CONFIG section or pass 'eofs_globs'
 to 'eof_classification()' to point at your own files.
 
 ## Usage
