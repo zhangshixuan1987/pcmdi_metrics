@@ -129,7 +129,6 @@ Release Notes and History
 | [v4.0.2]      | Technical update, to better comply with newer xarray versions and reduce dependencies by migrating external legacy code (cdp)
 | [v4.0.1]      | Technical update
 | [v4.0.0]      | Newerly support higher Python versions, `>= 3.10, < 3.14`
-| [v4.0.0rc1]   | Pre-release of development version: Newerly support higher Python versions, `>= 3.10, < 3.14`
 
 
 <details>
@@ -137,6 +136,8 @@ Release Notes and History
   <summary>Click here for older versions</summary>
 
 | <div style="width:300%">[Versions]</div> | Update summary   |
+| ------------- | ------------------------------------- |
+| [v4.0.0rc1]   | Pre-release of development version: Newerly support higher Python versions, `>= 3.10, < 3.14`
 | ------------- | ------------------------------------- |
 | [v3.9.3]      | Technical update
 | [v3.9.2]      | Technical update
