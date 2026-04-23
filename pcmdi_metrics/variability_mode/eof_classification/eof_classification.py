@@ -299,6 +299,7 @@ def _regrid_align(eofs_dict, *ctrls):
     ctrl_arrs = list(aligned[3:])
     return eof_arrs, ctrl_arrs, lat, lon, w2d
 
+
 def _check_inversion(eof_da, ctrl_da):
     """Return True if the EOF is sign-inverted relative to the control."""
     eof_sub = _subset(eof_da)
@@ -308,6 +309,7 @@ def _check_inversion(eof_da, ctrl_da):
     lat = eof_al["lat"].values
     w2d = _coslat_w2d(lat, eof_al["lon"].size)
     return _wcor(eof_al.values, ctrl_al.values, w2d) < 0
+
 
 # =============================================================================
 # SUBSPACE HELPERS
@@ -971,8 +973,6 @@ def write_outputs(res_sub, res_corr, res_km, output_root=None, consensus_results
         "confidence is below 0.5 and the sign should be verified manually."
     )
 
-
-
     # -- Consensus table --
     header = [
         "Model",
@@ -1022,7 +1022,6 @@ def write_outputs(res_sub, res_corr, res_km, output_root=None, consensus_results
                     note,
                 ]
             )
-
 
     # TSV (note as comment header)
     with open(out_tsv, "w", newline="") as f:
@@ -1135,8 +1134,6 @@ def eof_classification(
         EA_ctrl, SCA_ctrl, triplets, kmeans_centers_file=kmeans_centers_file
     )
 
-
-
     # Build and return consensus results dict
     triplet_dict = {name: eofs for name, eofs in triplets}
 
@@ -1169,8 +1166,13 @@ def eof_classification(
                 },
             }
 
-    write_outputs(res_sub, res_corr, res_km, output_root=output_root,
-                  consensus_results=consensus_results)
+    write_outputs(
+        res_sub,
+        res_corr,
+        res_km,
+        output_root=output_root,
+        consensus_results=consensus_results,
+    )
 
     return consensus_results
 
