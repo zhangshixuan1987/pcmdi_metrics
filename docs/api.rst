@@ -18,7 +18,7 @@ Analysis
 .. autosummary::
     :toctree: generated/
 
-    variability_mode.eof_classification.eof_classification
+    variability_mode.eof_classification
 
 
 Custom calendars
