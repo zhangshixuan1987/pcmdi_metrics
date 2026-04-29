@@ -870,17 +870,21 @@ def multiportraitplot(
             if highlight is True:
                 # find the metric color
                 if txt in met_o1 or txt + "_1" in met_o1 or txt + "_2" in met_o1:
-                    #cc = "yellowgreen" ; alpha=1.0
-                    cc = "#66c2a5"; alpha=0.45  #teal / sea-green (102, 194, 165)
+                    # cc = "yellowgreen" ; alpha=1.0
+                    cc = "#66c2a5"
+                    alpha = 0.45  # teal / sea-green (102, 194, 165)
                 elif txt in met_o2 or txt + "_1" in met_o2 or txt + "_2" in met_o2:
-                    #cc = "plum"; alpha=1.0
-                    cc = "#8da0cb"; alpha=0.45  #muted blue / lavender-blue (141, 160, 203) 
+                    # cc = "plum"; alpha=1.0
+                    cc = "#8da0cb"
+                    alpha = 0.45  # muted blue / lavender-blue (141, 160, 203)
                 elif txt in met_o3 or txt + "_1" in met_o3 or txt + "_2" in met_o3:
-                    #cc = "gold"; alpha=1.0
-                    cc = "#fc8d62"; alpha=0.45 #soft orange / coral  (252, 141, 98)
+                    # cc = "gold"; alpha=1.0
+                    cc = "#fc8d62"
+                    alpha = 0.45  # soft orange / coral  (252, 141, 98)
                 else:
-                    #cc = "turquoise"; alpha=1.0 
-                    cc = "#e78ac3"; alpha=0.45 # pink / orchid (231, 138, 195) 
+                    # cc = "turquoise"; alpha=1.0
+                    cc = "#e78ac3"
+                    alpha = 0.45  # pink / orchid (231, 138, 195)
                 # write highlighted metric name
                 ax.text(
                     ll + 0.5,
@@ -938,17 +942,21 @@ def multiportraitplot(
                 ]
                 if len(tmp2) > 0:
                     if uu == 0:
-                        #cc = "yellowgreen"; alpha=1.0
-                        cc = "#66c2a5"; alpha=0.45  #teal / sea-green (102, 194, 165)
+                        # cc = "yellowgreen"; alpha=1.0
+                        cc = "#66c2a5"
+                        alpha = 0.45  # teal / sea-green (102, 194, 165)
                     elif uu == 1:
-                        #cc = "plum"; alpha=1.0
-                        cc = "#8da0cb"; alpha=0.45  #muted blue / lavender-blue (141, 160, 203)
+                        # cc = "plum"; alpha=1.0
+                        cc = "#8da0cb"
+                        alpha = 0.45  # muted blue / lavender-blue (141, 160, 203)
                     elif uu == 2:
-                        #cc = "gold"; alpha=1.0
-                        cc = "#fc8d62"; alpha=0.45 #soft orange / coral  (252, 141, 98)
+                        # cc = "gold"; alpha=1.0
+                        cc = "#fc8d62"
+                        alpha = 0.45  # soft orange / coral  (252, 141, 98)
                     else:
-                        #cc = "turquoise"; alpha=1.0
-                        cc = "#e78ac3"; alpha=0.45 # pink / orchid (231, 138, 195) 
+                        # cc = "turquoise"; alpha=1.0
+                        cc = "#e78ac3"
+                        alpha = 0.45  # pink / orchid (231, 138, 195)
                     lic += [cc, cc]
                     lia += [alpha, alpha]
                     if nn > 0:
@@ -963,11 +971,23 @@ def multiportraitplot(
             for mm, (lc, ls, lx, ly, la) in enumerate(zip(lic, lis, lix, liy, lia)):
                 if mm < 2:
                     line = Line2D(
-                        [lx[0] + 0.05, lx[1]], ly, c=lc, lw=10, ls=ls, alpha=la, zorder=10
+                        [lx[0] + 0.05, lx[1]],
+                        ly,
+                        c=lc,
+                        lw=10,
+                        ls=ls,
+                        alpha=la,
+                        zorder=10,
                     )
                 elif mm > len(lis) - 3:
                     line = Line2D(
-                        [lx[0], lx[1] - 0.05], ly, c=lc, lw=10, ls=ls, alpha=la, zorder=10
+                        [lx[0], lx[1] - 0.05],
+                        ly,
+                        c=lc,
+                        lw=10,
+                        ls=ls,
+                        alpha=la,
+                        zorder=10,
                     )
                 else:
                     line = Line2D(lx, ly, c=lc, lw=10, ls=ls, alpha=la, zorder=10)
