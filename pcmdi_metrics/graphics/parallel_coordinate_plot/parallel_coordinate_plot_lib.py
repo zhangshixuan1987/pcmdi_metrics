@@ -324,13 +324,15 @@ def parallel_coordinate_plot(
                     hue="group",
                     split=True,
                     linewidth=0.1,
-                    scale="count",
-                    scale_hue=False,
+                    density_norm="count",  # replaces scale="count"
+                    common_norm=True,  # replaces scale_hue=False
                     palette={
                         group1_name: violin_colors[0],
                         group2_name: violin_colors[1],
                     },
                     cut=0,
+                    bw_adjust=2.0,
+                    gridsize=300,
                 )
 
     # Line or marker
